@@ -109,7 +109,7 @@ def crawl_single_page(url, spider, parser, downloader, doc_id_map):
         result["images_found"] = len(images)
         
         # 保存Markdown文件
-        filename = downloader.save_markdown(parsed_content['content'], title, MARKDOWN_DIR)
+        filename = downloader.save_markdown(parsed_content['content'], title, MARKDOWN_DIR, doc_id)
         if not filename:
             result["error"] = "Failed to save Markdown"
             return result

@@ -54,13 +54,14 @@ class Downloader:
             print(f"Error downloading image {img_url}: {e}")
             return None
     
-    def save_markdown(self, content, title, save_dir):
+    def save_markdown(self, content, title, save_dir, doc_id=None):
         """保存Markdown文件
         
         Args:
             content: Markdown内容
             title: 文件名
             save_dir: 保存目录
+            doc_id: 文档ID，用于处理重复标题
             
         Returns:
             保存的文件名
@@ -69,8 +70,13 @@ class Downloader:
             # 创建保存目录
             os.makedirs(save_dir, exist_ok=True)
             
-            # 生成文件名
-            filename = f"{title}.md"
+            # 生成文件名，处理重复标题
+            if doc_id:
+                # 使用文档ID作为后缀，确保文件名唯一
+                filename = f"{title}_{doc_id[:8]}.md"
+            else:
+                filename = f"{title}.md"
+            
             save_path = os.path.join(save_dir, filename)
             
             # 保存文件
