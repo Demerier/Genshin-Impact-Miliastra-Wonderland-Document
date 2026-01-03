@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 # Create logs directory if it doesn't exist
-LOGS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'logs')
+LOGS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'logs')
 os.makedirs(LOGS_DIR, exist_ok=True)
 
 # Log file name with timestamp

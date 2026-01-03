@@ -194,7 +194,7 @@ def generate_check_report(check_results):
         report += f"- 未发现明显问题\n"
     
     # 保存报告
-    report_path = os.path.join(DATA_DIR, "crawl_check_report.md")
+    report_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs", "reports", "crawl_check_report.md")
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report)
     

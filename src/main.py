@@ -9,22 +9,22 @@ import os
 import sys
 import json
 import logging
-from crawler.spider import Spider
-from crawler.parser import Parser
-from crawler.downloader import Downloader
+from .crawler.spider import Spider
+from .crawler.parser import Parser
+from .crawler.downloader import Downloader
 
 # 将项目根目录添加到Python路径
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
 # 导入配置模块的日志
-from config import logger
+from config import logger, config
 
 # 数据存储目录
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
 # URL列表文件路径
-URL_LIST_FILE = os.path.join(DATA_DIR, "url_list.txt")
+URL_LIST_FILE = os.path.join(DATA_DIR, "raw", "url_list.txt")
 # 文档ID映射表文件路径
-DOC_ID_MAP_FILE = os.path.join(DATA_DIR, "doc_id_map.json")
+DOC_ID_MAP_FILE = os.path.join(DATA_DIR, "processed", "doc_id_map.json")
 # Markdown保存目录
 MARKDOWN_DIR = os.path.join(DATA_DIR, "markdown")
 # 图片保存目录

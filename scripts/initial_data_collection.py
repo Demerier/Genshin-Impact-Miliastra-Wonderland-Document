@@ -20,9 +20,9 @@ START_URL = "https://act.mihoyo.com/ys/ugc/tutorial/detail/mh29wpicgvh0"
 # 数据存储目录
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
 # 映射表文件路径
-DOC_ID_MAP_FILE = os.path.join(DATA_DIR, "doc_id_map.json")
+DOC_ID_MAP_FILE = os.path.join(DATA_DIR, "processed", "doc_id_map.json")
 # 待爬取URL列表文件路径
-URL_LIST_FILE = os.path.join(DATA_DIR, "url_list.txt")
+URL_LIST_FILE = os.path.join(DATA_DIR, "raw", "url_list.txt")
 
 def main():
     """主函数"""

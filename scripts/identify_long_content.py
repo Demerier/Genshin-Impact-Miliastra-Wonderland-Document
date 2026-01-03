@@ -95,14 +95,14 @@ def generate_statistics_report(file_stats, long_content_files):
         report += "\n"
     
     # 保存报告
-    report_path = os.path.join(DATA_DIR, "long_content_report.md")
+    report_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs", "reports", "long_content_report.md")
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report)
     
     logger.info(f"极长内容识别报告已保存到: {report_path}")
     
     # 保存极长内容文件列表
-    long_content_list_path = os.path.join(DATA_DIR, "long_content_files.txt")
+    long_content_list_path = os.path.join(DATA_DIR, "processed", "long_content_files.txt")
     with open(long_content_list_path, 'w', encoding='utf-8') as f:
         for file_path in long_content_files:
             f.write(f"{file_path}\n")

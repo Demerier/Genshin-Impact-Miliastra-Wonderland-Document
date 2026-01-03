@@ -8,144 +8,160 @@
 
 ```
 markdown/
+├── config/              # 配置文件目录
+│   ├── __init__.py      # 配置模块初始化
+│   ├── crawl_config.json # 爬取配置
+│   └── logging_config.py # 日志配置
 ├── data/                # 数据存储目录
-│   ├── images/          # 下载的图片资源
+│   ├── raw/             # 原始数据
+│   │   └── url_list.txt # 爬取URL列表
+│   ├── processed/       # 处理后的数据
+│   │   ├── doc_id_map.json # 文档ID映射表
+│   │   ├── issue_tracking.json # 问题跟踪
+│   │   └── long_content_files.txt # 长内容文件列表
 │   ├── markdown/        # 爬取的Markdown文档
-│   ├── long_content_files.txt # 长内容文件列表
-│   ├── long_content_report.md # 长内容报告
-│   ├── project_summary_report.md # 项目总结报告
-│   └── url_list.txt     # 爬取URL列表
+│   └── images/          # 下载的图片资源
 ├── debug/               # 调试文件目录
-│   └── full_page.html   # 调试用的完整页面HTML
+│   ├── full_page.html   # 调试用的完整页面HTML
+│   └── debug_page.py    # 调试页面脚本
 ├── docs/                # 文档资料目录
-│   ├── CODE_REVIEW_GUIDELINES.md # 代码审查指南
-│   ├── COMMIT_GUIDELINES.md # 提交规范
-│   ├── DOCUMENT_CHANGE_NOTIFICATION.md # 文档变更通知
-│   ├── DOCUMENTATION_INDEX.md # 文档索引
-│   ├── TEST_REPORT.md   # 测试报告
-│   ├── VERSIONING_GUIDELINES.md # 版本控制规范
-│   ├── 后续工作计划.md   # 后续工作计划
-│   ├── 人工审议意见表.md   # 人工审议相关表单
-│   ├── 成果物收集表.md     # 成果物收集相关表单
-│   ├── 成果物自检规范.md   # 成果物自检规范
-│   ├── 网站导航结构报告.md # 网站导航结构分析报告
-│   ├── 网站爬取执行计划.md # 爬取执行计划
-│   ├── 页面分析报告.md     # 页面分析报告
-│   └── 项目进度管理计划.md # 项目进度管理计划
+│   ├── guidelines/      # 规范文档
+│   │   ├── CODE_REVIEW_GUIDELINES.md
+│   │   ├── COMMIT_GUIDELINES.md
+│   │   ├── DOCUMENT_CHANGE_NOTIFICATION.md
+│   │   ├── DOCUMENTATION_INDEX.md
+│   │   └── VERSIONING_GUIDELINES.md
+│   ├── plans/           # 计划文档
+│   │   ├── 后续工作计划.md
+│   │   ├── 网站爬取执行计划.md
+│   │   └── 项目进度管理计划.md
+│   ├── reports/         # 报告文档
+│   │   ├── ai_inspection_report.md
+│   │   ├── change_history.md
+│   │   ├── crawl_check_report.md
+│   │   ├── crawl_report_phase1.md
+│   │   ├── crawl_report_phase2.md
+│   │   ├── crawl_report_phase3.md
+│   │   ├── crawl_report_total.md
+│   │   ├── long_content_report.md
+│   │   ├── project_summary_report.md
+│   │   ├── TEST_REPORT.md
+│   │   ├── 网站导航结构报告.md
+│   │   ├── 页面分析报告.md
+│   │   └── 项目现状总结报告.md
+│   └── forms/           # 表单文档
+│       ├── 人工审议意见表.md
+│       ├── 成果物收集表.md
+│       └── 成果物自检规范.md
 ├── logs/                # 日志文件目录
-│   ├── crawl_log.txt    # 爬虫日志
-│   └── crawl_log_*.txt  # 按时间命名的爬虫日志
+├── scripts/             # 辅助脚本目录
+│   ├── ai_full_inspection.py
+│   ├── check_crawl_results.py
+│   ├── fix_format_issues.py
+│   ├── identify_long_content.py
+│   ├── initial_data_collection.py
+│   └── test_crawl.py
 ├── src/                 # 源代码目录
-│   ├── config/          # 配置模块
-│   │   └── __init__.py  # 配置初始化
-│   ├── crawler/         # 爬虫核心模块
-│   │   ├── __init__.py  # 爬虫模块初始化
-│   │   ├── downloader.py # 下载器模块
-│   │   ├── parser.py    # 解析器模块
-│   │   └── spider.py    # 爬虫模块
-│   ├── tests/           # 测试模块
-│   │   └── test_crawler.py # 爬虫测试用例
-│   ├── utils/           # 工具函数
-│   │   └── __init__.py  # 工具模块初始化
-│   ├── ai_full_inspection.py # AI全面自检脚本
-│   ├── check_crawl_results.py # 爬取结果检查脚本
-│   ├── fix_format_issues.py # 格式问题修复脚本
-│   ├── identify_long_content.py # 长内容识别脚本
-│   ├── initial_data_collection.py # 初始数据收集脚本
+│   ├── __init__.py      # 项目包初始化
 │   ├── main.py          # 主程序入口
-│   └── test_crawl.py    # 爬虫测试脚本
+│   ├── crawler/         # 爬虫核心模块
+│   │   ├── __init__.py
+│   │   ├── spider.py    # 爬虫模块
+│   │   ├── parser.py    # 解析器模块
+│   │   └── downloader.py # 下载器模块
+│   ├── utils/           # 工具函数
+│   │   └── __init__.py
+│   └── services/        # 业务服务模块
+│       └── __init__.py
 ├── tests/               # 测试目录
-│   └── test_parser.py   # 解析器测试用例
+│   ├── __init__.py
+│   ├── test_crawler.py
+│   └── test_parser.py
+├── .gitignore           # Git忽略文件
 ├── CHANGELOG.md         # 项目变更日志
 ├── README.md            # 项目说明文档
-├── debug_page.py        # 调试页面脚本
 ├── requirements.txt     # 第三方依赖列表
 └── WORKSPACE_STRUCTURE.md # 工作区结构说明文档
 ```
 
 ## 3. 目录与文件用途说明
 
-### 3.1 data/
+### 3.1 config/
+
+用于存储项目的配置文件。
+
+- `__init__.py`：配置模块初始化文件，加载和导出配置。
+- `crawl_config.json`：爬取相关配置，如并发数、超时时间等。
+- `logging_config.py`：日志配置，定义日志格式和输出位置。
+
+### 3.2 data/
 
 用于存储爬取的数据和资源。
 
-- `images/`：存放从网页中下载的图片资源。
+- `raw/`：存放原始数据，如URL列表。
+- `processed/`：存放处理后的数据，如文档ID映射表、长内容文件列表等。
 - `markdown/`：存放爬取并转换后的Markdown文档。
-- `long_content_files.txt`：记录所有长内容文件的列表。
-- `long_content_report.md`：长内容文件的分析报告。
-- `project_summary_report.md`：项目的综合总结报告。
-- `url_list.txt`：爬取的URL列表。
+- `images/`：存放从网页中下载的图片资源。
 
-### 3.2 debug/
+### 3.3 debug/
 
 存放调试相关的文件。
 
 - `full_page.html`：用于调试的完整页面HTML文件。
+- `debug_page.py`：调试页面脚本，用于调试页面解析。
 
-### 3.3 docs/
+### 3.4 docs/
 
-存放项目相关的文档资料，包括计划、报告、规范等。
+存放项目相关的文档资料，包括规范、计划、报告和表单等。
 
-- `CODE_REVIEW_GUIDELINES.md`：代码审查指南
-- `COMMIT_GUIDELINES.md`：提交规范
-- `DOCUMENT_CHANGE_NOTIFICATION.md`：文档变更通知机制
-- `DOCUMENTATION_INDEX.md`：项目文档索引
-- `TEST_REPORT.md`：测试报告
-- `VERSIONING_GUIDELINES.md`：版本控制规范
-- `后续工作计划.md`：项目后续工作计划
-- `人工审议意见表.md`：人工审议相关表单
-- `成果物收集表.md`：成果物收集相关表单
-- `成果物自检规范.md`：成果物自检规范
-- `网站导航结构报告.md`：网站导航结构分析报告
-- `网站爬取执行计划.md`：爬取执行计划
-- `页面分析报告.md`：页面分析报告
-- `项目进度管理计划.md`：项目进度管理计划
+- `guidelines/`：规范文档，如代码审查指南、提交规范等。
+- `plans/`：计划文档，如后续工作计划、爬取执行计划等。
+- `reports/`：报告文档，如爬取报告、测试报告等。
+- `forms/`：表单文档，如人工审议意见表、成果物收集表等。
 
-### 3.4 logs/
+### 3.5 logs/
 
 存放项目运行过程中产生的日志文件，便于调试和监控。
 
-- `crawl_log.txt`：最新的爬虫日志文件。
-- `crawl_log_*.txt`：按时间命名的历史爬虫日志文件。
+### 3.6 scripts/
 
-### 3.5 src/
+存放辅助脚本，用于执行各种辅助任务。
+
+- `ai_full_inspection.py`：AI全面自检脚本。
+- `check_crawl_results.py`：爬取结果检查脚本。
+- `fix_format_issues.py`：格式问题修复脚本。
+- `identify_long_content.py`：长内容识别脚本。
+- `initial_data_collection.py`：初始数据收集脚本。
+- `test_crawl.py`：爬虫测试脚本。
+
+### 3.7 src/
 
 项目的源代码目录，包含所有核心功能实现。
 
-- `config/`：配置相关的模块和工具。
-  - `__init__.py`：配置模块初始化文件，包含爬虫配置、路径配置等。
-
+- `__init__.py`：项目包初始化文件，导出主要功能和版本信息。
+- `main.py`：项目主程序入口，负责协调各个模块的工作。
 - `crawler/`：爬虫核心功能模块。
   - `__init__.py`：爬虫模块初始化文件。
-  - `downloader.py`：下载器模块，负责下载和保存文件。
-  - `parser.py`：解析器模块，负责解析网页内容并转换为Markdown。
   - `spider.py`：爬虫模块，负责发起请求和管理爬取流程。
-
-- `tests/`：源代码测试模块。
-  - `test_crawler.py`：爬虫功能的测试用例。
-
+  - `parser.py`：解析器模块，负责解析网页内容并转换为Markdown。
+  - `downloader.py`：下载器模块，负责下载和保存文件。
 - `utils/`：通用工具函数模块。
   - `__init__.py`：工具模块初始化文件。
+- `services/`：业务服务模块，处理业务逻辑。
+  - `__init__.py`：服务模块初始化文件。
 
-- `ai_full_inspection.py`：AI全面自检脚本，用于检查项目成果物的质量。
-- `check_crawl_results.py`：爬取结果检查脚本，用于验证爬取结果的完整性和正确性。
-- `fix_format_issues.py`：格式问题修复脚本，用于自动修复Markdown格式问题。
-- `identify_long_content.py`：长内容识别脚本，用于识别和处理过长的文档。
-- `initial_data_collection.py`：初始数据收集脚本，用于收集网站的初始数据。
-- `main.py`：项目主程序入口，负责协调各个模块的工作。
-- `test_crawl.py`：简单的爬虫测试脚本，用于快速测试爬虫功能。
-
-### 3.6 tests/
+### 3.8 tests/
 
 存放项目的测试文件，包括单元测试、集成测试等。
 
+- `__init__.py`：测试模块初始化文件。
+- `test_crawler.py`：爬虫功能的测试用例。
 - `test_parser.py`：解析器功能的测试用例。
 
-### 3.7 根目录文件
+### 3.9 根目录文件
 
-- `CHANGELOG.md`：项目变更日志，记录所有重要变更。
 - `.gitignore`：Git忽略文件配置，指定哪些文件不被Git跟踪。
-- `debug_page.py`：调试页面脚本，用于调试页面解析。
+- `CHANGELOG.md`：项目变更日志，记录所有重要变更。
 - `README.md`：项目说明文档，包含项目概述、功能特性、使用方法等。
 - `requirements.txt`：第三方依赖列表，包含项目所需的所有外部库。
 - `WORKSPACE_STRUCTURE.md`：工作区结构说明文档，描述项目的目录结构和文件用途。
@@ -177,6 +193,7 @@ markdown/
 - `requests`：用于发送HTTP请求
 - `beautifulsoup4`：用于解析HTML内容
 - `markdownify`：用于将HTML转换为Markdown
+- `playwright`：处理SPA页面
 - `pytest`：用于编写和运行测试
 
 安装依赖：
@@ -207,16 +224,17 @@ pip install -r requirements.txt
 
 - 项目文档存放于`docs/`目录
 - 使用Markdown格式编写文档
+- 文档按类型分类存放于子目录中
 - 文档应保持更新，与项目实际情况一致
 
 ## 10. 开发流程
 
-1. 从`develop`分支创建功能分支
+1. 从`main`分支创建功能分支
 2. 实现功能，编写测试
-3. 提交代码，确保通过所有测试
-4. 创建Pull Request，请求合并到`develop`分支
-5. 代码审查通过后，合并到`develop`分支
-6. 发布新版本时，合并`develop`分支到`main`分支并创建标签
+3. 运行所有测试，确保通过
+4. 创建Pull Request，请求合并到`main`分支
+5. 代码审查通过后，合并到`main`分支
+6. 发布新版本时，创建标签
 
 ## 11. 最佳实践
 
@@ -238,7 +256,6 @@ pip install -r requirements.txt
 - 实现更完善的错误处理和重试机制
 - 支持分布式爬取功能，提高大规模爬取的效率
 - 增强Markdown转换质量，支持更多HTML元素和样式
-- 添加自动文档更新机制，实现文档的动态维护
 
 ## 13. 联系方式
 
