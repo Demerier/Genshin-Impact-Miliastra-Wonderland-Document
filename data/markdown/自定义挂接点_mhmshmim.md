@@ -12,7 +12,7 @@
 
 ## **1.添加**单位挂接点组件
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhmshmimtegs/12a26d45-f31b-4e8b-adaa-0a3426255517.png)
+![](../images/12a26d45-f31b-4e8b-adaa-0a3426255517.png)
 
 (1)在实体/元件编辑界面中，打开组件编辑页签
 
@@ -24,7 +24,7 @@
 
 在自定义挂接点组件的详情页面，可以点击【添加自定义挂接点】来新增一个挂接点
 
-![]()
+![](../images/30ed0806a04f![](../images/12a26d45-f31b-4e8b-adaa-0a3426255517.png)a9006d69c02dc55_1818194431287328309.png)
 
 ## **3.**配置自定义挂接点
 

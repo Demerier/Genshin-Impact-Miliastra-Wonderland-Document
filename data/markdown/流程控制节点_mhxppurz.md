@@ -2,7 +2,7 @@
 
 ## **1.双分支**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhxppurzujfq/42b4cdfb-4a48-4025-8e1f-7671e79042fb.png)
+![](../images/42b4cdfb-4a48-4025-8e1f-7671e79042fb.png)
 
 **节点功能**
 

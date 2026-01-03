@@ -1,6 +1,6 @@
 # 一、文本框的功能
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnltrr3g966/6eb7b309-a986-4803-b06d-0d9021e06db6.png)
+![](../images/6eb7b309-a986-4803-b06d-0d9021e06db6.png)
 
 关卡运行中，显示预先编辑的*文本内容*
 
@@ -8,11 +8,11 @@
 
 # **二、文本框的编辑**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnltrr3g966/8bc744ed-2c89-484e-a6de-8358948f5c86.png)
+![](../images/8bc744ed-2c89-484e-a6de-8358948f5c86.png)
 
 *背景颜色*
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnltrr3g966/62c30aac-d679-4a2d-8e45-afc7f27cd65e.png)
+![](../images/62c30aac-d679-4a2d-8e45-afc7f27cd65e.png)
 
 支持配置透明、黑色半透明底色
 
@@ -24,7 +24,7 @@
 
 编辑文本框内显示的内容，支持编辑基础字符、文字、数字，自定义变量。
 
-![]()
+![](../![](../images/6eb7b309-a986-4803-b06d-0d9021e06db6.png)s/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 ![]()
 
@@ -47,7 +47,7 @@
 |  |  |
 | --- | --- |
 | **自定义变量目标** | **前缀** |
-| 玩家1~8 | p1~8 |
+| 玩家1~8 |![](../images/8bc744ed-2c89-484e-a6de-8358948f5c86.png) |
 | 关卡实体 | lv |
 | 玩家自身实体 | ps |
 
@@ -62,8 +62,7 @@
 |  |  |  |
 | --- | --- | --- |
 | 对齐方式 | 说明 | 示意图 |
-|  | 左侧对齐 |  |
-|  | 水平居中 |  |
+|  | 左侧对齐 |![](../images/62c30aac-d679-4a2d-8e45-afc7f27cd65e.png)  | 水平居中 |  |
 |  | 右侧对齐 |  |
 |  | 顶部对齐 |  |
 |  | 垂直居中 |  |

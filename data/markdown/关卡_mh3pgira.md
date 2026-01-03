@@ -4,11 +4,11 @@
 
 关卡实体在新建一个关卡后会自动创建在场景当中，并且在场景中会用一个特殊图标进行表示
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh3pgiraqkiu/17a8838c-a264-47d2-8d9c-d5d6de0bda42.png)
+![](../images/17a8838c-a264-47d2-8d9c-d5d6de0bda42.png)
 
 # 二、编辑关卡实体
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh3pgiraqkiu/17a8838c-a264-47d2-8d9c-d5d6de0bda42.png)
+![](../images/17a8838c-a264-47d2-8d9c-d5d6de0bda42.png)
 
 切换到实体编辑页签
 
@@ -16,7 +16,7 @@
 
 ## 1.基础信息
 
-![]()
+![](../images/30ed0806a04f93661a9006d69c0![](../images/17a8838c-a264-47d2-8d9c-d5d6de0bda42.png)_1818194431287328309.png)
 
 基础信息页签，可配置关卡实体的所有可用属性
 
@@ -26,11 +26,11 @@
 
 通用组件页签，可给关卡实体添加通用组件配置
 
-关卡实体的可用组件概览：
+关卡实体![](../images/dd902cb0-a186-43f1-a2b4-d639b4461938.png)概览：
 
-[自定义变量](/ys/ugc/tutorial//detail/mhso1b9wjica)
+[自定义变量](./自定义变量_mhso1b9w.md)
 
-[全局计时器](/ys/ugc/tutorial//detail/mhawd6rl5kpy)
+[全局计时器](/![](../![](../images/cbb8818b-43d2-4203-94da-d47e5cafa31f.png)s/3b2999c9-7d7d-448f-bd50-d54a550bc4bb.png)c/tutorial//detail/mhawd6rl5kpy)
 
 ## 3.节点图
 

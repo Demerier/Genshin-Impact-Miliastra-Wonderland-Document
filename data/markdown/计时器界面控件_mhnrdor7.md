@@ -1,12 +1,12 @@
 # 一、计时器的功能
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnrdor7uyra/b5176f35-4158-4ebb-afe4-c2857b430301.png)
+![](../images/b5176f35-4158-4ebb-afe4-c2857b430301.png)
 
 用于显示时间进度的界面，包括倒计时、正计时两种表现方式。
 
 # **二、计时器的编辑**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnrdor7uyra/002149d4-c149-427d-bab8-b6d33d7a9c4c.png)
+![](../images/002149d4-c149-427d-bab8-b6d33d7a9c4c.png)
 
 |  |  |
 | --- | --- |

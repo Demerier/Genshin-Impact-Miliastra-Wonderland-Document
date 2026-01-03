@@ -1,12 +1,12 @@
 # 一、弹窗的功能
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhen7r0djxkg/a3493e70-ba14-4967-8acd-a3087244e1ce.png)
+![](../images/a3493e70-ba14-4967-8acd-a3087244e1ce.png)
 
 关卡运行中，一种逻辑触发导致出现的界面，用于向玩家提供重要信息、提示、选项或交互功能。
 
 # **二、弹窗的编辑**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhen7r0djxkg/0fdd9e09-aa40-4f08-90a5-6a853a16fa03.png)
+![](../images/0fdd9e09-aa40-4f08-90a5-6a853a16fa03.png)
 
 *标题*
 

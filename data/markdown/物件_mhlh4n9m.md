@@ -24,25 +24,22 @@
 
 切换到实体摆放页签，动态物件的编辑分为以下四部分内容
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhlh4n9m4i56/e97180ab-df05-47de-bfee-922729e6b7c7.png)
+![](../images/e97180ab-df05-47de-bfee-922729e6b7c7.png)
 
 ## 1.基础信息
 
-![]()
+![](../images/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 *实体*的*基础信息*是与实体模型和位置相关的特征或数据，在游戏过程中，基础信息可以被动态读取或修改，但不能被动态添加或删除
 
-基础信息包括变换、模型、原生碰撞、可见性、创建设置、阵营、单位标签、实体布设组、负载优化、音效、引用源、备注等部分
+基础信息包括变换、模型、原生碰撞、可见性、创建设置、阵营、单位标签、实体布设组、负载优化、音效、引用源、备![](../images/e97180ab-df05-47de-bfee-922729e6b7c7.png)
+详见[基础信息](./基础信息_mh3oxo0o.md)
 
-详见[基础信息](/ys/ugc/tutorial//detail/mh3oxo0ojgxk)
-
-## 2.特化配置
-
-![]()
+## 2.特化![](../images/149e3c2c-f56f-4ab9-8bc1-5f359434abce.png)[]()
 
 特化配置提供了与战斗表现、数值校验相关的内容，而物件和造物的特化配置包含的内容有所不同
 
-详见[特化配置](/ys/ugc/tutorial//detail/mhtwkur42see)
+详见[特化配置](/ys/ugc/tutorial//det![](../images/feeb516b-db52-4ecd-b4f9-d4c535dc4268.png)htwkur42see)
 
 ## 3.通用组件
 
@@ -52,7 +49,7 @@
 
 部分物件会默认携带一些自身常用的组件。
 
-详见[通用组件](/ys/ugc/tutorial//detail/mhei6orvcbkm)
+详见[通用组件](./通用组件_mhei6orv.md)
 
 ## 4.节点图
 
@@ -60,4 +57,4 @@
 
 节点图是自定义逻辑的载体，创作者(奇匠)任何想要自行设计和制作的逻辑，均可以通过配置和挂载节点图来实现
 
-详见[节点图](/ys/ugc/tutorial//detail/mhjwjrr5n73i)
+详见[节点图](./节点图_mhjwjrr5.md)

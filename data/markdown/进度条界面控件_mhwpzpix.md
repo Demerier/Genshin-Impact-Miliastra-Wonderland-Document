@@ -1,12 +1,12 @@
 # 一、进度条的功能
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwpzpixrad0/ed51a3fc-1f33-4bdc-b618-ddb92c0ef68a.png)
+![](../images/ed51a3fc-1f33-4bdc-b618-ddb92c0ef68a.png)
 
 关卡运行中，可以实时展示需求变量在默认配置范围中占比的图形界面。
 
 # **二、进度条的编辑**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwpzpixrad0/ad559cba-b1a9-44fc-862d-a1f660e7a6d2.png)
+![](../images/ad559cba-b1a9-44fc-862d-a1f660e7a6d2.png)
 
 *形状*
 

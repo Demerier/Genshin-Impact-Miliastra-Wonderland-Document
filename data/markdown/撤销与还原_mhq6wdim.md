@@ -2,11 +2,11 @@
 
 ## 1.编辑界面内
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhq6wdimcd84/87ed0079-054f-41d1-86db-d13601fe1cff.png)
+![](../images/87ed0079-054f-41d1-86db-d13601fe1cff.png)
 
 ## 2.千星沙箱内
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhq6wdimcd84/6f14d19e-8bce-472a-b9a2-68e09e5f957f.png)
+![](../images/6f14d19e-8bce-472a-b9a2-68e09e5f957f.png)
 
 # 二、具体功能介绍
 

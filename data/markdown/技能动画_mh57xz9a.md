@@ -12,6 +12,6 @@
 
 在技能编辑时，用户可以通过引用角色技能动画，定义技能释放后的角色的动画演出效果。
 
-具体引用方式，请参考[技能](/ys/ugc/tutorial//detail/mho81frl33im)
+具体引用方式，请参考[技能](./技能_mho81frl.md)
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh57xz9afh7e/d21584b0-fdcc-4c3f-bc2e-26b49eba291e.png)
+![](../images/d21584b0-fdcc-4c3f-bc2e-26b49eba291e.png)

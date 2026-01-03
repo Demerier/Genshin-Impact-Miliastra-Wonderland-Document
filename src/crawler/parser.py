@@ -74,6 +74,76 @@ class Parser:
         if not content_div:
             content_div = soup.body
         
+        # 预处理自定义列表结构
+        if content_div:
+            # 查找所有自定义列表元素
+            custom_lists = content_div.find_all('div', class_='prosemirror-list-new')
+            
+            # 用于跟踪已处理的列表项，避免重复处理
+            processed_items = set()
+            
+            for custom_list in custom_lists:
+                # 跳过已处理的列表项或无效的列表项
+                if not custom_list or custom_list in processed_items:
+                    continue
+                
+                # 创建新的ul标签
+                ul_tag = soup.new_tag('ul')
+                
+                # 查找所有连续的列表项（同一级别的prosemirror-list-new）
+                list_items = []
+                current = custom_list
+                
+                while True:
+                    # 多重安全检查
+                    if current is None:
+                        break
+                    
+                    # 确保current是Tag类型
+                    if not hasattr(current, 'get'):
+                        break
+                    
+                    if not hasattr(current, 'find_next_sibling'):
+                        break
+                    
+                    # 检查current是否有class属性且包含prosemirror-list-new
+                    try:
+                        current_class = current.get('class', [])
+                        if not isinstance(current_class, list) or 'prosemirror-list-new' not in current_class:
+                            break
+                    except AttributeError:
+                        break
+                    
+                    list_items.append(current)
+                    processed_items.add(current)
+                    
+                    # 获取下一个兄弟元素
+                    next_sibling = current.find_next_sibling()
+                    if not next_sibling:
+                        break
+                    current = next_sibling
+                
+                # 将每个列表项转换为li标签
+                for item in list_items:
+                    # 获取列表内容
+                    list_content = item.find('div', class_='list-content')
+                    if list_content:
+                        # 创建li标签
+                        li_tag = soup.new_tag('li')
+                        # 将列表内容添加到li标签中
+                        li_tag.append(list_content)
+                        # 将li标签添加到ul标签中
+                        ul_tag.append(li_tag)
+                
+                # 替换自定义列表为标准ul列表
+                if len(ul_tag.contents) > 0 and list_items:
+                    # 替换第一个列表项
+                    list_items[0].replace_with(ul_tag)
+                    # 删除后续的列表项
+                    for item in list_items[1:]:
+                        if item.parent:
+                            item.decompose()
+        
         # 提取正文内容
         if content_div:
             content = str(content_div)
@@ -101,8 +171,10 @@ class Parser:
         links = []
         for a_tag in soup.find_all('a', href=True):
             href = a_tag['href']
-            # 过滤出目标域名的链接
-            if href.startswith('https://act.mihoyo.com/ys/ugc/tutorial/detail/'):
+            # 过滤出目标域名的链接和相对链接
+            if href.startswith('https://act.mihoyo.com/ys/ugc/tutorial/detail/') or \
+               href.startswith('/ys/ugc/tutorial/detail/') or \
+               href.startswith('/ys/ugc/tutorial//detail/'):
                 links.append(href)
         return links
     
@@ -116,7 +188,9 @@ class Parser:
             图片URL列表
         """
         images = []
-        for img_tag in soup.find_all('img', src=True):
-            src = img_tag['src']
-            images.append(src)
+        for img_tag in soup.find_all('img'):
+            # 优先提取data-src属性，支持懒加载图片
+            img_url = img_tag.get('data-src') or img_tag.get('src')
+            if img_url:
+                images.append(img_url)
         return images

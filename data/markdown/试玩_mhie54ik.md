@@ -6,7 +6,7 @@
 
 系统菜单——试玩
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhie54ik9ovg/6e9fab45-86d6-4d41-8aaf-13a32ee5af09.png)
+![](../images/6e9fab45-86d6-4d41-8aaf-13a32ee5af09.png)
 
 # 三、功能限制
 
@@ -16,19 +16,15 @@
 
 点击【试玩】按钮后，会执行试玩必要的校验和上传流程，当检测到未满足条件时，将弹出对应的错误码供创作者(奇匠)检查。当所有检测条件都通过时，试玩流程将继续进行，弹出【试玩设置】窗口。
 
-![]()
+![](../images/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 # 五、试玩流程
 
-试玩流程分为：试玩前准备（上传，校验流程）——装扮展示——加载界面——进入关卡——结算关卡
-
-## 1.试玩前准备
-
-### (1)试玩玩家选取
-
+试玩流程分为：试![](../images/6e9fab45-86d6-4d41-8aaf-13a32ee5af09.png)上传，校验流程）——装扮展示——加载界![](.![](../images/d4ee1a8a-0f8c-4fa2-85a0-d95ccd8fc7![](../images/d338fa0d-9ad5-48ca-ba6b-dce9f9e6![](../images/a3fe7222-721e-4276-b54b-80a97041cdad.png)png)g![](../images/eabf063e-76a9-450f-9873-79ac49e0c049.png)2bc047dd-9005-4f07-ab89-9227326cc0d7.png)关卡——![](../images/5295dd1c-fcbd-4cb0-a36d-804d0a676a80.png)
+## 1.试玩![](../images/e4be6da2-8681-45fe-bb85-7ef4eb5f9e68.png)### (1)试玩![](../images/f1b13287-5bde-4644-a053-c6804bcd02bb.png)
 ![]()
 
-*试玩时玩家编号*：点击后，将读取【关卡设置】中的已设定数据，可自由选择希望本次试玩的玩家对应编号。
+*试玩时玩家编号*：点击后，将读取![](../images/3264390e-d3ac-48b7-82e6-5376b6![](../images/a4c7![](../images/e7a9c4a5-8948-4fb9-b84c-c6110![](../images/0bb05341-baeb-4574-aaeb-406360e2bf4b.png)4a.png)4017-4b0f-afb5-6395ccc1ce42.png)4.png)】中的已设定数据，可![](../images/72b3d27e-f109-4941-9bae-4565415a3947.png![](../images/02ef640c-a35f-4fa6-b356-cd597888aa48.png)玩的玩家对应编号。
 
 ### (2)存档数据设置
 

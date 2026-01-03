@@ -6,24 +6,22 @@
 
 ## 1.入口
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhk59aiqtwyk/cfe15754-6bce-4b3a-b13f-2d7ff86ee53f.png)
+![](../images/cfe15754-6bce-4b3a-b13f-2d7ff86ee53f.png)
 
 点击左上角系统菜单按钮可打开菜单界面
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhk59aiqtwyk/fadbb652-dd46-428a-949d-a088c9d34be4.png)
+![](../images/fadbb652-dd46-428a-949d-a088c9d34be4.png)
 
 点击【多语言文本管理】即可进入多语言文本管理界面，用于为游戏配置不同的语言包，适配更多的语言
 
 ## 2.具体介绍
 
-![]()
-
-*搜索*：用于搜索对应的文本，搜索内容为原始语言对应的文本
+![](../images/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)![](../images/cfe15754-6bce-4b3a-b13f-2d7ff86ee53f.png)*：用于搜索对应的文本，搜索内容为原始语言对应的文本
 
 *来源*：用于展示该文本的来源，展示其使用的位置，可进行筛选  
 ![]()
 
-*是否需要翻译*：用于标识该文本是否需要翻译
+*是否需要翻译*![](.![](../images/e936a2bb-09c3-4f05-8016-41198712be29.png)ges/fadbb652-dd46-428a-949d-a088c9d34be4.png)该文本是否需要翻译
 
 是：该文本的每一种支持的语言都需要翻译，存在未翻译内容时会导致上传失败
 

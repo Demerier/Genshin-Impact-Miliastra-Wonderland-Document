@@ -1,6 +1,6 @@
 # 一、交互按钮的功能
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwkfsitckrw/ec3f16b8-ea84-466c-adb5-62f31e24d220.png)
+![](../images/ec3f16b8-ea84-466c-adb5-62f31e24d220.png)
 
 关卡运行中，点击和外接设备输入，都可以触发该界面控件的交互。
 
@@ -8,19 +8,19 @@
 
 # **二、交互按钮的编辑**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwkfsitckrw/8ba71a30-1660-4180-8541-96ac1cd3476f.png)
+![](../images/8ba71a30-1660-4180-8541-96ac1cd3476f.png)
 
 *按键映射-键鼠*
 
 提供PC按键供选择，作为输入交互项。选择后会显示在编辑窗口按键下方
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwkfsitckrw/de5fb1b2-719e-4a00-9043-6ed90dd0f0fc.png)
+![](../images/de5fb1b2-719e-4a00-9043-6ed90dd0f0fc.png)
 
 *按键映射-手柄*
 
 提供手柄按键供选择，作为输入交互项。选择后会显示在编辑窗口按键下方
 
-![]()
+![](../images/30ed0806a04f93661a9006d69c02dc55_18181![](../images![](../images/8ba71a30-1660-4180-8541-96ac1cd3476f.png)16b8-ea84-466c-adb5-62f31e24d220.p![](../images/d![](../images/3c721c54-bf49-4e43-b2![](../images/18bf6ee1-e70f-41![](../images/b1bbaba7-3ec0-4f96-9c89-dbef7780f636.png)dc-0a8cf13a657c.png)85661e4c0f.png![](../![](../images/ee8f5344-94cf-49af-a312-db3f834a9ae4.png)s/31fd0633-9b62-43b1-a213-3f22343d9ff6.png)19e-4a00-9043-6ed90dd0f0fc.png)7328309.png)
 
 *大小*
 
@@ -28,21 +28,15 @@
 
 ![]()
 
-*类型*
+*类型![](../images/9![](../images/6409917b-3eed-4988![](../images/37938112-008c-4752-bea3-09a20495cb9d.png)-10df54eeb763.png)95-3a56-4904-ba14-5484cdeeec3c.png)]()
+
+* 按钮技能
+
+需指定一个技能，对应的图标![](../images/5b841e7f-c6c9-4c5a-bc7e-bdc2b5967442.png)详情可见角色技能编辑。[技能](./技能_mho81frl.md)
 
 ![]()
 
-
-
-按钮技能
-
-需指定一个技能，对应的图标和功能编辑详情可见角色技能编辑。[技能](/ys/ugc/tutorial//detail/mho81frl33im)
-
-![]()
-
-
-
-交互事件
+* 交互事件
 
 ![]()
 
@@ -72,25 +66,12 @@
 
 *次数*
 
-
+* 次数限制开启才开放配置。
+* 根据不同的玩家，可以配置不同的使用次数，该次数只能读取对应玩家的自定义变量。
+* 配置后的默认次数显示在编辑窗口内的按键上。
+* 若需要次数变化，需要在节点图中编辑玩家的自定义变量使用情况。当配置的自定义变量变化时，按钮次数显示会同步变化。
 
-次数限制开启才开放配置。
-
-
-
-根据不同的玩家，可以配置不同的使用次数，该次数只能读取对应玩家的自定义变量。
-
-
-
-配置后的默认次数显示在编辑窗口内的按键上。
-
-
-
-若需要次数变化，需要在节点图中编辑玩家的自定义变量使用情况。当配置的自定义变量变化时，按钮次数显示会同步变化。
-
-
-
-使用道具
+* 使用道具
 
 ![]()
 

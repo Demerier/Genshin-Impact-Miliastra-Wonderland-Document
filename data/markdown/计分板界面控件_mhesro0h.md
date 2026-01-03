@@ -1,12 +1,12 @@
 # 一、计分板的功能
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhesro0hyn5k/3cdff313-857d-470a-8d82-f9bdbf7b8959.png)
+![](../images/3cdff313-857d-470a-8d82-f9bdbf7b8959.png)
 
 关卡运行时，用于显示玩家自定义变量，并可以根据自定义变量进行排名的信息展示界面。
 
 # **二、计分板的编辑**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhesro0hyn5k/738adffa-1ae7-45b2-8a9e-6654427a96a4.png)
+![](../images/738adffa-1ae7-45b2-8a9e-6654427a96a4.png)
 
 |  |  |
 | --- | --- |

@@ -10,7 +10,7 @@
 
 选中元件或实体后，即可在右侧的通用组件页签查看已配置的组件或对组件进行添加和删除
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhei6orvcbkm/48a62e07-0d9d-4e0a-95b8-0d0c243fd71e.png)
+![](../images/48a62e07-0d9d-4e0a-95b8-0d0c243fd71e.png)
 
 # 二、组件的生命周期
 

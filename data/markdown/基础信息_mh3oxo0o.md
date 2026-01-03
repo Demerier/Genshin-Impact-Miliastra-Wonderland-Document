@@ -4,9 +4,9 @@
 
 # 一、基础信息的编辑
 
-基础信息位于*元件*配置的基础信息页签下![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh3oxo0ojgxk/6419f70e-81dd-4991-a7f2-d03c268b69a5.png)
+基础信息位于*元件*配置的基础信息页签下![](../images/6419f70e-81dd-4991-a7f2-d03c268b69a5.png)
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh3oxo0ojgxk/69dc3d94-b466-4247-8a4b-0420c92f3633.png)
+![](../images/69dc3d94-b466-4247-8a4b-0420c92f3633.png)
 
 # 二、基础信息覆写
 

@@ -6,10 +6,10 @@
 
 另外玩家和角色也拥有其中的部分功能
 
-详见[玩家](/ys/ugc/tutorial//detail/mhctmgi51lpo)[角色](/ys/ugc/tutorial//detail/mh3ecor1x5cm)
+详见[玩家](./玩家_mhctmgi5.md)[角色](./角色_mh3ecor1.md)
 
 # 二、功能的编辑
 
 选中元件或实体后，即可在右侧的详情面板查看及编辑对应的功能
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhjx2miruaos/c688cd5b-f76e-465b-a403-d6b522310f4a.png)
+![](../images/c688cd5b-f76e-465b-a403-d6b522310f4a.png)

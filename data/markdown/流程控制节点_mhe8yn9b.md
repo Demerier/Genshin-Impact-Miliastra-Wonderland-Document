@@ -2,7 +2,7 @@
 
 ## **1.多分支**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhe8yn9bysd6/a9ee9a0e-a004-4b9b-86ab-df1a402534da.png)
+![](../images/a9ee9a0e-a004-4b9b-86ab-df1a402534da.png)
 
 **节点功能**
 
@@ -19,7 +19,7 @@
 
 ## **2.双分支**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhe8yn9bysd6/31f8dbdb-58d3-414f-835b-4d78f0f7014f.png)
+![](../images/31f8dbdb-58d3-414f-835b-4d78f0f7014f.png)
 
 **节点功能**
 

@@ -1,6 +1,6 @@
 ## **1.节点图开始**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhor3u09y7u0/6714fdd9-8bfc-42ae-bfbe-25be979a38aa.png)
+![](../images/6714fdd9-8bfc-42ae-bfbe-25be979a38aa.png)
 
 **节点功能**
 
@@ -17,7 +17,7 @@
 
 ## **2.节点图结束(布尔型)**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhor3u09y7u0/f9f04ffe-6778-46f5-ae96-b69b3c647839.png)
+![](../images/f9f04ffe-6778-46f5-ae96-b69b3c647839.png)
 
 **节点功能**  
 布尔型本地过滤器的结束节点
@@ -33,7 +33,7 @@
 
 ## **3.节点图结束(整数)**
 
-![]()
+![](../images/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 **节点功能**  
 整数型本地过滤器的结束节点

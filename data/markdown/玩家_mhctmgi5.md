@@ -10,13 +10,13 @@
 
 玩家的具体配置通过玩家模板进行引用，模板配置入口如下：
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhctmgi51lpo/648d7a1f-70a1-4bf1-812c-547d384e5cf0.png)
+![](../images/648d7a1f-70a1-4bf1-812c-547d384e5cf0.png)
 
 点击*新建模版*即可创建一个新的玩家模板
 
 ## 1.基础信息
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhctmgi51lpo/b416981d-f77e-4c82-a9d4-8c607905f9f9.png)
+![](../images/b416981d-f77e-4c82-a9d4-8c607905f9f9.png)
 
 基础信息页签：可配置所有可用的玩家基础信息
 
@@ -24,27 +24,27 @@
 
 *等级*：覆写职业的初始等级
 
-*出生点*：玩家可用的出生点列表，见预设点文档[预设点](/ys/ugc/tutorial//detail/mhfvn30ctm9c)
+*出生点*：玩家可用的出生点列表，见预设点文档[预设点](./预设点_mhfvn30c.md)
 
-*初始职业*：该玩家模板的初始职业，职业定义见职业文档[职业](/ys/ugc/tutorial//detail/mhodlcrpht3q)
+*初始职业*：该玩家模板的初始职业，职业定义见职业文档[职业](./职业_mhodlcrp.md)
 
-*复苏*：玩家对应的复苏规则，见复苏规则文档[复苏](/ys/ugc/tutorial//detail/mh796lr44x0e)
+*复苏*：玩家对应的复苏规则，见复苏规则文档[复苏](./复苏_mh796lr4.md)
 
 *特殊被击倒损伤*：当角色因为溺水、摔伤等特殊原因被击倒时，扣除的生命的百分比
 
 ## 2.组件
 
-![]()
+![](../images/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 组件页签，可在此页签给玩家实体添加组件，或查看已添加的组件
 
 玩家实体的可用组件概览
 
-[自定义变量](/ys/ugc/tutorial//detail/mhso1b9wjica)
+[自定义变量](./自定义变量_mhso1b9w.md)
 
-[全局计时器](/ys/ugc/tutorial//detail/mhawd6rl5kpy)
+[全局计时器](/ys/ugc/tutorial//detail/mhawd6![](../images/648d7a1f-70a1-4bf1-812c-547d384e5cf0.png)y)
 
-[单位状态](/ys/ugc/tutorial//detail/mhd7nxrfa8im)
+[单位状态](./单位状态_mhd7nxrf.md)
 
 ## 3.节点图
 

@@ -1,6 +1,6 @@
 # 一、道具展示的功能
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhjja1ipq9ck/1b62a47c-bae0-481b-b5cf-29e6102e1a8a.png)
+![](../images/1b62a47c-bae0-481b-b5cf-29e6102e1a8a.png)
 
 关卡运行中，点击和外接设备输入，都可以触发该界面控件的交互。
 
@@ -8,7 +8,7 @@
 
 # **二、道具展示的编辑**
 
-![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhjja1ipq9ck/3781366d-eb2d-46d5-ad91-2daca57db0e9.png)
+![](../images/3781366d-eb2d-46d5-ad91-2daca57db0e9.png)
 
 *是否可交互*
 
@@ -18,13 +18,11 @@
 
 提供PC按键供选择，作为输入交互项。选择后会显示在编辑窗口按键下方
 
-![]()
+![](../images/30ed0806a04f93661a9006d69c02dc55_181819![](../images/1b62a47c-bae0-481b-b5cf-![](../images/378![](../images/77a7a8c1-1366-4a6b-acb1-e595d07af3ad.png)-eb2d-46d5-ad91-2daca57db0e9.png![](../images/45fd49e9-ade4-4320-bbce-e0e70213beb9.png)a8a.png)87328309.png)
 
 *按键映射-手柄*
 
-提供手柄按键供选择，作为输入交互项。选择后会显示在编辑窗口按键下方
-
-![]()
+提供手柄按键供选择，作为输入交互项。选择后会显示在编辑窗口按键下方![](../images/7![](../images/863fddb2-2702-4e70-b93d-165d8a7911da.png)b![](../images/3388a665-ce3c-46cc-a77a-1db9996350db.png)5-4e1a-9f72-c894c39fceeb.png)()
 
 *类型*
 
@@ -32,13 +30,11 @@
 
 ![]()
 
-
-
-玩家当前装备
+* 玩家当前装备
 
 ![]()
 
-*装备配置ID变量*
+*装备配![](../images/83c766f8-b0cb-441d-ade9-ea4ed7061d1e.png)*
 
 可选取玩家自身的变量
 
@@ -56,9 +52,7 @@
 
 *栏位使用次数*
 
-开启后可以配置无次数时隐藏和次数
-
-*无次数时隐藏*
+开启后可以配置无次数时隐藏和![](../images/2e9e88bc-00f1-443b-9dae-d61d89ca0e5f.png)无次数时隐藏*
 
 开启后若无使用次数则隐藏该控件
 
@@ -68,9 +62,7 @@
 
 ![]()
 
-
-
-模板道具
+* 模板道具
 
 ![]()
 
@@ -96,9 +88,7 @@
 
 可选取玩家自身，玩家1-8，关卡上的某个自定义变量
 
-
-
-背包内道具
+* 背包内道具
 
 ![]()
 

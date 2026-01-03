@@ -4,7 +4,7 @@
 
 造物可以自主对敌对*阵营*的实体做出反应，包含但不限于入战、追踪
 
-阵营详见[阵营](/ys/ugc/tutorial//detail/mhe1ixri46ta)
+阵营详见[阵营](./阵营_mhe1ixri.md)
 
 # 二、造物的特点
 
@@ -38,19 +38,13 @@
 
 菜单栏第一栏，为*基础信息*栏
 
-![]()
+![](../images/30ed0806a04f93661a9006d69c02dc55![](../images/7f29b50c-0d16-480e-b9![](../images/6526a255-3b7![](../images/867c0b3a-6734-4730-84f0-d729dde0d020.png)8-9fd5-46cad82a6f1d.png)3ec271681b.png)194431287328309.png![](../images/64f024d8-2e74-41ab-bbf5-7720e414917f.png)**变换**
 
-
-
-**变换**
-
-不支持空间X、Z轴的旋转，仅支持Y轴（水平朝向）的编辑
+不支持空间X![](../images/0c27d33a-f800-4f7e-b72c-34eda4d4b832.png)转，仅支持Y轴（水平朝向）的编辑
 
 ![]()
 
-## 2.特化配置
-
-菜单栏第二栏，为*特化配置*栏
+## 2.特![](../images/d198aa9b-6845-46a3-98ac-f0c1beccf81c![](../images/33e71fb7-23fe-4e8b-9ad5-e891e11492d2.png)菜单栏第二栏，为*特化配置*栏
 
 ![]()
 
@@ -58,19 +52,19 @@
 
 ![]()
 
-从等级属性和固定属性两方面，支持创作者(奇匠)对造物进行参数的调整、成长曲线的规划，详见[基础战斗属性](/ys/ugc/tutorial//detail/mhvyqz9xwu0q)
+从等级属性和固定属性两方面，支持创作者(奇匠)对造物进行参数的调整、成长曲线的规划，详见[基础战斗属性](./基础战斗属性_mhvyqz9x.md)
 
 ### (2)仇恨配置
 
 ![]()
 
-详见[仇恨配置](/ys/ugc/tutorial//detail/mhw9ut96q96y)
+详见[仇恨配置](./仇恨配置_mhw9ut96.md)
 
 ### (3)常规设置
 
 ![]()
 
-详见[常规设置](/ys/ugc/tutorial//detail/mh3rgo0c16c8)
+详见[常规设置](./常规设置_mh3rgo0c.md)
 
 ## **3.组件功**能
 
@@ -86,69 +80,21 @@
 
 造物实体支持添加多种组件功能，包括
 
-
-
-[选项卡](/ys/ugc/tutorial//detail/mh5jko05fzyw)
-
-
-
-[碰撞触发器](/ys/ugc/tutorial//detail/mh8w69rzuc3i)
-
-
-
-[自定义变量](/ys/ugc/tutorial//detail/mhso1b9wjica)
-
-
-
-[全局计时器](/ys/ugc/tutorial//detail/mhawd6rl5kpy)
-
-
-
-[单位状态](/ys/ugc/tutorial//detail/mhd7nxrfa8im)
-
-
-
-[特效播放](/ys/ugc/tutorial//detail/mh4ppo02m1o8)
-
-
-
-[自定义挂接点](/ys/ugc/tutorial//detail/mhmshmimtegs)
-
-
-
-[碰撞触发源](/ys/ugc/tutorial//detail/mhn95di01j84)
-
-
-
-[音效播放器](/ys/ugc/tutorial//detail/mhwiv89yra02)
-
-
-
-[背包组件](/ys/ugc/tutorial//detail/mh5y5001vqd4)
-
-
-
-[战利品](/ys/ugc/tutorial//detail/mh63ox06afy8)
-
-
-
-[铭牌](/ys/ugc/tutorial//detail/mh5n160t2b6w)
-
-
-
-[文本气泡](/ys/ugc/tutorial//detail/mhwtz297kp6a)
-
-
-
-[商店组件](/ys/ugc/tutorial//detail/mho6gviqhsqs)
-
-
-
-[扫描标签](/ys/ugc/tutorial//detail/mhfc0lr1tcke)
-
-
-
-[小地图标识](/ys/ugc/tutorial//detail/mh0pppib5eyc)
+* [选项卡](./选项卡_mh5jko05.md)
+* [碰撞触发器](./碰撞触发器_mh8w69rz.md)
+* [自定义变量](./自定义变量_mhso1b9w.md)
+* [全局计时器](./全局计时器_mhawd6rl.md)
+* [单位状态](./单位状态_mhd7nxrf.md)
+* [特效播放](./特效播放_mh4ppo02.md)
+* [自定义挂接点](./自定义挂接点_mhmshmim.md)
+* [碰撞触发源](/ys/ugc/tutorial//detail/mhn95di01j84![](../images/b4fe0e09-adaa-43bb-8ac6-e4f96570ec5c.png)音效播放器](/ys/ugc/tutorial//detail/mhwiv89yra02)
+* [背包组件](./背包组件_mh5y5001.md)
+* [战利品](./战利品_mh63ox06.md)
+* [铭牌](./铭牌_mh5n160t.md)
+* [文本气泡](./文本气泡_mhwtz297.md)
+* [商店组件](./商店组件_mho6gviq.md)
+* [扫描标签](./扫描标签_mhfc0lr1.md)
+* [小地图标识](./小地图标识_mh0pppib.md)
 
 ## 4.节点图功能
 
