@@ -22,19 +22,19 @@
 
 *商店序号*：一个商店组件可以同时定义多个商店，商店之间的配置数据相互独立
 
-*商店名称*![](../images/3e95e17c-92f7-4ea8-b4f6-5b![](../images/e705d7bb-f5e9-4f0e-9dff-19b369773d87.p![](../images/4c7b5024![](../images/70c50814-45![](../images/c![](../images/0![](../images/28a4dc74-5![](../images/fedf4b76![](../images/e382a465-4c![](../images/b45d5fb4-![](../images/b4079b39-18![](../images/9523a787-b![](../images/9f5f805b-2895-44ed-bf![](../images/2fbe2e4![](../images/d144![](../images/665bd039-5caf-45a1-90e4-![](../images/cdc74c49-![](../images/102db1d![](../images/298f02e![](../images/0c92ff4f-8![](../images/f08c7b3c-0![](../images/21f14fbe-1b02-4612-9d5c-d779adf692a3.png)0ea-833a-dd6504d12b2a.png)582-a99c-c1fa3aac9c97.png)a-4eab-aeb5-b5c0388db060.png)a-4702-9604-4fe9288528f6.png)4ac9-909c-94203f67da93.png)4970aad.png)1fbd-4c89-9a51-7b805badfc3a.png)8-4351-89fb-a583d46d6451.png)74c8897ec1.png)187-9f4e-b2748ccb7089.png)77-81ec-890eee606407.png)4c92-941a-17056064cec4.png)a5-8312-3d0e441c6bb6.png)-4446-a71e-ea40b8b0f48a.png)a97-a9b7-d802c436dbaa.png)1e-a037-4034-a79a-62f26d5e91f8.png)6f-f053-4228-9278-ddfe32da4d2a.png)40-8d39-9f37bfa5e68f.png)-4290-9318-e368a24ace90.png)ed6.png)名
+*商店名称*![](../images/3e95e17c-92f7-4ea8-b4f6-5b![](../images/e705d7bb-f5e9-4f0e-9dff-19b369773d87.p![](../images/4c7b5024![](../images/70c50814-45![](../images/c![](../images/0![](../images/28a4dc74-5![](../images/fedf4b76![](../images/e382a465-4c![](../images/b45d5fb4-![](../images/b4079b39-18![](../images/9523a787-b![](../images/9f5f805b-2895-44ed-bf![](../images/2fbe2e4![](../images/d144![](../images/665bd039-5caf-45a1-90e4-![](../images/cdc74c49-![](../images/102db1d![](../images/298f02e![](../images/0c92ff4f-8![](../images/f08c7b3c-0![](../images/21f14fbe-1b02-4612-9d5c-d779adf692a3.png)a-4eab-aeb5-b5c0388db060.png)a-4702-9604-4fe9288528f6.png)4ac9-909c-94203f67da93.png)4970aad.png)1fbd-4c89-9a51-7b805badfc3a.png)8-4351-89fb-a583d46d6451.png)74c8897ec1.png)187-9f4e-b2748ccb7089.png)77-81ec-890eee606407.png)4c92-941a-17056064cec4.png)a5-8312-3d0e441c6bb6.png)-4446-a71e-ea40b8b0f48a.png)a97-a9b7-d802c436dbaa.png)1e-a037-4034-a79a-62f26d5e91f8.png)6f-f053-4228-9278-ddfe32da4d2a.png)40-8d39-9f37bfa5e68f.png)-4290-9318-e368a24ace90.png)ed6.png)名
 
 *商店模板*：引用一个全局定义的商店模板
 
 *\*预览商店样式*：点击可以预览当前配置在运行时实际展示的商店样式
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mho6gviqhsqs/3e95e17c-92f7-4ea8-b4f6-5b586c3e2ed6.png)
 
 *添加商店*：可以添加一个新的商店
 
 # 三、商店的运行时实例
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 # 四、节点图相关操作
 
@@ -42,7 +42,7 @@
 
 * 从背包商店出售表中移除商品
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 * 从物品收购表中移除物品
 

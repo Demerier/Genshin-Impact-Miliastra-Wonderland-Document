@@ -12,17 +12,17 @@
 
 从窗口——日志，打开节点图日志窗口
 
-![](../images/30![](../images/f3579b8f-8fa3-4f2f-9805-393dc495cfd0.png)6a04f93661a9006d69c02d![](../images/918b57d7-8ee0-48dc-8114-b72f04f4435c.png)818194431287328309.png)
+![](../images/918b57d7-8ee0-48dc-8114-b72f04f4435c.png)818194431287328309.png)
 
 节点图日志页签
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhu951iz7wz8/f3579b8f-8fa3-4f2f-9805-393dc495cfd0.png)
 
-## 2.通过节![](../images/2f0fe14e-e696-![](../images/6e59efc2-052d-4910-a273-54a7cfae46fd.png)8154-60496892d516.png)试
+## 2.通过节![](../images/2f0fe14e-e696-![](../images/6e59efc2-052d-4910-a273-54a7cfae46fd.png)试
 
 * **筛选节点图**
 
-在使用日志调试前，需要先在节点图筛选页签中选择查看![](../images/09541acc-dcfb-4291-af30![](../images/f524f624-c7d5-41c7-a898-b17cdb7065bf.png)c3f2d873.png)的日志，如下图所示
+在使用日志调试前，需要先在节点图筛选页签中选择查看![](../images/09541acc-dcfb-4291-af30![](../images/f524f624-c7d5-41c7-a898-b17cdb7065bf.png)的日志，如下图所示
 
 ![]()
 

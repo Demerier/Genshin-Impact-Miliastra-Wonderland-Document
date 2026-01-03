@@ -18,17 +18,17 @@
 
 ## 2.新增音效播放器
 
-![](../images/30ed0806a0![](../images/7c1b3d5c-1e29-43c5-b422-113bced28027.png)![](../images/ce931a43-73b9-46bd-ab13-ebac7c0f5ffe.png)06d69c02dc55_1818194431287328309.png)
+![](../images/ce931a43-73b9-46bd-ab13-ebac7c0f5ffe.png)06d69c02dc55_1818194431287328309.png)
 
 点击【详细编辑】进入详情编辑页
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 在音效播放器组的详情页面，可以点击【添加音效】来新增一个音效配置
 
 ## 3.配置音效播放器
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwiv89yra02/7c1b3d5c-1e29-43c5-b422-113bced28027.png)
 
 *序号*：音效播放器的识别序号
 
@@ -48,11 +48,11 @@
 
 *\*范围预览*：开启后可以在场景内看到对应的音效传播范围
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 *范围半径(m)*：可配置音效传播的范围
 
-*挂接点*：可指定某个挂接点位置作为音![](../images/5296![](../images/c78b![](../images/0457b9c![](../images/51513![](../images/6118e23e-0add-4716-93d5-4d171baa8cea.png)dbb-440a-994b-e7f76bce5d4a.png)2-465b-83d0-60fac204cb7e.png)22e3-47cd-98f2-3012a74fe1f6.png)68dd-4f3b-b3c8-1b763c2cdb7c.png)置
+*挂接点*：可指定某个挂接点位置作为音![](../images/5296![](../images/c78b![](../images/0457b9c![](../images/51513![](../images/6118e23e-0add-4716-93d5-4d171baa8cea.png)22e3-47cd-98f2-3012a74fe1f6.png)68dd-4f3b-b3c8-1b763c2cdb7c.png)置
 
 *衰减方式*：在使用3D音效的情况下，听者（大多数时候是角色）距离音源越远，则听到的音量越小，直至超过范围后音量变为0，衰减方式定了音量变小的趋势
 

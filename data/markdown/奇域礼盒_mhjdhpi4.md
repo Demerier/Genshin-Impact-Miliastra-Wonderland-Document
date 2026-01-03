@@ -14,26 +14,26 @@
 
 点击创建礼盒，新建一个礼盒
 
-![](.![](../images/e2ff2b74-75a0-4693-acf0-16![](../images/5abdea61-d698-4a46-87d9-74ee3960aa63.png)adc7e.png)ges/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)![]()
+![](.![](../images/e2ff2b74-75a0-4693-acf0-16![](../images/5abdea61-d698-4a46-87d9-74ee3960aa63.png)![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 每个关卡中能够存在的礼盒数量上限为20个
 
 ## 2.基础属性
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhjdhpi4sd10/e2ff2b74-75a0-4693-acf0-1694d03adc7e.png)
 
-*礼盒索引*：礼盒的唯一标识，不能重![](../images/9c7f94ea-5315-4891-b705-24c1edc18d25.png)(奇匠)在上![](../![](../images/6b4f5f52-5bfe-409![](../images/510d4a7c-b39b![](../images/95283f8a-a14b-4fa4-ae3c-33a06503107b.png)-9577-3828cf996fd8.png)4-f0f71ffbf208.png)s/58bfdaf9-c971-4c76-b889-0b48e90285bf.png)当前存档中礼盒索引必须与线上版本的礼盒索引为包含关系![](../images/7d7486d0-b1c0-4c1c-901f-9b91043b8d08.png)上传
+*礼盒索引*：礼盒的唯一标识，不能重![](../images/9c7f94ea-5315-4891-b705-24c1edc18d25.png)(奇匠)在上![](../![](../images/6b4f5f52-5bfe-409![](../images/510d4a7c-b39b![](../images/95283f8a-a14b-4fa4-ae3c-33a06503107b.png)s/58bfdaf9-c971-4c76-b889-0b48e90285bf.png)当前存档中礼盒索引必须与线上版本的礼盒索引为包含关系![](../images/7d7486d0-b1c0-4c1c-901f-9b91043b8d08.png)上传
 
 *选择图标*：用于为该礼盒选择一个图标，其中包含预先提供的图标；也可以通过添加自定义图标从本地上传一个图标
 
 *稀有度*：用于表示该礼盒的品质
 
-*获取条件类型*：用于决定该礼盒的获取条件的类型：包![](../images/b3bf501d-4b9b-41af-![](../images/4e5ed554-e728-45e1-b3cf-dfdc13bc2f82.png)59851![](../images/85eb29f4-3600-4b54-852f-eec1eb8cc78f.png)f1.png)竞技段位和极致成就
-![](../images/c78e6![](../images/3b75839![](../images/e6e6e1ff-a523-44ee-9c7f-24a3ca4993a0.png)f-4e57-b27a-f0c98f2a3f4d.png)004-46fa-a326-dc538b2bd941.png))
+*获取条件类型*：用于决定该礼盒的获取条件的类型：包![](../images/85eb29f4-3600-4b54-852f-eec1eb8cc78f.png)f1.png)竞技段位和极致成就
+![](../images/c78e6![](../images/3b75839![](../images/e6e6e1ff-a523-44ee-9c7f-24a3ca4993a0.png))
 
 * 在选择排行榜时，需要先选择使用多个排行榜中的哪一个排行榜数据作为条件，再选择排行榜达成特定排名的要求
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 ![]()
 

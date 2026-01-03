@@ -39,4 +39,4 @@
 
 **【节点图节点】受到攻击时**
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhvg40rc5w9i/339330c7-b79d-4ac2-874f-8701486d6501.png)

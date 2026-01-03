@@ -22,15 +22,15 @@
 
 ### (1)资产栏
 
-打开方式：通过左侧上方按钮![](../images/30ed0806a04f93661a9006d6![](../images/17c776e6-c573-4aa5-a41b-99285711e6d1.png)c55_1818194431287328309.png)打开和关闭。
+打开方式：通过左侧上方按钮![](../images/30ed0806a04f93661a9006d6![](../images/17c776e6-c573-4aa5-a41b-99285711e6d1.png)打开和关闭。
 
 功能：用于选择希望创建的资产内容。
 
 资产列表
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwe1n94b1x6/17c776e6-c573-4aa5-a41b-99285711e6d1.png)
 
-* 地块材质（点击后根据所选材质进入[地形编辑-四、地形修改 - 自由编辑](/ys/ugc/tutoria![](../images/a6753448-f79c-4b9b-902![](../images/44f6e425-![](../images/4c7c859a-0c35-40![](../images/34a88e49-4a48-41a![](../images/f9f1e8cc-624e-438d-9350-479142d28385.png)7-475f5ccaeeed.png)ba-9f4e8ca74ac5.png)4e1![](../images/f2a19526-d725-4279-9706-ca3d6cc83ee1.png)e-7d28377592cc.png)3e3d04342.png)tail/mh![](../images/e1e640a4-aa64-4829-b37d-ccb![](../images/424eb59![](../images/77ff![](../images/86b4674e-8fad-41cf-b4ea-7626d92d0248.png)cf61-48f0-99b7-cf11d8366fed.png)b-44ee-adcf-f1d9aa71b05f.png)331b.png)4b1x6#NPvJ8GZc-Cm4qoP_c5auWx)）
+* 地块材质（点击后根据所选材质进入[地形编辑-四、地形修改 - 自由编辑](/ys/ugc/tutoria![](../images/a6753448-f79c-4b9b-902![](../images/44f6e425-![](../images/4c7c859a-0c35-40![](../images/34a88e49-4a48-41a![](../images/f9f1e8cc-624e-438d-9350-479142d28385.png)4e1![](../images/f2a19526-d725-4279-9706-ca3d6cc83ee1.png)e-7d28377592cc.png)3e3d04342.png)tail/mh![](../images/e1e640a4-aa64-4829-b37d-ccb![](../images/424eb59![](../images/77ff![](../images/86b4674e-8fad-41cf-b4ea-7626d92d0248.png)331b.png)4b1x6#NPvJ8GZc-Cm4qoP_c5auWx)）
 * 环境配置
 * 自定义元件（点击后创建）
 * 预制元件（点击后创建）
@@ -38,7 +38,7 @@
 
 ### (2)详情栏
 
-打开方式：通过右侧上方按钮![]()打开和关闭。
+打开方式：通过右侧上方按钮![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)打开和关闭。
 
 功能：用于管理关卡内的地形。
 
@@ -56,7 +56,7 @@
 
 ![]()
 
-开启条件：通过指针或地形列表选中任意![](../images/0a76711e-96e5-4ebf-87d9-4564b6c4![](../images/4494fe![](../images/83836![](../images/7719dae![](../images/4a2d5c9f-b04a-4c7b-a2a7-509c1ca24![](../images/![](../images/58e8cae6-f1da-4ccc-baaa-2f75a307b4d3.png)a64-3210-4bae-b24b-c26e02ecdd49.png)ng)e-4d8![](../images/3b7e9328-f6df-4183-af0c-b6b97bc9dd18.png)b-037f29f95531.png)2ee-43f2-a800-591ac19d2a11.png)9b-420c-966b-b861a248bbc4.png)pn![](../images/dfacfeb4-3409-46de-be42-83dcccadf0de.png)）。
+开启条件：通过指针或地形列表选中任意![](../images/0a76711e-96e5-4ebf-87d9-4564b6c4![](../images/4494fe![](../images/83836![](../images/7719dae![](../images/4a2d5c9f-b04a-4c7b-a2a7-509c1ca24![](../images/![](../images/58e8cae6-f1da-4ccc-baaa-2f75a307b4d3.png)e-4d8![](../images/3b7e9328-f6df-4183-af0c-b6b97bc9dd18.png)b-037f29f95531.png)2ee-43f2-a800-591ac19d2a11.png)9b-420c-966b-b861a248bbc4.png)pn![](../images/dfacfeb4-3409-46de-be42-83dcccadf0de.png)）。
 
 功能点
 
@@ -72,7 +72,7 @@
 
 功能：用于选中一个或多个内容（逻辑与物件![](../images/6c333acf-9e19-4d0c-ad81-c0a743b4a9c0.png)，根据选中内容出现对应不同工具栏.
 
-可选内容及选中功能![](../images/e32![](../images/8e5165b7-7e7d-4485-![](../images/fb6e010c-efdb-4![](../images/e3b3a8f6-0a35-4d5c-9d27-373dfb72c596.png)59c-1e54c![](../images/![](../images/a7674b1e-b288-47c![](../images/d4f8e48b-5b5e-4d64-![](../images/9763ea1f-069d-48a5-829f-19ecdd15a4ac.png)5a4b3ab372![](../image![](../images/f26fbd3f-a![](../images/7c71d41a-d6![](../images/3a0eca93-235b-4b5b-94e9-a2c94867e4e3.pn![](../images/d598f2b3-07ba-4cd2-bc22-fe60327b0ef5.png)87c4-2f8aa214da30.png)4f0-94bb-8d9f169c863d.png)5c9ec-0614![](../images/e60eb5bb-3839-420![](../images/408c2210-f81c-415c-8d37-9ab![](../images![](../images/a7d0b8![](../images/f9734749-d3e5-4f34-ab1c-615a423c7416.png)37-47c9-a6f0-8386c63b9fca.png)5472-9d84-4100-981c-1c1d![](../![](../images/6a4ea5ef-2406-4ca9-ba11-172eed9dd158.png)s/6f20e3fb-49f2-44c9-8216-11d771919e54.png)421.png)5f89.png)8-a3c14675aba3.png)-abd1-9b34ac4346f5.png)g)a-3a0700f0fee4.png)c32-ecc9-41d4-b297-f26e2743fde8.png)44.png)5290d377d165.png)-e20e-45b2-a23a-3d794f11ae9c.png)形（功能详见下：[地形编辑-三、地形修改 - 指针操作](/ys/ugc/tutorial//detail/mhwe1n94b1x6#NIultN3j483fmMOl0jO1L1)）
+可选内容及选中功能![](../image![](../images/f26fbd3f-a![](../images/7c71d41a-d6![](../images/3a0eca93-235b-4b5b-94e9-a2c94867e4e3.pn![](../images/d598f2b3-07ba-4cd2-bc22-fe60327b0ef5.png)4f0-94bb-8d9f169c863d.png)5c9ec-0614![](../![](../images/6a4ea5ef-2406-4ca9-ba11-172eed9dd158.png)421.png)5f89.png)8-a3c14675aba3.png)-abd1-9b34ac4346f5.png)g)a-3a0700f0fee4.png)c32-ecc9-41d4-b297-f26e2743fde8.png)44.png)5290d377d165.png)-e20e-45b2-a23a-3d794f11ae9c.png)形（功能详见下：[地形编辑-三、地形修改 - 指针操作](/ys/ugc/tutorial//detail/mhwe1n94b1x6#NIultN3j483fmMOl0jO1L1)）
 * 静态物件、动态物件、造物（功能：修改位置信息或前往编辑）
 
 # 二、地形创建

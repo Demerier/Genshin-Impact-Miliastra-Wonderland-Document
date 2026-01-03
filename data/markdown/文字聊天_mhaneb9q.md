@@ -20,25 +20,25 @@
 
 # 三、文字聊天频道的编辑
 
-![](../ima![](../images/df959948-0f6f-![](../images/43ea509a-43c3-492f-9f13-f8248b94e7a4.png)90aa-90b1771402cc.png)accf1cf-aa30-4b3f-9145-877d12184a45.png)天频道
+![](../ima![](../images/df959948-0f6f-![](../images/43ea509a-43c3-492f-9f13-f8248b94e7a4.png)天频道
 
 通过【添加频道】按键，可新增聊天频道
 
 关卡默认带有应用于全部玩家的全局频道，支持修改配置/改名，但无法删除
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
-点击 ![]()图标，可重命名，或删除频道
+点击 ![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhaneb9qnvay/5accf1cf-aa30-4b3f-9145-877d12184a45.png)图标，可重命名，或删除频道
 
 * 基础信息
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 |  |  |
 | --- | --- |
 | 参数 | 说明 |
 | *索引* | 对应聊天频道的唯一标识 |
-| *初始生效* ![](../images/99![](../images/7692c1c4-6681-4f0e-9052-a0614![](.![](../images/91f9b50a-4728-44f3-834e-c8bded7ce8ca.png)ges/183e93a9-41dc-446b![](../images/889bd719-fd57-4776-831f-a921c882b567.png)-85554![](../images/ac3162c4-cc1b-404c-8bd8-335f7747415d.![](../images/aa440ae1-6220-4b3e-abb0-8d5b6290d8fc.png)4.png)03.png)8-9d51-40a1-b534-31a7abb6fc44.png)道在关卡初始时的生效情况 |
+| *初始生效* ![](../images/889bd719-fd57-4776-831f-a921c882b567.png)-85554![](../images/ac3162c4-cc1b-404c-8bd8-335f7747415d.![](../images/aa440ae1-6220-4b3e-abb0-8d5b6290d8fc.png)8-9d51-40a1-b534-31a7abb6fc44.png)道在关卡初始时的生效情况 |
 | *频道应用方式* | 支持按玩家/按阵营应用  当频道按阵营应用时，仅可通过切换玩家阵营调整所属聊天频道 |
 | *应用玩家/阵营* | 控制频道在关卡内的初始覆盖对象，可多选 |
 | *显示优先级* | 控制频道在关卡内聊天系统的显示顺序，数字越大越靠前 |

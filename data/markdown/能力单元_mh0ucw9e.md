@@ -38,21 +38,21 @@
 
 ### (1)特化配置页签编辑入口
 
-![](../images/30ed0806a04f93661a9006d69c02![](../images/fca27140-de67-4886-8fd![](../images/25ec0b3c-91ce-4bbb-bcaa-![](../images/0b1ad1ea-b4b1-4a6a-a979-78139d91837f.png)4197b07.png)9fcd75335.png)1818194431287328309.png)
+![](../images/30ed0806a04f93661a9006d69c02![](../images/fca27140-de67-4886-8fd![](../images/25ec0b3c-91ce-4bbb-bcaa-![](../images/0b1ad1ea-b4b1-4a6a-a979-78139d91837f.png)1818194431287328309.png)
 
 可点击详细编辑进入详情界面
 
 ### (2)本地投射物页签编辑入口
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 可点击详细编辑进入详情界面
 
 ## 2.能力单元的编辑
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
-在能力单元详情编辑页面，点击+号，可![](../images/0e05344b-bac9-4![](../images/7fd976f7-cbce-4ca1-8881-3c7fdba72fee.p![](../images/e1114846-51fe![](../images/f5fd6d8b-4eb9-497![](../images/089bdf46-1fd9-4578-94bc-e322aea48477.png)2-a68ce659c8b1.png)-995f-1e7fd7fb6e85.png)3-75bfb2b757d1.png)能力单元配置
+在能力单元详情编辑页面，点击+号，可![](../images/0e05344b-bac9-4![](../images/7fd976f7-cbce-4ca1-8881-3c7fdba72fee.p![](../images/e1114846-51fe![](../images/f5fd6d8b-4eb9-497![](../images/089bdf46-1fd9-4578-94bc-e322aea48477.png)3-75bfb2b757d1.png)能力单元配置
 
 ![]()
 
@@ -60,7 +60,7 @@
 
 ## 3.能力单元的效果
 
-见[能力单元效果](/ys/ugc/tutorial//detai![](../![](../images/0de05a75-182c-4796-971c-48de3ea535![](../images/74e06efe-7c1e-4e13-b9ed-c0ab0873150e.png)g)s/b7eb9c20-95fa-407c-bf5f-0![](../images/ce2a5b3d-3941-4d0a-aac4-f4efd288f874.png)5ef37d.png)vqvioautg)
+见[能力单元效果](/ys/ugc/tutorial//detai![](../images/ce2a5b3d-3941-4d0a-aac4-f4efd288f874.png)5ef37d.png)vqvioautg)
 
 ## 4.能力单元的调用
 

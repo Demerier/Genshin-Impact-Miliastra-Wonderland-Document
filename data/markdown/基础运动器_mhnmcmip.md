@@ -40,7 +40,7 @@
 
 *匀速旋转运动器*参数如下图所示：
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnmcmipncrg/c8476575-b0b9-4e19-a2ef-30a8a6b75d64.png)
 
 *初始生效*：开启则表示实体创建时立即生效
 
@@ -186,7 +186,7 @@
 | 朝向目标旋转 | 可叠加 | 不可叠加 | 不可叠加 | 不可叠加 | 可叠加 | 不可叠加 |
 | 路径运动 | 可叠加 | 不可叠加 | 不可叠加 | 不可叠加 | 可叠加 | 不可叠加 |
 | 定点运动 | 可叠加 | 可叠加 | 可叠加 | 可叠加 | 不可叠加 | 不可叠加 |
-|![](../images/1511276d-d4c4-45cd-8a![](.![](.![](../images/0770c1c![](../images/800f![](../images/3e50![](../images/d![](../![](../images/b9f2791a-19e2-411e-98f8-4cd4dee903c5.png)s/b927713e-cada-47db-8ee3-9da1145b2bb4.png)12-eba5-4e57-b5c6-e9caf18e399a.png)3be9-489f-b51a-c7c59c3ebf4b.png)3990-43b1-81bc-f6d0d400d0c4.png)f-4e85-9185-158521801b1a.png)ges/4a39fc60-c916-44cc-be7c-9a5b2457aaca.png)ges/b582f1b8-08aa-440f-8ed0-4c797d4ed3e3.png)504d98f937.png)运动 | 可叠加 | 不可叠加 | 不可叠加 | 不可叠加 | 不可叠加 | 不可叠加 |
+|![](../images/1511276d-d4c4-45cd-8a![](.![](.![](../images/0770c1c![](../images/800f![](../images/3e50![](../images/d![](../![](../images/b9f2791a-19e2-411e-98f8-4cd4dee903c5.png)3be9-489f-b51a-c7c59c3ebf4b.png)3990-43b1-81bc-f6d0d400d0c4.png)f-4e85-9185-158521801b1a.png)ges/4a39fc60-c916-44cc-be7c-9a5b2457aaca.png)ges/b582f1b8-08aa-440f-8ed0-4c797d4ed3e3.png)504d98f937.png)运动 | 可叠加 | 不可叠加 | 不可叠加 | 不可叠加 | 不可叠加 | 不可叠加 |
 
 # 
 

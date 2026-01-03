@@ -36,32 +36,32 @@
 * 单击资产图标可直接在镜头中央创建元件
 * 拖拽资产图标可在鼠标指定位置创建元件
 
-![](../images/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.p![](../![](../images/161f0ae5-cf17-462a-a09a-37bcf9248![](../images/7581c14e-b685-4af9-ae8a-afc10e0c9b47.png)ng)s/9f288160-2b4a-49b9-bec6-eb919fe48![](../images/5502f1![](../images/581e97bb-c22c-4429-a6fd-438bd6e81c87.png)69-4056-84![](../images/f50f60a1-a235-4dd7-af67-d208db45ddcd.png)6b6522af1f.![](../images/c013c7f7-59fb-![](../images/1a71bb59-4e78-457e-b9bd-c060451ddf58.png)a082-1ddaaa27683a.png)g)##![](../![](../images/ff57ed26-5c6f-442a-9094-8cb5f788207f.png)s/c846f90a-2573-44e3-b31a-4c27a1a2f07a.png)自定义元件右键菜单复制-粘贴创建新元件
+![](../images/f50f60a1-a235-4dd7-af67-d208db45ddcd.png)6b6522af1f.![](../images/c013c7f7-59fb-![](../images/1a71bb59-4e78-457e-b9bd-c060451ddf58.png)##![](../![](../images/ff57ed26-5c6f-442a-9094-8cb5f788207f.png)自定义元件右键菜单复制-粘贴创建新元件
 
 * 右键菜单中复制已创建的自定义元件
 * 在空白处右键选择粘贴
 
-![]()![](../![](../images/e1b9509d-b369-4744-a914-af536bf07b1a.png)s/850de340-1915-4b4f-b1fa-605319dc4c00.png![](../images/9176171f-ada0-4675-ba39-4596f4876184.p![](../![](../images/68064bc0-16d9-4953-b805-e72e1f66bd85.png)s/82c6be6a-3bc5-4632-ad12-b9c941f7d07c.png)# (3)新建的未保存元件样式
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)![](../images/9176171f-ada0-4675-ba39-4596f4876184.p![](../![](../images/68064bc0-16d9-4953-b805-e72e1f66bd85.png)# (3)新建的未保存元件样式
 
 * 物件上会挂有一个绿色加号的UI标识
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwp5h9d4h3e/9f288160-2b4a-49b9-bec6-eb919fe487f3.png)
 
 ## 2.编辑元件
 
 * 点击需要编辑的元件，右侧打开元件详情页，在详情页内可编辑元件相关的属性、组件、节点图及战斗内容，具体编辑方式同物件编辑
 * 资产栏元件右键菜单
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwp5h9d4h3e/161f0ae5-cf17-462a-a09a-37bcf92483a6.png)
 
 * 详情页元件图标菜单
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 * 修改未保存的元件样式
 * 当元件存在新增或内容修改时，对应功能模块的标题上会显示黄色高亮文字，保存后高亮消失
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 * 当自定义元件存在新增或内容修改时，物件上会挂有一个黄色感叹号的标识，并且左侧资产栏中对应图标也会标记黄色感叹号
 

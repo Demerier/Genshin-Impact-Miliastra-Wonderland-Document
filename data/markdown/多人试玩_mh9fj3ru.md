@@ -24,27 +24,27 @@
 
 刚加入试玩房间的玩家会被分配至等候区的首个剩余席位，处于等![](../images/ceaa8fa4-9341-455a-9905-9cfade2549c7.png)将不会加入后续开启的试玩中。处于等候区的玩家，可通过点击【等候区】或【准备区】![](../images/f91eefd0-2182-4fbb-a90d-39261d3b848f.png)席位，切换自身所处区域及席位。
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh9fj3rudd9q/ceaa8fa4-9341-455a-9905-9cfade2549c7.png)
 
 **受邀玩家**
-![](../images/320![](../images/65997b4d-131a-45a9-be7b-32621a4957b![](.![](../images/17d7b84e-1c5a-401a-bb8d-ec8c07a8a812.png)ges/0494a7f0-da5e-486b-b8bf-ce4679240971![](../![](../images/4212dc05-e166-454c-a456-191de0fed6ac.png)s/f61bd11f-d386-45c3-![](../images/cd0227c1-fa11-4d21-81b4-7f8c6744a5e9.png)2da2d605![](../images/8cb9acb![](../images/c4fcc805-e3f9-4058-b8e5-537645608752.png)d-4a80-![](../images/176ed1bf-9c47-4a5a-a861-27cea33fc15e.png)8dbbc91b6983.png)png))-3e62-4ea8-8361-4cf228d7726b.png)可通过下列两种方式进行席位的切换
+![](../images/cd0227c1-fa11-4d21-81b4-7f8c6744a5e9.png)2da2d605![](../images/176ed1bf-9c47-4a5a-a861-27cea33fc15e.png)8dbbc91b6983.png)png))-3e62-4ea8-8361-4cf228d7726b.png)可通过下列两种方式进行席位的切换
 
 * 点击【加入准备区】按钮后，直接加入准备区的剩余席位。
 * 点击空席位进行切换。
 
 ### (2)准备区
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh9fj3rudd9q/f91eefd0-2182-4fbb-a90d-39261d3b848f.png)
 
 准备区用于承![](../images/28925999-7d83-4373-bff9-43a34dcaebac.png)参与到试玩的玩家，受邀玩家可在该区域完成关卡的下载并准备试玩。
 
 准备区：读取【关卡设置】——【人数设置】相关的设置内容（人数，分组）。
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 **受邀玩家**
 
-![]![](../images/413beb8e-8411-4cff-9760-69f086d5c145.png)家处于准备区时，可通过点击右下角底部的【![](../images/ce01265c-501a-4be![](../images/42c9bdc8-d589-4f7d-a81d-65a385e17f84.png)2![](../images/deb0b384![](../images/1d32d253-9b87-4e47-bea4-b9bc07572c94.png)-44e4-a292-f8614a00ac41.png)53848d19.png)来表示自己准备参与关卡的游玩
+![]![](../images/413beb8e-8411-4cff-9760-69f086d5c145.png)家处于准备区时，可通过点击右下角底部的【![](../images/deb0b384![](../images/1d32d253-9b87-4e47-bea4-b9bc07572c94.png)53848d19.png)来表示自己准备参与关卡的游玩
 
 ![]()![]()
 
@@ -60,7 +60,7 @@
 * **搜索邀请**
 
 !![](../images/f0315bed-d343-495d-a4ba-2dda34d32fa2.png)
-可通过输入U![](../images/d4350![](../images/fb04d353-4a4a-4d59-8f60-45671b306854.png)21e-4b50-9839-dda9463f6bee.png)进行玩家![](../images/1e8e6dec-4456-4737-bc72-32084c62efb![](../![](../images/ebad070b-650b-4051-b510-4ad298b03306.png)s/8dafed81![](../images/d4bf233d-b7aa-44ba-801d-c93b618e0e30.png)-4c04-a8a4-004460607c48.png))，查询后，可通过【邀请】按钮发送试玩邀约，玩家响应后会加入试玩房间。
+可通过输入U![](../images/d4bf233d-b7aa-44ba-801d-c93b618e0e30.png)-4c04-a8a4-004460607c48.png))，查询后，可通过【邀请】按钮发送试玩邀约，玩家响应后会加入试玩房间。
 
 ![]()
 
@@ -81,7 +81,7 @@
 玩家受到多人试玩邀请后，有15秒的响应时间，超过响应时间后，将自动拒绝邀请。
 
 **邀请限制**
-![](../images/75cb3c81-eab6-4afa-9af9-76eafc990b6b.png![](../images/ca3ee2fc-e159-4dba-98e3-802648c60b91.png)日最多可共计邀请16名玩家参与试玩，每日零点清除【今日邀请列表】。![](../images/c656f6d3-e5de-477b-9a21-e84d613bf577.png)玩家：当受邀者处于关卡、地城、编辑中等情形时，无法受到试玩邀约。
+![](../images/c656f6d3-e5de-477b-9a21-e84d613bf577.png)玩家：当受邀者处于关卡、地城、编辑中等情形时，无法受到试玩邀约。
 
 ### (4)开启试玩
 

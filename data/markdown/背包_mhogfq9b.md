@@ -41,6 +41,6 @@
 
 在实际![](../images/7ba83e87-2d39-467d-b91a-b9bfb106efe9.png)包模板定义由[背包组件](./背包组件_mh5y5001.md)进行引用并实例化
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhogfq9bf86q/7ba83e87-2d39-467d-b91a-b9bfb106efe9.png)
 
 #

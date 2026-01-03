@@ -40,15 +40,15 @@
 
 复合节点内部是一张*子节点图*，这张子节点图![](../images/5f4a6b76-7c24-4a3c-b69d-8ac5f17b2793.png)特定的功能（例如下图的为自定义变量增加值）
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
-在复合节点图内部，可以指定将哪些引脚对外暴露（即下图框出的引脚![](../images/df93d302-16b0-4ab2-b780-6dd3b6cd8c32.png)图中连接在这些引脚上的称为*虚拟引![](../images/b3359795-772d-465f-a![](../images/38fac95![](../images/1b7aae6b-a049-4e56-b6ea-d91261b![](../images/1b652c75-3713-41![](../images/ed9f0aac-94c7-4f59-b92f-0ce393![](../images/4d77493a-fac0-489a-b12f-5edb8ce39267.png)9.png)c7-5c3cb874f65a.png).png)a-483a-a032-22028e35d230.png)e85c0e0535a.png)相当于这个复合节点对外连接的入引脚或出引脚
+在复合节点图内部，可以指定将哪些引脚对外暴露（即下图框出的引脚![](../images/df93d302-16b0-4ab2-b780-6dd3b6cd8c32.png)图中连接在这些引脚上的称为*虚拟引![](../images/b3359795-772d-465f-a![](../images/38fac95![](../images/1b7aae6b-a049-4e56-b6ea-d91261b![](../images/1b652c75-3713-41![](../images/ed9f0aac-94c7-4f59-b92f-0ce393![](../images/4d77493a-fac0-489a-b12f-5edb8ce39267.png).png)a-483a-a032-22028e35d230.png)e85c0e0535a.png)相当于这个复合节点对外连接的入引脚或出引脚
 
 ![]()
 
 ![](../images/486b0812-7854-4ea4-ad87-f082d5879f6a.png)引脚，可以在外部节点图中当作正常的引脚使用，如下图所示。虚拟引脚上的序号数字与节点图编辑内的引脚序号数字是相同的
 
-其![](../images/a1de0c45-c495-4bc8-9c2a-![](../images/1e0460c6-241d-4476-8cbf-0826fdbde7ff.png)7864afa.png)体】、【变量名】、【是否触发事件】就![](../images/7d5f06d![](../images/6e176ae2-22a7-4da7-bec2-a34300a43eb5.png)b-4fd2-a7ba-a9d64edf624d.png)设置自定义变量![](../images/64d2a993-6a66-4bf7-ba5a-cbf6a0aec![](.![](.![](../images/e61adc66-c6a4-423e-9430-13646f201943.png)ges/b0aa1c44-876b-4bc4-![](../images/0188bb61-0d![](../images/b7fe0773-cabc-4c61-a1bf-a88e6b1d1f90.png)ff-bb66![](../images/93cf9b08-afd7-422c-9589-e10835598210.png)4516![](../images/80a96672-d7ba-4a10-80e8-fba0f3965043.png)png)5af4834e![](../![](../images/c0da858a-2055-4c32-bc14-588f386f4b69.png)s/673f5dae-e696-4df7-a21d-6609a65857fa.png)png)ges/c6c8750e-9de8-467a-8334-eb2bf248c1b1.png)ng)引出的
+其![](../images/7d5f06d![](../images/6e176ae2-22a7-4da7-bec2-a34300a43eb5.png)设置自定义变量![](../images/93cf9b08-afd7-422c-9589-e10835598210.png)4516![](../images/80a96672-d7ba-4a10-80e8-fba0f3965043.png)png)5af4834e![](../![](../images/c0da858a-2055-4c32-bc14-588f386f4b69.png)ges/c6c8750e-9de8-467a-8334-eb2bf248c1b1.png)ng)引出的
 
 ![]()
 

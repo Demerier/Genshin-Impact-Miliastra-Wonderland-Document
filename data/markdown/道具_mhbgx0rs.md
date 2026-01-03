@@ -16,9 +16,9 @@
 
 ![](../images/cdfff26c-1ee5-41b0-9635-050523dd35a9.png)
 
-![](../![](../images/4c3132a5-daa8-4bd6-9889-079d418d8486.png)s/30ed0806a04f93661a9006d69c02dc55_1818![](../images/cdfff26c-1ee5-41b0-9635-050523dd35a9.png)1287328309.png)
+![](../images/cdfff26c-1ee5-41b0-9635-050523dd35a9.png)1287328309.png)
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 *道具名称*：在实际游玩时界面上显示的道具名
 
@@ -28,7 +28,7 @@
 
 ## 1.基础设置
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhbgx0rspbqu/4c3132a5-daa8-4bd6-9889-079d418d8486.png)
 
 基础设置主要定义了一个道具的外显信息，以及在背包内的显示形式
 
@@ -50,7 +50,7 @@
 
 ## 2.掉落设置
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 道具可以以多种方式从背包里掉落到场景内，包括持有者被击倒、节点图主动触发等，掉落设置部分定义了当产生一次掉落行为时，具体执行的逻辑
 

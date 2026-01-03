@@ -20,25 +20,25 @@
 
 通过计时器管理工具，可预定义所有的全局计时器。
 
-![](../images/30ed0806a04f93661a9006d![](../images/3fe3631c-95ca-45![](../images/90b1c534-6797-441![](../im![](../images/8b55b178-![](../![](../images/9f203aa9-a181-44![](../images/ad3a2fcc-0166-4f4a-aa4c-b0db9c463f95.png)d5-9235983ab44e.png)s/ad5fd724-2910-47e5-8988-e87176745d58.png)4e95-87fe-1d2717055893.png)c6eeebe1-6db5-48fb-93d6-0344c0833674.png)3-59cf7364ebac.png)5f-44d85910bb84.png)dc55_1818194431287328309.png)
+![](../images/30ed0806a04f93661a9006d![](../images/3fe3631c-95ca-45![](../images/90b1c534-6797-441![](../im![](../images/8b55b178-![](../![](../images/9f203aa9-a181-44![](../images/ad3a2fcc-0166-4f4a-aa4c-b0db9c463f95.png)4e95-87fe-1d2717055893.png)c6eeebe1-6db5-48fb-93d6-0344c0833674.png)3-59cf7364ebac.png)5f-44d85910bb84.png)dc55_1818194431287328309.png)
 
 *![](../images/e26eb8e7-cbd0-4c6c-9859-daf9fc9a085c.png)器列表
 
 枚举当前关卡所有预定义的全局计时器
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhawd6rl5kpy/3fe3631c-95ca-4575-9c5f-44d85910bb84.png)
 
 # 四、全局计时器的编辑
 
 * 添加计时器
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 通过上图按键，可新增计时器
 
 * 命名和序号
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 点击![]()图标，可重命名，或删除指定计时器
 
@@ -60,9 +60,9 @@
 
 # 五、全局计时器的引用
 
-## *![](../![](../images/a12f91a3-3041-41e3-93e9-389017c42782.png)s/7e0ee71d-86ec-485![](../images/aff55349-a7b7-4a2f-b007-560b468ea9c5.png)3-d6eabe621e0a.png)面控件引用全局计时**器
+## *![](../images/aff55349-a7b7-4a2f-b007-560b468ea9c5.png)3-d6eabe621e0a.png)面控件引用全局计时**器
 
-打开[界面布局](/ys/ugc/tutorial//detail/mh![](../images/26c10710-d98f-46da-8dcc-a![](../images/37a56f74-2192-48d9-8fb3-6ed869625f37.png)779278.png)74ng![](../images/4417c741-6568-4d68-8865-a33aa0081223.png)具，选择[计时器界面控件](/ys/ugc/t![](../images/0a1f3b39-594b-4e08-8e0b-57b8e62df600.png)al//detail/mhnrdor7uyra)的“计时器”，进行编辑
+打开[界面布局](/ys/ugc/tutorial//detail/mh![](../images/4417c741-6568-4d68-8865-a33aa0081223.png)具，选择[计时器界面控件](/ys/ugc/t![](../images/0a1f3b39-594b-4e08-8e0b-57b8e62df600.png)al//detail/mhnrdor7uyra)的“计时器”，进行编辑
 
 ![]()
 
@@ -74,7 +74,7 @@
 | *来源实体* | 默认配置为关卡实体，可选择关卡实体，或者玩家实体 |
 
 * 选择的来源实体需要配置“全局计时器组件”
-* 若界面控件配置的计时器，在来源实体运行时并![](../images/80d0892a-e61c-4b44-ae25-83b5af94![](../images/2529c1b6-c4a5-4cc8-93a3-c267839cb769.png)png)面控件会显示默认值00:00
+* 若界面控件配置的计时器，在来源实体运行时并![](../images/80d0892a-e61c-4b44-ae25-83b5af94![](../images/2529c1b6-c4a5-4cc8-93a3-c267839cb769.png)面控件会显示默认值00:00
 
 当来源实体运行时，所选计时器处于生效状态![](../images/918f3ebe-bd81-42ae-bf28-05a9228ff3f8.png)控件激活时，该界面控件会显示具体计时器的时间信息
 

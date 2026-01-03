@@ -31,12 +31,12 @@
 |  |  |
 | --- | --- |
 | 配置参数 | 说明 |
-| *初始生效选项卡* | 下拉菜单提供选项卡枚举  通过修改后面的勾选框，![](.![](../images/88f83311-30a4-434![](../images/7c3918a0-6563-47ec-bf0c-d8396b405f![](../images/41![](../images/248ee51d-6a8c-4b1d![](../images/cfeff724-9fa5-4b59-86b8-6b4708876ad1.png![](../images/b38366![](../images/279a7ea0-b26d-4cb4-8f5d-04790bb02148.png)10-47ca-ba93-f488937bf84c.![](../images/d6f02735-09ef-41ee-a0ca-ba5905527421.png)f6a44529.png)b-0a5f-49a2-8565-e209f5851e51.png)g)0-92483517bb95.png)ges/c423d851-c![](../![](.![](../images/03e8430f-5ae2-403c-aa87-b32c2606699d.png)ges/7a500877-045a-4ac1-91fa-e331d4757de9.png)s/77feb70d-503e-4841-8b9f-5812853dfdb2.png)7bd-b205-2d090c9c7acf.png)效情况，![](../images/80339b63![](../images/edc![](../images/7001a998-33ee-409b-8332![](../images/5b396071-b1e5-4665-a230-0ad24c0f84e6.png)0f757bcc.png)-8dac-4128-bacc-b6e157f0f677.png)-4cd6-93bb-1d92ba524781.png)状态会同步到选项卡编辑页内 |
+| *初始生效选项卡* | 下拉菜单提供选项卡枚举  通过修改后面的勾选框，![](../images/d6f02735-09ef-41ee-a0ca-ba5905527421.png)f6a44529.png)b-0a5f-49a2-8565-e209f5851e51.png)g)0-92483517bb95.png)ges/c423d851-c![](../![](.![](../images/03e8430f-5ae2-403c-aa87-b32c2606699d.png)7bd-b205-2d090c9c7acf.png)效情况，![](../images/80339b63![](../images/edc![](../images/7001a998-33ee-409b-8332![](../images/5b396071-b1e5-4665-a230-0ad24c0f84e6.png)-4cd6-93bb-1d92ba524781.png)状态会同步到选项卡编辑页内 |
 | *\*选项卡列表* | 枚举实体配置的所有选项卡 |
 
-可以通过点击![]()![]()来切换选项卡在编辑窗口的可见性状态，仅编辑时生效
+可以通过点击![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh5jko05fzyw/c423d851-ceee-47bd-b205-2d090c9c7acf.png)![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh5jko05fzyw/c423d851-ceee-47bd-b205-2d090c9c7acf.png)来切换选项卡在编辑窗口的可见性状态，仅编辑时生效
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 点击“详细编辑”可进![](../images/2de29b16-d266-4f97-80c5-31090c952fdd.png)表和触发区域![](../images/e1d49f69-8279-40d2-b324-6c2b1cbb7117.png)
 ### (2)选项卡列表

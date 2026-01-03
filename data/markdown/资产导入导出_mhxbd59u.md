@@ -29,7 +29,7 @@
 ## 3.关联项导出
 
 * 元件导出时
-* 挂载节点图跟随文件同步导![](../images/97ca8006-3f45-4![](../images/2578![](../images/731d2fce-3da6-481a-b0c3-b50c1a51bd6a.png)ca38-4f5f-8![](../images/da87896e-9221-4c96-96d8-ef3a8483f40e.png)f1dcb83e35d.png)7db-019532d371cc.png)体导出时
+* 挂载节点图跟随文件同步导![](../images/da87896e-9221-4c96-96d8-ef3a8483f40e.png)f1dcb83e35d.png)7db-019532d371cc.png)体导出时
 * 归属元件（如有），挂载节点图同步导出
 
 ## 4.操作流程
@@ -38,11 +38,11 @@
 
 * 选择导出至本地的文件夹，输入文件名。
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 * 等待文件生成。
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 * 导出流程结束，存档文件生成于所选文件路径。
 
@@ -52,12 +52,12 @@
 
 ![]()
 
-* 地形编辑 - 地形实体，物件实体，造物实体![](../images/1964a26![](../images/03a5a969-96f8-459a-9929-453f01c2371f.png)b-41b8-851c-b6af3da5e3f3.png)体摆放 - 物件实体，造物实体。
+* 地形编辑 - 地形实体，物件实体，造物实体![](../images/1964a26![](../images/03a5a969-96f8-459a-9929-453f01c2371f.png)体摆放 - 物件实体，造物实体。
 * 元件库 - 物件元件，造物元件。
 
-## *![](../images/d4b1d65d-f2cd-4547-a114-fb11c![](../images/2f30283a-4e62-4![](../images/e9f508b9-883b-![](../images/7747cd09-7![](../images/c59c8d71-084d-4![](../images/dddf![](../images/4d273e9f-9096-4372-b2a3-534a042e4387![](../images/2c0285fa-9877-4e3c-b9b8-974fc379e6c8.png)2700-41ea-ae2d-dc560d9707e4.png)e19-b64b35430bdd.png)ed3-b5ec-412f0b789596.png)a59e-90a5d9e58bab.png)d83-3cc83953b658.png)d7.png)逻辑**
+## *![](../images/d4b1d65d-f2cd-4547-a114-fb11c![](../images/2f30283a-4e62-4![](../images/e9f508b9-883b-![](../images/7747cd09-7![](../images/c59c8d71-084d-4![](../images/dddf![](../images/4d273e9f-9096-4372-b2a3-534a042e4387![](../images/2c0285fa-9877-4e3c-b9b8-974fc379e6c8.png)ed3-b5ec-412f0b789596.png)a59e-90a5d9e58bab.png)d83-3cc83953b658.png)d7.png)逻辑**
 
-多选内容导出时，以组合资产的形式导出形成单个文件（.![](../images/ea28f813![](../images/3fc782ab-70e8![](../images/e110![](../images/3d60d2d7-2b05-4b1f-944b![](../images/156a9715-c5cc-4631-b6c5-67abe5ca229b.png)7f6d9a5f.png)216b-493b-86b8-fae948b7350b.png)-8f5a-08c74aa0bebb.png)-4eff-94d0-11feb1a3bd2a.png)外部资产加载后，将以组合包的形式出现在【导入与转存】界面。
+多选内容导出时，以组合资产的形式导出形成单个文件（.![](../images/ea28f813![](../images/3fc782ab-70e8![](../images/e110![](../images/3d60d2d7-2b05-4b1f-944b![](../images/156a9715-c5cc-4631-b6c5-67abe5ca229b.png)-8f5a-08c74aa0bebb.png)-4eff-94d0-11feb1a3bd2a.png)外部资产加载后，将以组合包的形式出现在【导入与转存】界面。
 
 ![]()
 
@@ -65,7 +65,7 @@
 
 ## **3.操作流程**
 
-![](../images/a9c98bbf![](../images/e7e69f52-0c66-4483-b5a5-145c4460c4a3.png)-47ca-8b92-e83381d5d30f.png)中单个内容保持一![](../images/3d21a85d-d432-46b3-8bdf-ece631ff4180.png)# **4.关联项导出**
+![](../images/3d21a85d-d432-46b3-8bdf-ece631ff4180.png)# **4.关联项导出**
 
 * 元件导出时
 * 挂载节点图跟随文件同步导出。

@@ -1,4 +1,11 @@
-# Website Crawler Package
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+原神千星奇域·综合指南 - 网站爬取项目包
+
+提供完整的网页爬取、解析和转换功能，用于将原神千星奇域官方文档转换为Markdown格式。
+"""
 
 __version__ = "1.0.0"
 

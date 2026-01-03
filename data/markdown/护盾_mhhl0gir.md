@@ -36,7 +36,7 @@
 
 *忽略护盾强效*：添加护盾值时，是否忽略目标实体的【护盾强效调整率】属性
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhhl0gire830/863c111a-b34e-4961-a4ea-82132c9b11a0.png)
 
 *无限吸收*：开启时将使吸收比例变为无限（即每次吸收伤害时只扣除1点护盾值）
 
@@ -54,7 +54,7 @@
 
 其中的护盾配置引用上述预先配置好的护盾模板
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 # 四、护盾的结算模式
 

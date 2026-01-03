@@ -26,19 +26,19 @@
 
 分为路径管理栏、路径配置栏
 
-![](../images/30ed0806a04![](../images/6ff41158-![](../images/aa6cba16-7494-42c5-9785-f952c385e3a2.pn![](../![](../images/ff1efd52-e091![](../images/8dbc6f5a-![](../![](../images/cc41ec94-5433-4a65-bc70-1195c39c3757.png![](../![](.![](../images/8bf7dc45-51![](../images/13![](../images/736c6e05-c0e3-49a5-874d-7820c780929b.png)7-f906-4e8e-a3c6-1742122c551f.png)9b-9f0b-014f20c5c8b0.png![](../images/f21423ca-e157-45b0-97a2-0d9183276ad9.png)88e8b888-2347-4a4b-9f84-6d776d143b31.png)s/092d7e31-cbab-4452-a3e9-46bd285b041e.png)7de88a-db11-4916-8eab-a0bd69029ebf.png)42e9-8ffd-cdfb813dce17.png)-b9ce-36b2894a2c6b.png)s/d17a83e0-884d-49eb-ab59-eb0a81488b45.png)b-8873-676![](../images/f83074b3-fda2-45f2-92b9-e2c2d61f1166.png)e034.png)1a9006d69c02dc55_1818194431287328309.png)
+![](../images/f21423ca-e157-45b0-97a2-0d9183276ad9.png)88e8b888-2347-4a4b-9f84-6d776d143b31.png)s/092d7e31-cbab-4452-a3e9-46bd285b041e.png)7de88a-db11-4916-8eab-a0bd69029ebf.png)42e9-8ffd-cdfb813dce17.png)-b9ce-36b2894a2c6b.png)s/d17a83e0-884d-49eb-ab59-eb0a81488b45.png)b-8873-676![](../images/f83074b3-fda2-45f2-92b9-e2c2d61f1166.png)e034.png)1a9006d69c02dc55_1818194431287328309.png)
 
 ### **(1)路径管理栏**
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 * 新建路径
 
-通过【创建路径】![]()可以新建路径
+通过【创建路径】![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh333vim2h44/6ff41158-689b-466b-8873-6761fc3de034.png)可以新建路径
 
 新建的路径默认属于*\*未分类页签*
 
-并以屏幕中![](../images/![](../![](../images/518180a9-82e6-4bfc-9e6e-21456c449433.png)s/4f888148-84b2-4d2e-872a-6338339646d6.png)71c-f042-4e54-af3a-c24d89d48711.png)路径的第一个路点
+并以屏幕中![](../images/![](../![](../images/518180a9-82e6-4bfc-9e6e-21456c449433.png)路径的第一个路点
 
 ![]()
 

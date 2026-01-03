@@ -47,7 +47,7 @@
 
 由于局内存档变量与局内存档的定义一一对应，所以无法直接修改玩家上的局内存档变量
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhzcw29qjjma/94c196cc-116f-41e5-88e5-3e33b088728b.png)
 
 在玩家进入关卡时，会根据其携带的局内存档数据，将局内存档数据写入玩家实体上的局内存档变量。这个步骤称为*读档*
 
@@ -71,7 +71,7 @@
 
 以下图为例，在局内存档结构体定义时，使用的所有列表类型数据都需要定义其长度（下图的词缀id列表长度为10，即最多存放10个整数）
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 此外每个局内存档模板作为一个结构体列表，自身也有长度限制。超出长度的部分在存档时同样会被截断
 
@@ -89,7 +89,7 @@
 不推荐以下的局内存档操作
 
 * 删除一个已发布的局内存档模板，或![](../images/01d01bb0-9fcc-4cf3-a392-08bcc557eb8d.png)一个与之前局内存档模板结构完全不同的新的局内存档模板。
-* 缩减![](../images/68a993ed-5b0d-429f-ae72-28dac21e9c6a.png)内![](../images/eee6ffc6-2f8f-4b2d-9708-d6ab3edc72b![](../images/ebb2d3de-4ca4-4285-a5e7-61bf1e62df57.png))最大长度。
+* 缩减![](../images/68a993ed-5b0d-429f-ae72-28dac21e9c6a.png)内![](../images/eee6ffc6-2f8f-4b2d-9708-d6ab3edc72b![](../images/ebb2d3de-4ca4-4285-a5e7-61bf1e62df57.png)最大长度。
 * 从已发布的局内存档模板中修改局内存档引用的结构体类型或删除已有的局内存档。
 * 对已发布的局内存档结构体的成员数据类型进行修改或删除成员。
 
@@ -101,7 +101,7 @@
 
 ![]()
 
-局内存档结构体与基础结构体有着相似的配置方式（基础结构体配置方式见[结构体]![](../images/ac98365d-18d![](../images/0a545152-708a-4179-9867-5ea4d2bd9398.png)6-![](../images/1966c3d3-b47f-4ac6-974c-6d56420daecf.png)5c85e7894140.png)ugc/tutorial//detail/mh3fmi0t99ns)）
+局内存档结构体与基础结构体有着相似的配置方式（基础结构体配置方式见[结构体]![](../images/1966c3d3-b47f-4ac6-974c-6d56420daecf.png)5c85e7894140.png)ugc/tutorial//detail/mh3fmi0t99ns)）
 
 ![]()
 

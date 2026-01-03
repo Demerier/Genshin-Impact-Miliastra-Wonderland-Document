@@ -12,19 +12,19 @@
 
 ## **2.整体编辑界面**
 
-![](../images/30ed08![](../images/9fec83a9![](../images/eae4c048-4c53-4f5b-a1bd-002647fff4![](../images/7e75a4d1-aabf-462a-923e-d07c8267eaf3.png)g)-4455-aae9-80e41ee4aad4.png)f93661a9![](../images/72e46f5b-a3b2-40df-9bb5-3924fe2debde.png)9c02dc55_181![](../images/29c5f8c3-ca5b-4e8c-8375-6704bbf2e849.png![](../images/56d75fe4-f9a2-4fa5-be3e-d9333b7cfa94.png)7328309.png)
+![](../images/30ed08![](../images/9fec83a9![](../images/eae4c048-4c53-4f5b-a1bd-002647fff4![](../images/7e75a4d1-aabf-462a-923e-d07c8267eaf3.png)f93661a9![](../images/72e46f5b-a3b2-40df-9bb5-3924fe2debde.png)9c02dc55_181![](../images/29c5f8c3-ca5b-4e8c-8375-6704bbf2e849.png![](../images/56d75fe4-f9a2-4fa5-be3e-d9333b7cfa94.png)
 
 ### (1)预设点库
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 所有预设点在这个窗口枚举。
 
-![]() 可管理对应预设点在布设场景的可见性
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhfvn30ctm9c/9fec83a9-de33-4455-aae9-80e41ee4aad4.png) 可管理对应预设点在布设场景的可见性
 
 ### **(2)编辑窗口预设点可见**性
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 *常驻显示开关开启* 关闭预设点管理工具，在编辑窗口也可以看到所有预设点
 
@@ -32,11 +32,11 @@
 
 ### **(3)创建预设**点
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 通过点击“创建预设点”，在当前编辑窗口中央生成新的预设点。并自动开启命名编辑。
 
-### **(4)![](../images/15790b35-8fb4-4c0d-a205-dd2cf8592f78.png![](../images/c2669f6d-dee1-462c-b![](../images/b7332300-92bf-489c-![](../images/09008a48-970![](../images/872aed02-b33f-![](../images/8af9c22b-3ead-44b8-8660-f371ddb6339e.png)92c4-d12b8f7c0b17.png)3-910b-25fa140f1155.png)e27d22d1d010.png)abc201ba470.png)
+### **(4)![](../images/15790b35-8fb4-4c0d-a205-dd2cf8592f78.png![](../images/c2669f6d-dee1-462c-b![](../images/b7332300-92bf-489c-![](../images/09008a48-970![](../images/872aed02-b33f-![](../images/8af9c22b-3ead-44b8-8660-f371ddb6339e.png)e27d22d1d010.png)abc201ba470.png)
 ![]()
 
 *预设点名称*预设点的名称，可以修改

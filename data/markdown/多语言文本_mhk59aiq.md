@@ -19,9 +19,9 @@
 ![](../images/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)![](../images/cfe15754-6bce-4b3a-b13f-2d7ff86ee53f.png)*：用于搜索对应的文本，搜索内容为原始语言对应的文本
 
 *来源*：用于展示该文本的来源，展示其使用的位置，可进行筛选  
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
-*是否需要翻译*![](.![](../images/e936a2bb-09c3-4f05-8016-41198712be29.png)ges/fadbb652-dd46-428a-949d-a088c9d34be4.png)该文本是否需要翻译
+*是否需要翻译*![](.![](../images/e936a2bb-09c3-4f05-8016-41198712be29.png)该文本是否需要翻译
 
 是：该文本的每一种支持的语言都需要翻译，存在未翻译内容时会导致上传失败
 
@@ -29,7 +29,7 @@
 
 后续列中展示内容为该存档原始语言+支持语言，点击右下方【支持语言】可选择该存档可支持的多语言
 
-![]()![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhk59aiqtwyk/fadbb652-dd46-428a-949d-a088c9d34be4.png)![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhk59aiqtwyk/fadbb652-dd46-428a-949d-a088c9d34be4.png)
 
 *刷新列表*：再次提取存档中的文本内容
 

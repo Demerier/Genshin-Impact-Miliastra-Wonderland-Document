@@ -20,15 +20,15 @@
 
 *成就设置*：成就功能整体逻辑的开关和有效性设置
 
-*是否开启成就*：是否开启成就功能![](../images/ff24d4af-5158-4535-a332-e33f9![](../images/2b7cccdb-2865-4386-8630-eac736b78d04.png)a7.png)房间内游玩结算成就*：当玩家通过房间组队而非匹配来游玩本关卡时，是否允许节点图进行成就进度的设置
+*是否开启成就*：是否开启成就功能![](../images/ff24d4af-5158-4535-a332-e33f9![](../images/2b7cccdb-2865-4386-8630-eac736b78d04.png)房间内游玩结算成就*：当玩家通过房间组队而非匹配来游玩本关卡时，是否允许节点图进行成就进度的设置
 
 ![](../images/9a0f1c19-e7ab-467f-89fa-9f8f1ed071ff.p![](../images/dd598448-62a0-46bf-b560-033a6a946af3.png)成就
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh65jrr2yj3i/ff24d4af-5158-4535-a332-e33f9c0f91a7.png)
 
 *极致成就*：极致成就相关设置，点击右侧编辑按钮，可进入详情编辑界面
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 *成就名称*：成就的名称，作为展示用，可在下方的成就名称中修改
 
@@ -38,9 +38,9 @@
 
 ## 2.普通成就
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
-*普通成就*：点击右下方的新建成![](../images/7f666![](../images/646ba![](../images/b1892306-40d3-4238-bb1e-aae118f844fb.png)932-42cb-ad4b-cd513e367ebc.png)d8c-4aa5-9aee-1fa5d6bc165a.png)可新增一个普通成就，点击编辑按钮进行详情编辑
+*普通成就*：点击右下方的新建成![](../images/7f666![](../images/646ba![](../images/b1892306-40d3-4238-bb1e-aae118f844fb.png)可新增一个普通成就，点击编辑按钮进行详情编辑
 
 ![]()
 

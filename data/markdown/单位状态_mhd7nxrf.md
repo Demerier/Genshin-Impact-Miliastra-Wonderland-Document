@@ -24,14 +24,14 @@
 
 在单位状态的详情页面，可以点击【选择状态】来新增一个单位状态配置
 
-![](../images/30ed0806a04f93661a9006d69c02dc55_181![](../images/7477888a-c8a0-4417-8724-5d371022a9ca.png)312![](../images/6aea09dd-e485-4ee2-8f72-47af479aa75c.png)309.png)
+![](../images/6aea09dd-e485-4ee2-8f72-47af479aa75c.png)309.png)
 
 在弹出的页签中，可以查询到一些预制的单位状态，以及创作者(奇匠)自己配置的单位状态
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 **步骤3**：配置默认单位状态
 
 选择特定状态后，可以配置默认的单位状态，并为其配置*初始层数*
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhd7nxrfa8im/7477888a-c8a0-4417-8724-5d371022a9ca.png)

@@ -24,9 +24,9 @@
 
 编辑文本框内显示的内容，支持编辑基础字符、文字、数字，自定义变量。
 
-![](../![](../images/6eb7b309-a986-4803-b06d-0d9021e06db6.png)s/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
+![](../![](../images/6eb7b309-a986-4803-b06d-0d9021e06db6.png)
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 通过插入变量，可以选择预定义在关卡实体、玩家实体上的*自定义变量*
 
@@ -57,7 +57,7 @@
 
 可根据文本位置与内容选择合适的对齐方式
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnltrr3g966/8bc744ed-2c89-484e-a6de-8358948f5c86.png)
 
 |  |  |  |
 | --- | --- | --- |
@@ -74,4 +74,4 @@
 
 调整后，其位置、大小参数会同步进行更新。
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)

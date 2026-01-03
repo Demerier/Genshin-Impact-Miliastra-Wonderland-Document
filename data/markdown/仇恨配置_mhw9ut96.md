@@ -156,7 +156,7 @@
 
 ## 1.全局仇恨配置
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhw9ut96q96y/155afb4d-d7bb-4f8b-b5cc-7aa4600d91c8.png)
 
 在关卡设置中，可以配置仇恨相关的全局配置，包括
 
@@ -168,7 +168,7 @@
 
 ### (1)物件的仇恨配置
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 *产生仇恨的倍率*：该物件通过造成伤害和生命恢复行为产生仇恨的倍率
 
@@ -176,7 +176,7 @@
 
 *是否同步仇恨值*：是否将该实体拥有的仇恨列表中的仇恨值同步至客户端（默认情况下不会同步仇恨值，仅同步仇恨对象），这通常用于需要在界面上显示仇恨值时使用。这个按钮仅在【是否开启仇恨记录】为开启的情况下可用
 
-### (2)职业的![](../images/160fc9bb-71![](../images/2bf54bae-5![](../images/65d42ac7-![](../images/dc6de8![](../images/3841![](../images/9ee8![](../images/848a767a-![](../images/00b70280-b![](../images/e5895842-![](../images/7f7367a3-7![](../images/6960bc2f-c06f-4![](../images/1fc08ae6-c72a-![](../images/186197bf-d![](../images/3065b466-9![](../images/ceef9fe8-8258-444e-8803-![](../images/efd5bd57-dc0![](../images/d0a![](../images/f0ff8bdc-69![](../images/5b12e79b-0![](../images/53565da5-![](../images/d5c3689c-![](../images/f11a4e07-![](../images/6774aefc-d![](../images/c601453e-c![](../images/0df1d14c-a9bb-4f02-aadd-7657a94119a7.png)9b3-ade1-959486bdadaf.png)aaf-8ef0-4de256264cbe.png)4a31-a585-b53ed58edfcd.png)450d-954a-f5a802fd46cb.png)4319-a526-4bceade73a4b.png)482-a6ec-242cc853266f.png)0a-8b7d-1d891c98b158.png)-561a-475b-8ea7-0af5a824b9a1.png)e-a713-3f9d2abd90ff.png)0fa6aa2.png)a42-9275-f7d397b6458e.png)f72-b25f-a21f67eb87a5.png)b81f-a7c0f2581296.png)887-f60f6ddf4791.png)e8e-a665-0bfdcaae2cee.png)49f0-864e-f4db6f0db7ca.png)600-825b-c318b320aa9c.png)489e-8199-1f89e2ccc438.png)59bc-4228-ae0e-4eb5b6a6f8ad.png)0b81-40ca-b03f-3caf0cd74da3.png)33-4a2f-9dd5-d8f1aa09c868.png)430f-95f8-049a49a44663.png)48a-b00c-7acf03bee9eb.png)ff-b4be-83938bd8047a.png)
+### (2)职业的![](../images/160fc9bb-71![](../images/2bf54bae-5![](../images/65d42ac7-![](../images/dc6de8![](../images/3841![](../images/9ee8![](../images/848a767a-![](../images/00b70280-b![](../images/e5895842-![](../images/7f7367a3-7![](../images/6960bc2f-c06f-4![](../images/1fc08ae6-c72a-![](../images/186197bf-d![](../images/3065b466-9![](../images/ceef9fe8-8258-444e-8803-![](../images/efd5bd57-dc0![](../images/d0a![](../images/f0ff8bdc-69![](../images/5b12e79b-0![](../images/53565da5-![](../images/d5c3689c-![](../images/f11a4e07-![](../images/6774aefc-d![](../images/c601453e-c![](../images/0df1d14c-a9bb-4f02-aadd-7657a94119a7.png)4a31-a585-b53ed58edfcd.png)450d-954a-f5a802fd46cb.png)4319-a526-4bceade73a4b.png)482-a6ec-242cc853266f.png)0a-8b7d-1d891c98b158.png)-561a-475b-8ea7-0af5a824b9a1.png)e-a713-3f9d2abd90ff.png)0fa6aa2.png)a42-9275-f7d397b6458e.png)f72-b25f-a21f67eb87a5.png)b81f-a7c0f2581296.png)887-f60f6ddf4791.png)e8e-a665-0bfdcaae2cee.png)49f0-864e-f4db6f0db7ca.png)600-825b-c318b320aa9c.png)489e-8199-1f89e2ccc438.png)59bc-4228-ae0e-4eb5b6a6f8ad.png)0b81-40ca-b03f-3caf0cd74da3.png)33-4a2f-9dd5-d8f1aa09c868.png)430f-95f8-049a49a44663.png)48a-b00c-7acf03bee9eb.png)ff-b4be-83938bd8047a.png)
 ![]()
 
 *产生仇恨的倍率*：拥有该职业的角色通过攻击和生命恢复行为产生仇恨的倍率

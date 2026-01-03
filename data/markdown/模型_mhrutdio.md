@@ -27,21 +27,21 @@
 
 ![](../images/2cc53650-7dc6-437d-9182-ee9ada267e5e.png)
 
-![](../images/30ed0806a04f93661a![](../images/2![](../images/f![](../images/e5ad53aa-f4ee-4c4c-9370-c402909b900a.png)14-6470-493f-89ff-27e6b291a96c.png)50-7dc6-437d-9182-ee9ada267e5![](../images/b63c7944-de94-47ed-8ca7-0fb8d2d0d954.png))69c02dc55_1818194431287328309.png)
+![](../images/b63c7944-de94-47ed-8ca7-0fb8d2d0d954.png))69c02dc55_1818194431287328309.png)
 
 ## 2.节点图控制预设状态
 
 预设状态变化时
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 设置预设状态
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhrutdio6904/2cc53650-7dc6-437d-9182-ee9ada267e5e.png)
 
 获取预设状态
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 # 二、单位挂接点
 
@@ -51,7 +51,7 @@
 
 在*元件*或实体的基础信息栏可以看到预制的*默认挂接点*，包括其命名和位置
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 每个实体都会带有默认的基础挂接点：*中心原点*，该挂点的位置也等同于实体在场景内的位置
 
@@ -63,7 +63,7 @@
 
 # 三、装饰物
 
-#![](../images/61752951-b49![](../images/c800c1da-791c-4a32![](../images/60978507-5f1b-![](../images/202ad1c6-f![](../images/1b535847-0c1a-4c8a-bdcf-add2eb230da5.p![](../images/16e60e8b-0a41-4216-86c9-672527c9c1bd.png)1-ba3b-0a86da80b9aa.png)9fde-18d2434d82c3.png)-5dc4415a422a.png)c-9287-45da850699c4.png)饰物的概念
+#![](../images/61752951-b49![](../images/c800c1da-791c-4a32![](../images/60978507-5f1b-![](../images/202ad1c6-f![](../images/1b535847-0c1a-4c8a-bdcf-add2eb230da5.p![](../images/16e60e8b-0a41-4216-86c9-672527c9c1bd.png)-5dc4415a422a.png)c-9287-45da850699c4.png)饰物的概念
 
 ### (1)装饰物功能是什么
 

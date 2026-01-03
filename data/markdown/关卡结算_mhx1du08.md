@@ -18,23 +18,23 @@
 
 *失败*：以该状态结算关卡时，获得对应计分模板的失败分数
 
-![](../images/30ed0806a04f93661a9006d69c02dc55_![](../images/a7b3b8ee-55f4-4938-a84a-9a73b891703f.png)94431287328309.png)
+![](../images/30ed0806a04f93661a9006d69c02dc55_![](../images/a7b3b8ee-55f4-4938-a84a-9a73b891703f.png)
 
-*未定*：玩家默认处于的![](../images/3271fb6b-0ff3-4ef8-a6![](../images/4511c090-b16a-481e-8fe2-6a39f147519c.png)8a8bab0d8f.![](../images/facf4933-326![](../images/a8ceb96a-008f-4c70-94c6-e4c3f1e4d4a8.png)3-9095-607cdf8c2d7f.png)态结算关卡时，获得对应计分模板的未定分数
+*未定*：玩家默认处于的![](../images/facf4933-326![](../images/a8ceb96a-008f-4c70-94c6-e4c3f1e4d4a8.png)态结算关卡时，获得对应计分模板的未定分数
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhx1du08nhwo/a7b3b8ee-55f4-4938-a84a-9a73b891703f.png)
 
 # 三、关卡结算表现
 
 关卡结算表现决定了对局会以何种形式进行结算，仅在对局内进行展示，并不会影响到外围系统
 
-![](../images/0e9f61d![](../images/f94ab4f![](../images/c301a82![](../images/be0f569![](../images/25e143fb-abd6-43c0-9e53-63f83331f203.png)3-44c4-a638-eb5a686bdf52.png)4-445e-8ae6-3637a1329ef3.png)d-41f3-8ece-f88151e5e8b8.png)b-41ff-ad7c-f0c2b907e2d0.png)点击【关卡设置】，可进入关卡设置界面
+![](../images/0e9f61d![](../images/f94ab4f![](../images/c301a82![](../images/be0f569![](../images/25e143fb-abd6-43c0-9e53-63f83331f203.png)d-41f3-8ece-f88151e5e8b8.png)b-41ff-ad7c-f0c2b907e2d0.png)点击【关卡设置】，可进入关卡设置界面
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 在关卡设置界面的结算页签，即可进行关卡结算相关的设置
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 *结算界面类型*：决定了关卡结算时的界面显示样式，分为阵营结算和个人结算两种
 

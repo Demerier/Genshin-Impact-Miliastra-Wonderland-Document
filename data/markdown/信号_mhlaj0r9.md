@@ -30,27 +30,27 @@
 
 当机关触发时，发送信号【机关触发信号】
 
-![](../images/30ed0806a04f93661a9006d69c02![](../images/1cf9ae6e-24a7-4b40-![](../images/254c7913-c4a9-45e9-b![](../images/68b910dd-6805-43bf-b000-2854df963b1![](../images/33127426-bf37-4247-b94f-261e80cd7abd.png))a09d1e0a5f0.png)f675b34fdd49.png)1818194431287328309.png)
+![](../images/30ed0806a04f93661a9006d69c02![](../images/1cf9ae6e-24a7-4b40-![](../images/254c7913-c4a9-45e9-b![](../images/68b910dd-6805-43bf-b000-2854df963b1![](../images/33127426-bf37-4247-b94f-261e80cd7abd.png)f675b34fdd49.png)1818194431287328309.png)
 
 大门接收【机关触发信号】的信号，然后修改自身的预设状态（大门打开）
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
-火把接收【机关触发信号】的信号，![](../images/83dc2892-ca7b-4e5f-a7![](../images/10301568-6542-488b-86be-9f064e537459.png)d239efa88c.png)焰特效
+火把接收【机关触发信号】的信号，![](../images/83dc2892-ca7b-4e5f-a7![](../images/10301568-6542-488b-86be-9f064e537459.png)焰特效
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhlaj0r9bldi/254c7913-c4a9-45e9-b958-4a09d1e0a5f0.png)
 
 角色接收【机关触发信号】的信号，为自身添加一个技能
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 此时如果需要新增【修改丘丘人上的自定义变量】的逻辑，可以直接在丘丘人的节点图上：
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 可以看到，即使新增、调整逻辑，可以完全只修改需要关心的实体的节点图，而不需要修改其他实体的节点图。
 
-这在游戏逻![](../images/020f6ec3-a3f9-4c91-98![](../images/aa579636-7132-4829-a32b-581ca0a16ade.png)31bdaf96b0.p![](../images/eacdb16b-78da-4d94-a6eb-a7e83764560a.png)**每个实体只根据自己关心的事件处理对应的逻辑，而![](../images/4d0![](../images/2b3ff027-d991-4bce-a3![](../images/1c3c6f99-e547-4e8a-ab79-81baeb07a14f.png)be075edef9.![](../images/8de25dec-a81e-49c3-8ecb-bf6b6a8bd7ad.png)6671-4df7-92c5-0afa392ad4d1.png)作其他实体**是很重要的【**解耦**】思想，可以用来分离实体之间复杂的交互逻辑
+这在游戏逻![](../images/eacdb16b-78da-4d94-a6eb-a7e83764560a.png)**每个实体只根据自己关心的事件处理对应的逻辑，而![](../images/8de25dec-a81e-49c3-8ecb-bf6b6a8bd7ad.png)6671-4df7-92c5-0afa392ad4d1.png)作其他实体**是很重要的【**解耦**】思想，可以用来分离实体之间复杂的交互逻辑
 
 # 三、信号的配置
 

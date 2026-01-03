@@ -51,7 +51,7 @@
 
 ## **4.获取列表最小值**
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mholjx05ji8w/016ea4f9-cebe-468c-8b68-31cf08cdfeb6.png)
 
 **节点功能**
 
@@ -67,7 +67,7 @@
 
 ## **5.获取射线筛选类型列表**
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 **节点功能**
 

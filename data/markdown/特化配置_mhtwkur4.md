@@ -16,11 +16,11 @@
 
 ## 2.造物特化配置编辑
 
-![](../images/30ed0806a04f93661a9006d69![](../images/cf352c20-2313-40b2-8566-78e24d89e857.png)55_1818![](../images/383008e2-7271-4363-a277-e3fb312e6f37.png)1287328309.png)分为基础战斗属性、仇恨配置、常规设置三部分
+![](../images/383008e2-7271-4363-a277-e3fb312e6f37.png)1287328309.png)分为基础战斗属性、仇恨配置、常规设置三部分
 
 # 三、节点图相关
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 **【节点图节点】获取物件属性**
 
@@ -30,7 +30,7 @@
 
 获取指定物件的战斗属性
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhtwkur42see/cf352c20-2313-40b2-8566-78e24d89e857.png)
 
 **【节点图节点】获取造物属性**
 

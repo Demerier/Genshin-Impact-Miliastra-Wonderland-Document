@@ -58,7 +58,7 @@
 
 ## **4.数据类型转换**
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnd4l069tk0/ea6cf5bd-ad80-40be-9104-68bda89fa25f.png)
 
 **节点功能**
 
@@ -76,7 +76,7 @@
 
 ## **1.拆分三维向量**
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 **节点功能**
 

@@ -26,11 +26,11 @@
 
 *跟随技能（不保留值）*：规则同上，区别在于当某个技能资源没有任何一个技能需要时，技能资源量会清零
 
-* *可获取最大值*：技![](../![](../images/2df6136d-6aad-403b-845d-0362fdb69e2a.png)s/8170edca-23e2-48ac-a96b-636dc2b13b30.png)最大值，角色获取的技能资源量无法超过该值
+* *可获取最大值*：技![](../![](../images/2df6136d-6aad-403b-845d-0362fdb69e2a.png)最大值，角色获取的技能资源量无法超过该值
 * *引用信息*：表示该技能资源被哪些技能引用
 
 # 三、节点图修改技能资源
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh6ate95agb6/8170edca-23e2-48ac-a96b-636dc2b13b30.png)
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)

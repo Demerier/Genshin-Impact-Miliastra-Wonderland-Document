@@ -85,15 +85,15 @@
 ### **(1)预制界面控件的概**述
 
 预制界面控件可以直接配置在界面布局默认生效，也可以编辑为界面控件组模板使用。
-![](../images/c0cccc79-7d99-40c8-a03f-9c209c8b5![](../images/04b21a92-9eff-43d8-9904-90![](../images/d8360ae5-ea7a-4c4e-b1f6-e3e049d81eb0.png)5c7d8.png)ng)**(2)预制界面控件的引**用
+![](../images/c0cccc79-7d99-40c8-a03f-9c209c8b5![](../images/04b21a92-9eff-43d8-9904-90![](../images/d8360ae5-ea7a-4c4e-b1f6-e3e049d81eb0.png)**(2)预制界面控件的引**用
 
 在界面控件组库中，可以利用界面控件资产将其编辑为界面控件组模板，并通过节点图来使用
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 在界面![](../images/ac1b5e2a-d907-4113-bd82-fb3f62df9d3a.png)以通过【添加界面控件】来引用界面控件资产，随界面布局一同生效
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 ### **(3)预制界面控件资**产
 

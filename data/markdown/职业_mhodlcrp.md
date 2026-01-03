@@ -18,19 +18,19 @@
 
 ## 2.新建职业模板
 
-![](../![](../images/0c8da5e9-3e2d-4745-bf8f-16217c074a18.png)s/3![](../images/2d1c![](../images/cb6f76a4-b969-405b-96a1-16683347703c.png)30b7-4df2-b6c0-15ea0865cc16.png)06a04f93661a9006d69c02dc55_1818194431287328309.png)
+![](../images/2d1c![](../images/cb6f76a4-b969-405b-96a1-16683347703c.png)06a04f93661a9006d69c02dc55_1818194431287328309.png)
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 点击【新建职业】按钮，并在弹出的窗口中点击确认，即可新增一份职业模板配置
 
 # 四、职业的参数设置
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhodlcrpht3q/0c8da5e9-3e2d-4745-bf8f-16217c074a18.png)
 
 ## 1.基础设置
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 *选择镜头*：选中一个镜头模板，当玩家切换为该职业时，镜头会被替换为此处配置的模板
 
@@ -74,7 +74,7 @@
 
 ## 3.基础战斗属性
 
-职业的属性会直接作用到![](../![](../images/4ca24582-345d-471c-a648-2e5136ed14f7.png)s/685cc9ae-7678-4591-a42c-aa66c281244b.png)角色上，相对的，玩家模板上不可配置基础战斗属性信息
+职业的属性会直接作用到![](../![](../images/4ca24582-345d-471c-a648-2e5136ed14f7.png)角色上，相对的，玩家模板上不可配置基础战斗属性信息
 
 ![]()
 
@@ -128,7 +128,7 @@
 
 抗打断状态下，受打断值会每秒按照受打断值衰减速度进行衰减，直到衰减到0
 
-* **易![](../images/ad005444-14b3-4267-a639-e08f9fb249![](../![](../images/8![](../![](../images/4![](../images![](../![](../images/5b8bf406-35ca-4cde-a696-5a4731b953f7.png)s/695984e4-9319-4f24-89bc-da9648c23666.png)e15d-c1cc-4d3e-87ed-fabb9de5899f.png)0d-5197-4ba6-b77e-b1a3f5a0a476.png)s/47bdfc50-44c5-422d-be6e-8742e95ea16d.png)f4-7e9c-4072-9a0a-8f972f2e19d9.png)s/da1c915e-78ab-4ce4-87d9-a0aac0f4c47b.png)g)**
+* **易![](../images/ad005444-14b3-4267-a639-e08f9fb249![](../![](../images/8![](../![](../images/4![](../images![](../![](../images/5b8bf406-35ca-4cde-a696-5a4731b953f7.png)0d-5197-4ba6-b77e-b1a3f5a0a476.png)s/47bdfc50-44c5-422d-be6e-8742e95ea16d.png)f4-7e9c-4072-9a0a-8f972f2e19d9.png)s/da1c915e-78ab-4ce4-87d9-a0aac0f4c47b.png)g)**
 
 当受打断值到达受打断值上限时，进入易受打断状态
 

@@ -95,17 +95,17 @@
 
 在可以使用字典的泛型引脚上，可以在泛型的展开菜单中找到【字典】选项
 
-![](../images/30ed0806a04f93661a9006d69c02dc55_181819443128![](../images/a1e1ee46-466c-4306-9579-bd970e930134.png)09.png)
+![](../images/30ed0806a04f93661a9006d69c02dc55_181819443128![](../images/a1e1ee46-466c-4306-9579-bd970e930134.png)
 
-点击后，可以观察到【*变量值*![](../images/9507a735-bc6e-49e9-8319-53d8321ac![](../images/fe3c0c0e-![](../images/522![](../images/0d6a20![](../images/fe24c7![](../images/b3d7d9dd-c533-4f![](../images/66f653![](../images/2e20bbff-e![](../images/c0649a69-2![](../images/9f4e562f-a![](../images/d16ad16f-9![](../images/5be05113-9732-![](../images/26e![](../images/d1c3a65b-57dd-494c-8b31-bc3623664812.png)-99a9-42b1-b65f-fb2e650c96fc.png)be39-49cda1f9422f.png)f3f-98f1-cf893e443c56.png)3ad-97f7-530c60baa54f.png)f51-b480-0e0c30a47d3e.png)957-99c6-a8f98238294f.png)36-4b0e-8002-1ad8e9d9a8d2.png)66-bf76a6cede01.png)2f-4518-8e2c-8079a4c24d8b.png)11-45b5-9ea4-fdb0496f7b50.png)-5033-4920-82b0-6f0d867be200.png)4606-a73d-f62c5cdaa8a5.png)ng)按钮发生了变化，这代表着目前变量值这个引脚是一个泛型字典引脚
+点击后，可以观察到【*变量值*![](../images/9507a735-bc6e-49e9-8319-53d8321ac![](../images/fe3c0c0e-![](../images/522![](../images/0d6a20![](../images/fe24c7![](../images/b3d7d9dd-c533-4f![](../images/66f653![](../images/2e20bbff-e![](../images/c0649a69-2![](../images/9f4e562f-a![](../images/d16ad16f-9![](../images/5be05113-9732-![](../images/26e![](../images/d1c3a65b-57dd-494c-8b31-bc3623664812.png)f3f-98f1-cf893e443c56.png)3ad-97f7-530c60baa54f.png)f51-b480-0e0c30a47d3e.png)957-99c6-a8f98238294f.png)36-4b0e-8002-1ad8e9d9a8d2.png)66-bf76a6cede01.png)2f-4518-8e2c-8079a4c24d8b.png)11-45b5-9ea4-fdb0496f7b50.png)-5033-4920-82b0-6f0d867be200.png)4606-a73d-f62c5cdaa8a5.png)ng)按钮发生了变化，这代表着目前变量值这个引脚是一个泛型字典引脚
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 再次点击泛型按钮，可以为这个泛型字典确定键和值的类型
 
 如上文所述，在完全确定了一个泛型字典的键和值类型后，这个泛型字典的类型才可以完全确定
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 # 三、字典相关节点
 

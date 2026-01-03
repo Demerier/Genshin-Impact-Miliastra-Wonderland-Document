@@ -48,7 +48,7 @@
 
 ## 3.节点图
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhctmgi51lpo/648d7a1f-70a1-4bf1-812c-547d384e5cf0.png)
 
 节点图配置页签，可在此页签给玩家实体添加节点图，或查看已添加的节点图
 

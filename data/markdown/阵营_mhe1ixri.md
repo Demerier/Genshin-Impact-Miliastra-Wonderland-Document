@@ -26,26 +26,26 @@
 
 以下图为例：初始玩家阵营与初始物件阵营和初始造物阵营均为敌对，因此可以直接攻击阵营为这两个阵营的实体（角色、造物或物件）
 
-![](../images/30ed0806a04f93661a9006d69c02dc55_18181944312![](../images/c2d800ad-0a54-4b1e-882c-60d62122ef19.png)309.png)
+![](../images/30ed0806a04f93661a9006d69c02dc55_18181944312![](../images/c2d800ad-0a54-4b1e-882c-60d62122ef19.png)
 
 其他系统中，阵营相关的配置均以关卡配置的阵营关系生效。例如下图中的能![](../images/05830fd6-369e-4915-8099-1ed165f08e83.png)确命中敌对阵营的目标
 
-![]()
-![](../images/948b1acc-a9bd-4ee0-9![](../images/6![](../images/5![](../images/e8457f29-3c1a-40dc-93ca-8a799c93a7d1.png)e3-32c8-41de-86ce-5effe168d93d.png)11-964a-4eac-8909-86a4e8f8113c.png)c293c8bb101.png)默认阵营配置
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhe1ixri46ta/c2d800ad-0a54-4b1e-882c-60d62122ef19.png)
+![](../images/948b1acc-a9bd-4ee0-9![](../images/6![](../images/5![](../images/e8457f29-3c1a-40dc-93ca-8a799c93a7d1.png)c293c8bb101.png)默认阵营配置
 
 每个阵营均可以配置一个*默认阵营对象*。当该对象类型的实体（例如图中的玩家和物件）创建时，如果是默认阵营（阵营的值为0），那么会被分配至该实体类型的默认阵营
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhe1ixri46ta/05830fd6-369e-4915-8099-1ed165f08e83.png)
 
 以上图为例，该石质球元件在创建时，如果没有对其实体覆写阵营，那么会以【初始物件阵营】进行创建（因为物件的默认阵营是初始物件阵营）
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 # 四、使用节点图控制玩家阵营
 
 实体阵营变化事件
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 修改实体阵营
 

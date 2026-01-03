@@ -74,21 +74,21 @@
 ## 2.单位状态节点图
 ![](../images/b61605af-0959-4113-aa6a-9256f390768d.png)：单位状态详情编辑页-通用信息-状态节点图
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhjwjrr5n73i/0c5f91d1-a6c8-4438-88c7-a58a1b71899c.png)
 
 ## 3.职业节点图
 
 ![](../images/102b6032-f578-4e02-a9d4-2fc8f8c8450e.png)自定义职业详情编辑页-节点图页签
 
-可以切换配置玩家节点图或角色节点图，两者![](../images/983![](../images/713f5542-ca3d-4465-b664-3a100d21c136.png)-f7bf-4f3c-b10a-a4f73c1fb211.png)换上该职业时，对玩家实体和角色实体生效
+可以切换配置玩家节点图或角色节点图，两者![](../images/983![](../images/713f5542-ca3d-4465-b664-3a100d21c136.png)换上该职业时，对玩家实体和角色实体生效
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 (1)切换到职业配置的节点图页签，![](../images/31a6c261-9e5b-42b1-8e16-d3c12a840bc3.png)(2)切换玩家或角色节点图，图中B
 
 (3)点击新增节点图，图中C
 
-## 4.道具节点![](../images/3e633201-0![](../images/4378969f-83cc-4294-b8c0-df2753bc7e23.png)986-9429-b1d26110a33e.png)位于：战斗预设-道具页签-基础设![](../images/0fec3df2-3923-442e-8db7-33bd2dd7f255.png)]()
+## 4.道具节点![](../images/0fec3df2-3923-442e-8db7-33bd2dd7f255.png)]()
 
 (1)切换到战斗预设页签，图中A
 

@@ -42,16 +42,16 @@
 
 *生效范围预览*：开启时可以在编辑界面预览该光源的生效范围
 
-*挂接点*![](../images/11cf12eb-02f![](../images/f142b9d8-8b6b-497b-89b2-794d85001e9b.png)0-8cfc-0fc1c5be0d6e.png)源跟随的挂接点，默认为根节点
+*挂接点*![](../images/11cf12eb-02f![](../images/f142b9d8-8b6b-497b-89b2-794d85001e9b.png)源跟随的挂接点，默认为根节点
 
 *位置、旋转*：控制其相对于挂接点的位置、旋转
 
 点击【添加光源】可以添加一个新的光源
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhgkan9wgil6/11cf12eb-02f5-4b30-8cfc-0fc1c5be0d6e.png)
 
 # 三、节点图相关
 
 开关实体光源
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)

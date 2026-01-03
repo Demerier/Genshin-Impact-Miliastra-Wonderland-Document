@@ -22,22 +22,22 @@
 
 *随时间自动切换*：如果启用，则场景中的太阳月亮、光照角度和强弱都会随时间变换。关卡设置中可定![](../images/abef6a2a-e967-4881-a7df-47a61ca4a83c.png)时的时间点，以及游戏中的时间流逝速度，也可以通![](../images/c13de993-9778-4aed-abee-f028f1ef635b.png)![](../images/eadb8b2a-f978-45ae-94a0-b24a5704efa8.png)果*随时间自动切换*为不启用，则有额外参数需要配置![](../images/ea31c4b6-adb2-4d32-bbb4-ef12dc780545.png)]()
 
-*![](../images/b4ce4c49-ee57-4831-8b4e![](../images/3ae545d4-841d-460a-ba40-fbd76d938ec3.p![](../images/ebbc663a-2c5b-4bf1-a34d-29b48edc6b8c.png)d4e2e2.png)*：将场景表现固定至特定时间。
+*![](../images/b4ce4c49-ee57-4831-8b4e![](../images/3ae545d4-841d-460a-ba40-fbd76d938ec3.p![](../images/ebbc663a-2c5b-4bf1-a34d-29b48edc6b8c.png)*：将场景表现固定至特定时间。
 
 *背景旋转*：按Y轴调整背景的角度
 
 直射角、强度、模糊程度、受光颜色：调整环境主光源的参数
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhdznsie9up8/c13de993-9778-4aed-abee-f028f1ef635b.png)
 
 *滤镜风格*：在相机层增加滤镜效果
 
 *天空背景色*：天空盒的背景颜色
 
-## 2.![](../images/45![](../images/6ea66186-826b-4fbb-997![](../images/669e94a8-df84-4050-b32c-efbb2bf9cbb3.png)e9d51023e.png)2-0de9-4465-8b6b-b62e41f93145.png)
-![]()
+## 2.![](../images/45![](../images/6ea66186-826b-4fbb-997![](../images/669e94a8-df84-4050-b32c-efbb2bf9cbb3.png)
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
-*星星*：启用后可设![](../images/4100![](../images/f1f65cec-676f-4f11-a0ae-d9e5ee40474a.png)2cc7-![](../images/0da36e40-28![](../![](../images/e9f2120a-39ee-4e71-84b2-205d2011d5f0.png)s/d8ef8f1e-72a0-4c7d-bc4f-5a26e83051c4.png)70-93eb-9b710f954a4a.png)8478-159973f6e049.png)度
+*星星*：启用后可设![](../images/0da36e40-28![](../![](../images/e9f2120a-39ee-4e71-84b2-205d2011d5f0.png)70-93eb-9b710f954a4a.png)8478-159973f6e049.png)度
 
 *银河*：启用后可设置强度、受光颜色
 

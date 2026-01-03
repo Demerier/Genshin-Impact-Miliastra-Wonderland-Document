@@ -36,7 +36,7 @@
 
 ## 2.抛物线投射
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 *初始速度*：组件初始化时的速度方向
 
@@ -46,7 +46,7 @@
 
 ## 3.追踪投射
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 *追踪对象*：追踪的目标
 

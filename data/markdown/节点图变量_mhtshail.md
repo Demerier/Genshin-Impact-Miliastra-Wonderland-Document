@@ -55,11 +55,11 @@
 
 ## 2.新建节点图变量
 
-页签操作与[![](../images/d0f36483-30a2-4fb9-a1d3-fbf1384819ad.png)](/ys/ugc/![](.![](.![](../images/35a1cb3f-cf51-4241-aeee-1b7885c![](../images/4d8b8258-1500-4a4e-bac2-![](../images/6c504cdf-21fb-45aa-![](../images/48626acd-612f-435d-9a90-242ec82b9f9c.png)2b504adb0c44.png)142865e.png).png)ges/f35420d6-ba71-406d-8e28-efc948f3461c.png)ges/2ae56233-0f5f-4eea-a64e-fa394c1caefe.png)ial//detail/mhso1b9wjica)类似，可以新增、修改已配置的节点图变量
+页签操作与[![](../images/d0f36483-30a2-4fb9-a1d3-fbf1384819ad.png)](/ys/ugc/![](.![](.![](../images/35a1cb3f-cf51-4241-aeee-1b7885c![](../images/4d8b8258-1500-4a4e-bac2-![](../images/6c504cdf-21fb-45aa-![](../images/48626acd-612f-435d-9a90-242ec82b9f9c.png).png)ges/f35420d6-ba71-406d-8e28-efc948f3461c.png)ges/2ae56233-0f5f-4eea-a64e-fa394c1caefe.png)ial//detail/mhso1b9wjica)类似，可以新增、修改已配置的节点图变量
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
-## 3.在节![](../images/1a34b258-699b-416a-9e45![](../images/3b2469f2-a1bb-4c6f-a0e![](../images/84cd7095-2a83-4809-8650-c4f0acdb4f39.png)3f7e84c25.png)a93f0998.png)节点图变量
+## 3.在节![](../images/1a34b258-699b-416a-9e45![](../images/3b2469f2-a1bb-4c6f-a0e![](../images/84cd7095-2a83-4809-8650-c4f0acdb4f39.png)节点图变量
 
 在节点图中，可以使用以下节点图相关节点（与自定义变量相关节点用法基本一致）
 

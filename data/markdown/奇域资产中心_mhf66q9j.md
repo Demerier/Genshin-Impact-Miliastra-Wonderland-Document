@@ -20,9 +20,9 @@
 * 个人主页
 * 收藏夹![](../images/3cfd32d8-0e1e-4c65-b5bb-64a705975f94.png)通知
 * 上传资产
-* 使![](../images/6c8a7e![](.![](../images/13aa![](../images/9aefe3f2-7290![](../images/37663a80-3839-4![](../images/682585a8-9ee0-4559-80b2-81f7a2362c4![](../images/139c70fc-49a9-45e6-aef2-b722434f6928.png))801-d9e96836fd9a.png)-a99b-f5![](../images/2e70adb![](../images/7827d46d-e0e8-4660-a1e6-db7b9c5fd5f2.png)d-4be7-a3de-78d70c88cbdc.png)39623.png)19ac-47ee-9f1c-eb9b70269d96.png)ges/f339cf6c-8aeb-4ee1-a9c4-fe674554f667.png)b6-4faa-8c0b-cff4fc9![](../images/c4354![](../images/38178cf8-f6b5-4334-91af-2862a7aca09a.png)84f-4578-8c44-a274cafe20d1.png).png)含《奇![](../images/dd03a8e4-8b9e-40a5-9f4e-13448f237b52.png)》与使用说明）
+* 使![](../images/6c8a7e![](.![](../images/13aa![](../images/9aefe3f2-7290![](../images/37663a80-3839-4![](../images/682585a8-9ee0-4559-80b2-81f7a2362c4![](../images/139c70fc-49a9-45e6-aef2-b722434f6928.png)-a99b-f5![](../images/2e70adb![](../images/7827d46d-e0e8-4660-a1e6-db7b9c5fd5f2.png)19ac-47ee-9f1c-eb9b70269d96.png)ges/f339cf6c-8aeb-4ee1-a9c4-fe674554f667.png)b6-4faa-8c0b-cff4fc9![](../images/c4354![](../images/38178cf8-f6b5-4334-91af-2862a7aca09a.png)含《奇![](../images/dd03a8e4-8b9e-40a5-9f4e-13448f237b52.png)》与使用说明）
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 ## 2.筛选栏
 
@@ -30,7 +30,7 @@
 
 * 筛选：点击筛选按钮打开标签浮窗，点击浮窗内选项进行资产筛选。点击重置可清空当前已选标签
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 * 反馈：点击反馈按钮打开反馈弹窗，若当前标签无法满足筛选需求，可以在此进行反馈。后续会根据反馈情况对可选标签进行更迭
 

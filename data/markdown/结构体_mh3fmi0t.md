@@ -20,7 +20,7 @@
 
 如下图所示，可以定义一个整数到【武器数据】结构体的字典，将其当作一个武器库的数据使用（整数作为id）
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh3fmi0t99ns/e5db55a4-ab6b-484f-a6b6-c0e83b4b8418.png)
 
 ## 1.结构体的定义
 
@@ -85,9 +85,9 @@
 
 可以在结构体内新增成员，图中B
 
-![]![](../![](../images/616e8bc0-a1cc-4d4e-a0e8-93328b6efa66.png)s/0e6ce08a-e88c-![](../images/bc6fb362-54c1-4761-98a![](../images/edfbcc74-1d61-4796-863b-![](../images/c3ecfd1d-7022-4119-a5a1-6370a24cc5b9.png)12707af.png)e0da22113.png)b687-3a26275f0fe0.png)成创建后，即可以在*服![](../images/49a68a38-9797-4c09-b5b![](../images/e8f74ece-ab2c-4a6a-9896-![](../images/c9614101-f35e-4345-81b2-4d1fa4c0ea94.png)2ae6b2e.png)af33a870b.png)*、*自定义变量*、*节点图变量*等功能中使用已定义的结构体
+![]![](../images/bc6fb362-54c1-4761-98a![](../images/edfbcc74-1d61-4796-863b-![](../images/c3ecfd1d-7022-4119-a5a1-6370a24cc5b9.png)e0da22113.png)b687-3a26275f0fe0.png)成创建后，即可以在*服![](../images/49a68a38-9797-4c09-b5b![](../images/e8f74ece-ab2c-4a6a-9896-![](../images/c9614101-f35e-4345-81b2-4d1fa4c0ea94.png)*、*自定义变量*、*节点图变量*等功能中使用已定义的结构体
 
-# 三、在泛型中![](../images/f7c5bd55-6f19-440f-81c![](../images/1ac00965-26e8-4![](../images/070b7ef9-fa03-4075-8d45-a10da![](../images/7173bf2e-7132-4a2c-![](../images/6bcd94b4-3ebb-45d3-a84e-2a7694403fc0.png)ccd23f60092f.png)8d.png)5f3-ee442d29c98c.png)9a48379b2.png)
+# 三、在泛型中![](../images/f7c5bd55-6f19-440f-81c![](../images/1ac00965-26e8-4![](../images/070b7ef9-fa03-4075-8d45-a10da![](../images/7173bf2e-7132-4a2c-![](../images/6bcd94b4-3ebb-45d3-a84e-2a7694403fc0.png)5f3-ee442d29c98c.png)9a48379b2.png)
 
 在服务端节点图中，结构体以及结构体列表是一种较为特殊的*泛型引脚*。需要选择特定的结构体或结构体列表后，才能将对应节点确定为特定的结构体或结构体列表类型
 

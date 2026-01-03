@@ -28,11 +28,11 @@
 
 注：仅勾选的目标节点图会返回日志信息。
 
-![](../images/30ed0806a04f9![](../images/e5f7984a-dd50-4e09-8f1c-121e4fdefbc3.png)9006d69c02dc55_181819443128732![](../images/c8914c01-6cf7-4a39-b0a2-297f459b9b11.png)png)
+![](../images/c8914c01-6cf7-4a39-b0a2-297f459b9b11.png)png)
 
 本次新增功能：勾选所有该类型节点图。
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 ## 2.节点图日志查看
 
@@ -42,7 +42,7 @@
 
 * 节点图名称，生效时间，挂载对象；
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 双击生效的客户端节点图，可以打开对应节点图的调试模式（见下）；
 
@@ -50,4 +50,4 @@
 
 位于客户端节点图调试模式中时，所有生效的节点及对应执行流程将被高亮，将鼠标悬停在节点上，可以看到这个节点当前的输入输出参数值。
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)

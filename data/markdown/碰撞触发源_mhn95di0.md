@@ -30,11 +30,11 @@
 
 ## 2.碰撞触发源组件的编辑
 
-![](../images/30ed0806a04f93661a900![](../images/aa64de32-9b7a-4c79-839e-1be3a4064956.png)02dc55_1818194431287328309.png)
+![](../images/30ed0806a04f93661a900![](../images/aa64de32-9b7a-4c79-839e-1be3a4064956.png)
 
 通过“详细编辑”可对碰撞触发源的形状和尺寸参数做调整
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 |  |  |
 | --- | --- |
@@ -53,7 +53,7 @@
 
 会发送节点图事件给配置“碰撞触发器”的实体
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 * **离开碰撞触发器时**
 

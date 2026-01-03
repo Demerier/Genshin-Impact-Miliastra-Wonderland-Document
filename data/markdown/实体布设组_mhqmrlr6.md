@@ -22,10 +22,10 @@
 
 选中某个实体布设组后，可在右侧详情栏对其做一些设置，也可以看到该实体布设组的内容列表
 
-![](../images/30ed0806a04f93661a9006d![](.![](../images/c56bb392-f359-4626-908b-b7b055ab4815.png)ges/25ba7dd2-050f-![](../images/bdcf6e43-784b-426e-8688-c5470e44a877.png)9aa4-9d70d7b04![](../images/4644775a-c111-448d-932a-aef48916101a.png)ng)dc55_1![](../![](../images/960e9a9f-8c![](../images/75bcd2b8-554c-4b2f-83b2-17c78ed83f3d.png)54-9dae-2ce4e5aa09c5.png)s/8818d78b-a274-46dc-b59d-a0174853c064.png)4431287328309.![](../images/cfa8f627-fb57-4d42-a4bb-0d16ec306066.png)
-实体布设![](../images/970d0dc1-f354-4904-b24b-18a![](../images/9fb26e5![](../images/218759ff-f228-4036-a9cf-d9555019d720.png)5-489f-8d20-f431a6aa4fd8.png)948d.png)以新建页签，以及将实体布设组按页签分类
+![](../images/bdcf6e43-784b-426e-8688-c5470e44a877.png)9aa4-9d70d7b04![](../images/4644775a-c111-448d-932a-aef48916101a.png)ng)dc55_1![](../![](../images/960e9a9f-8c![](../images/75bcd2b8-554c-4b2f-83b2-17c78ed83f3d.png)4431287328309.![](../images/cfa8f627-fb57-4d42-a4bb-0d16ec306066.png)
+实体布设![](../images/970d0dc1-f354-4904-b24b-18a![](../images/9fb26e5![](../images/218759ff-f228-4036-a9cf-d9555019d720.png)以新建页签，以及将实体布设组按页签分类
 
-![]()![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhqmrlr6h58e/25ba7dd2-050f-4440-9aa4-9d70d7b041bd.png)![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhqmrlr6h58e/25ba7dd2-050f-4440-9aa4-9d70d7b041bd.png)
 
 # 三、管理实体布设组
 
@@ -33,11 +33,11 @@
 
 * 在地形编辑页签，右键点击地形可在弹出菜单中将其添加至实体布设组。
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 * 在实体摆放页签，右键点击实体（多选可先通过按住shift+左键点击选中多个实体）可在弹出菜单中将其添加至实体布设组。
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 * 在实体布设组详情界面点击右下角【场景中选中】进入选中模式，可通过左键框选或点击的方式快速添加实体至当前组。
 

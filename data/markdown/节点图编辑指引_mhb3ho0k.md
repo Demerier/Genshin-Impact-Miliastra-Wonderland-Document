@@ -17,11 +17,11 @@
 
 ![](../images/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
-* 在左侧节点图管理界面选择需要创建的节点图类型（实体节点图![](../images/ceb7f62e-67ab-4005-a769-52f9![](../images/32e4ff2a-df23-4d63-8ce0-b8894d1a4e04.png)7f1.png)图、![](../images/6660b6ad-7f29-4961-a72a-321ae258aac8.png)、道具节点图）,图中A
-* 在右键菜![](../images/c3bd9033-2bb6-436f-8a2![](../images/9e08caf7-127b-4aea-9dee-8c0233cbef48.png)5b537cb1b.png)创建节点图】
-![](../images/d86b1740-0c98-422e-82ff-d024984cf39b![](../images/e7f611af-f4a6-![](../images/8d5c2f60-e727-4e68-b127-1c1dfd927dd6.png)b295-7a59a81c6541.png)节点图双击，即可进入节点图编辑页面
+* 在左侧节点图管理界面选择需要创建的节点图类型（实体节点图![](../images/6660b6ad-7f29-4961-a72a-321ae258aac8.png)、道具节点图）,图中A
+* 在右键菜![](../images/c3bd9033-2bb6-436f-8a2![](../images/9e08caf7-127b-4aea-9dee-8c0233cbef48.png)创建节点图】
+![](../images/d86b1740-0c98-422e-82ff-d024984cf39b![](../images/e7f611af-f4a6-![](../images/8d5c2f60-e727-4e68-b127-1c1dfd927dd6.png)节点图双击，即可进入节点图编辑页面
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhb3ho0k5l2w/32e4ff2a-df23-4d63-8ce0-b8894d1a4e04.png)
 
 在此界面也可以右键点击节点图，打开快捷菜单进行重命名等常见文件操![](../images/17171e2f-7b7a-4613-862f-c4330016f5c0.png)]()
 
@@ -40,7 +40,7 @@
 进入节点图编辑页面后，如下图所示
 
 ![]![](../images/6bd72936-9724-4b6e-9a0f-679aa7970bb3.png)# 1.新建节点
-![](../images/18031762-d![](../images/aaf25c53-c4e4-434e-b942-1a920a681407![](../images/9fa60f34-68![](../images/941fe324-28e4![](../images/752cb591-e6ff![](../images/23a2e707-8957-417a-92f9![](../images/6efcd971-74fe-![](../images/f21d75c4-8589-4627-865b-c52aae3aa631.png)a0e8-4a33041dd476.png)eae8ae09.png)-9be5-1a2f4934fc95.png)-b57f-2f3508aafb41.png)39-84ef-61aa4e8f8f51.png)a00-813f-72810d482240.png)通过菜单新建**
+![](../images/18031762-d![](../images/aaf25c53-c4e4-434e-b942-1a920a681407![](../images/9fa60f34-68![](../images/941fe324-28e4![](../images/752cb591-e6ff![](../images/23a2e707-8957-417a-92f9![](../images/6efcd971-74fe-![](../images/f21d75c4-8589-4627-865b-c52aae3aa631.png)-9be5-1a2f4934fc95.png)-b57f-2f3508aafb41.png)39-84ef-61aa4e8f8f51.png)a00-813f-72810d482240.png)通过菜单新建**
 
 最常见的创建节点方式是在编辑区域右键打开节点菜单
 

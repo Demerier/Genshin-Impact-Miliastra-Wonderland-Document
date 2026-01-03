@@ -28,11 +28,11 @@
 
 相对的，原生碰撞作为*基础信息*，其形状无法被修改，玩家仅能控制碰撞的*初始生效*和*是否可攀爬*开关。
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhuqbn9yn5bu/2eb9c8bc-6cf8-4176-b2ef-24e6ecdc8d3b.png)
 
-*初始生效*：单位被初始![](../images/9ae![](../images/7463e5c9-de76-4d3c-8518-5a5fb80474a4.png)-fa52-4007-9e3b-b8629697b12b.png)碰撞是否生效
+*初始生效*：单位被初始![](../images/9ae![](../images/7463e5c9-de76-4d3c-8518-5a5fb80474a4.png)碰撞是否生效
 
-*是否可攀爬*：原生碰撞![](../images/1f732![](../images/65e3aecc-8775-4ced-b635-d85f3867fe9a.png)3c0-44ba-ab6e-442a86973ab4.png![](../images/48d1893f-f9e1-4073-b555-371259![](../images/f04db402-900b-4e68-902e-16d5ac83cd69.png)4.png)，同时要求角色本身必须具有攀爬能力
+*是否可攀爬*：原生碰撞![](../images/48d1893f-f9e1-4073-b555-371259![](../images/f04db402-900b-4e68-902e-16d5ac83cd69.png)，同时要求角色本身必须具有攀爬能力
 
 *\*原生碰撞预览*：编辑时的功能，如果勾选即可在编辑界面预览到碰撞的外形，见上图
 

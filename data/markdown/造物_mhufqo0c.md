@@ -38,11 +38,11 @@
 
 菜单栏第一栏，为*基础信息*栏
 
-![](../images/30ed0806a04f93661a9006d69c02dc55![](../images/7f29b50c-0d16-480e-b9![](../images/6526a255-3b7![](../images/867c0b3a-6734-4730-84f0-d729dde0d020.png)8-9fd5-46cad82a6f1d.png)3ec271681b.png)194431287328309.png![](../images/64f024d8-2e74-41ab-bbf5-7720e414917f.png)**变换**
+![](../images/30ed0806a04f93661a9006d69c02dc55![](../images/7f29b50c-0d16-480e-b9![](../images/6526a255-3b7![](../images/867c0b3a-6734-4730-84f0-d729dde0d020.png)194431287328309.png![](../images/64f024d8-2e74-41ab-bbf5-7720e414917f.png)**变换**
 
 不支持空间X![](../images/0c27d33a-f800-4f7e-b72c-34eda4d4b832.png)转，仅支持Y轴（水平朝向）的编辑
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 ## 2.特![](../images/d198aa9b-6845-46a3-98ac-f0c1beccf81c![](../images/33e71fb7-23fe-4e8b-9ad5-e891e11492d2.png)菜单栏第二栏，为*特化配置*栏
 

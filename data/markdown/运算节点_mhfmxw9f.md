@@ -60,7 +60,7 @@
 
 ## **1.拆分三维向量**
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhfmxw9fn6n6/aeb6eb5b-e7ce-4baf-98c7-8a62f80451ce.png)
 
 **节点功能**
 
@@ -78,7 +78,7 @@
 
 ## **2.朝向转旋转**
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 **节点功能**![](../images/6ceb3e29-6fc4-42ae-879f-5dfb16ba67ba.png)向量转化为欧拉角
 

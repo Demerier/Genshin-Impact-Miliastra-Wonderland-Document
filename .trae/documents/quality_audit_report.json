@@ -1,0 +1,3318 @@
+{
+  "summary": {
+    "total_files": 144,
+    "files_with_issues": 110,
+    "cdn_links": 254,
+    "nested_images": 250,
+    "text_inserted_images": 52,
+    "corrupted_text": 10,
+    "empty_images": 0,
+    "header_images": 0
+  },
+  "detailed_issues": {
+    "主镜头_mhfua005.md": [
+      {
+        "type": "cdn_link",
+        "line": 30,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 46,
+        "description": "嵌套图片引用: *模式*：区分镜头模板类型的重要参数，模式决定了镜头的主![](../images/0b4f9ea8..."
+      },
+      {
+        "type": "nested_image",
+        "line": 52,
+        "description": "嵌套图片引用: 根据上述的![](../images/fef![](../images/946dcd45-7099-..."
+      }
+    ],
+    "事件节点_mhn7ko01.md": [
+      {
+        "type": "cdn_link",
+        "line": 53,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhn7ko01v3yw/6bf60c38-37ca-4906-b25d-5c2b9b31eb61.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 74,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "corrupted_text",
+        "line": 164,
+        "description": "文本损坏: | **参数类型** | **参数名** | **类型** | **说明![](../images/..."
+      },
+      {
+        "type": "nested_image",
+        "line": 841,
+        "description": "嵌套图片引用: | 出参 | 选择结果列表 | ![](../images/378a94d5-2906-41d4-b..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 911,
+        "description": "图片插入在文本中: ![]()![](../images/ffa754fb-4b98-4f23-8ba5-5ba2968..."
+      },
+      {
+        "type": "nested_image",
+        "line": 911,
+        "description": "嵌套图片引用: ![]()![](../images/ffa754fb-4b98-4f23-8ba5-5ba2968..."
+      }
+    ],
+    "交互按钮界面控件_mhwkfsit.md": [
+      {
+        "type": "cdn_link",
+        "line": 29,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwkfsitckrw/de5fb1b2-719e-4a00-9043-6ed90dd0f0fc.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 41,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 47,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 23,
+        "description": "嵌套图片引用: ![](../images/d![](../images/3c721c54-bf49-4e43-b2..."
+      },
+      {
+        "type": "nested_image",
+        "line": 31,
+        "description": "嵌套图片引用: *类型![](../images/9![](../images/6409917b-3eed-4988..."
+      }
+    ],
+    "仇恨配置_mhw9ut96.md": [
+      {
+        "type": "cdn_link",
+        "line": 159,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhw9ut96q96y/155afb4d-d7bb-4f8b-b5cc-7aa4600d91c8.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 171,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 175,
+        "description": "嵌套图片引用: ![](../images/388e051d-dedd-4b17-bd57-d3f01758f3f3..."
+      },
+      {
+        "type": "nested_image",
+        "line": 179,
+        "description": "嵌套图片引用: ### (2)职业的![](../images/160fc9bb-71![](../images/2..."
+      }
+    ],
+    "信号_mhlaj0r9.md": [
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 41,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhlaj0r9bldi/254c7913-c4a9-45e9-b958-4a09d1e0a5f0.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 45,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 49,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 33,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02![](../i..."
+      },
+      {
+        "type": "nested_image",
+        "line": 39,
+        "description": "嵌套图片引用: 火把接收【机关触发信号】的信号，![](../images/83dc2892-ca7b-4e5f-a..."
+      },
+      {
+        "type": "nested_image",
+        "line": 53,
+        "description": "嵌套图片引用: 这在游戏逻![](../images/eacdb16b-78da-4d94-a6eb-a7e8376..."
+      }
+    ],
+    "元件库_mhwp5h9d.md": [
+      {
+        "type": "cdn_link",
+        "line": 44,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 48,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwp5h9d4h3e/9f288160-2b4a-49b9-bec6-eb919fe487f3.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 55,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwp5h9d4h3e/161f0ae5-cf17-462a-a09a-37bcf92483a6.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 59,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 64,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 39,
+        "description": "嵌套图片引用: ![](../images/f50f60a1-a235-4dd7-af67-d208db45ddcd..."
+      },
+      {
+        "type": "nested_image",
+        "line": 44,
+        "description": "嵌套图片引用: ![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m2..."
+      }
+    ],
+    "元件组_mhzhzb9r.md": [
+      {
+        "type": "cdn_link",
+        "line": 21,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 29,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhzhzb9rw0uy/322aa426-1281-437a-8a78-aa21bbb2c214.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 17,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_181..."
+      },
+      {
+        "type": "nested_image",
+        "line": 19,
+        "description": "嵌套图片引用: ![](../images/f09801ed-04ed-4562-96fa-2c9183d9161e..."
+      }
+    ],
+    "光源_mhgkan9w.md": [
+      {
+        "type": "cdn_link",
+        "line": 51,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhgkan9wgil6/11cf12eb-02f5-4b30-8cfc-0fc1c5be0d6e.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 57,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 45,
+        "description": "嵌套图片引用: *挂接点*![](../images/11cf12eb-02f![](../images/f142b..."
+      }
+    ],
+    "全局计时器_mhawd6rl.md": [
+      {
+        "type": "cdn_link",
+        "line": 29,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhawd6rl5kpy/3fe3631c-95ca-4575-9c5f-44d85910bb84.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 41,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 23,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d![](../images..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 43,
+        "description": "图片插入在文本中: 点击![]()图标，可重命名，或删除指定计时器..."
+      },
+      {
+        "type": "nested_image",
+        "line": 65,
+        "description": "嵌套图片引用: 打开[界面布局](/ys/ugc/tutorial//detail/mh![](../images/..."
+      },
+      {
+        "type": "nested_image",
+        "line": 77,
+        "description": "嵌套图片引用: * 若界面控件配置的计时器，在来源实体运行时并![](../images/80d0892a-e61c..."
+      }
+    ],
+    "关卡_mh3pgira.md": [
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 49,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 19,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c0![](../im..."
+      },
+      {
+        "type": "nested_image",
+        "line": 33,
+        "description": "嵌套图片引用: [全局计时器](/![](../![](../images/cbb8818b-43d2-4203-9..."
+      }
+    ],
+    "关卡结算_mhx1du08.md": [
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhx1du08nhwo/a7b3b8ee-55f4-4938-a84a-9a73b891703f.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 21,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_![]..."
+      },
+      {
+        "type": "nested_image",
+        "line": 23,
+        "description": "嵌套图片引用: *未定*：玩家默认处于的![](../images/facf4933-326![](../image..."
+      },
+      {
+        "type": "nested_image",
+        "line": 31,
+        "description": "嵌套图片引用: ![](../images/0e9f61d![](../images/f94ab4f![](../i..."
+      }
+    ],
+    "关卡设置_mhn9vpia.md": [
+      {
+        "type": "cdn_link",
+        "line": 21,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhn9vpia00qc/ff1411fc-10d6-471b-9b8a-5668c548e1c7.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 23,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhn9vpia00qc/7b654560-e8f6-4be9-a95a-4f2421dce466.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 29,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 15,
+        "description": "嵌套图片引用: ![](../images/01782903-faf0-495f-9cb6-150ddbc55655..."
+      },
+      {
+        "type": "nested_image",
+        "line": 17,
+        "description": "嵌套图片引用: 【基础】界面的选项可以用![](../images/a088fb33-90f3-4192-a4f1-..."
+      },
+      {
+        "type": "nested_image",
+        "line": 31,
+        "description": "嵌套图片引用: ![](../images/180e9ee8-9b3d-48f5-ab6b-eef93d5d13ba..."
+      },
+      {
+        "type": "nested_image",
+        "line": 78,
+        "description": "嵌套图片引用: !![](../images/2ec8edf7-150f-4![](../images/34![](..."
+      }
+    ],
+    "千星沙箱_mho777i0.md": [
+      {
+        "type": "cdn_link",
+        "line": 20,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 14,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02![](../i..."
+      },
+      {
+        "type": "nested_image",
+        "line": 33,
+        "description": "嵌套图片引用: * 顶部菜单栏![](../images/33e0e4ae-de4e-4ea3-aa9b-66298..."
+      },
+      {
+        "type": "nested_image",
+        "line": 35,
+        "description": "嵌套图片引用: * 客户![](../images/c10ea804-8754-4dd9-a8cb-326b678c..."
+      }
+    ],
+    "单位_mh2xoxro.md": [
+      {
+        "type": "cdn_link",
+        "line": 78,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh2xoxrop0la/9aed9084-0b77-439a-acd2-ae1e6fa80fe5.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 90,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 84,
+        "description": "嵌套图片引用: * 也可以先行在元件库中制作自定义元件，再将自己制作的自定义元件拖出![](../images/74..."
+      },
+      {
+        "type": "nested_image",
+        "line": 90,
+        "description": "嵌套图片引用: 在点击可编辑实体时，右侧会出现以下页签，其中，静态实体仅可以编![](../images/74525..."
+      },
+      {
+        "type": "nested_image",
+        "line": 104,
+        "description": "嵌套图片引用: 提供了基础战斗属性、仇恨配置、受击盒设置、战斗设置、能力单元等内容，![](../images/82..."
+      },
+      {
+        "type": "nested_image",
+        "line": 110,
+        "description": "嵌套图片引用: ![](../images/f6092088-eb64-4f94-86c1-cf00e2f5431f..."
+      },
+      {
+        "type": "nested_image",
+        "line": 124,
+        "description": "嵌套图片引用: 点击状态栏的物![](../images/fb9fb8e171957fc3a06322e5f19c7..."
+      }
+    ],
+    "单位标签_mhzldmiw.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 42,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 50,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_181..."
+      },
+      {
+        "type": "nested_image",
+        "line": 36,
+        "description": "嵌套图片引用: *查![](../images/d2aef61d-f2b3-4241-8b71-0a407da8![..."
+      }
+    ],
+    "单位状态_mh6rh59i.md": [
+      {
+        "type": "cdn_link",
+        "line": 32,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 36,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 28,
+        "description": "嵌套图片引用: 与常规节点图不同的是，若实体持有的多个状态关联了相同的节点图，视为该节点图只关联了一次，且直到实体失..."
+      },
+      {
+        "type": "nested_image",
+        "line": 61,
+        "description": "嵌套图片引用:  启用*无限持续时间*后，此状态![](../images/adeb6592-4c21-4f72-a..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 75,
+        "description": "图片插入在文本中: ![]()  ![](../images/824b239c-2989-45b5-a71d-5cbde..."
+      },
+      {
+        "type": "nested_image",
+        "line": 75,
+        "description": "嵌套图片引用: ![]()  ![](../images/824b239c-2989-45b5-a71d-5cbde..."
+      },
+      {
+        "type": "nested_image",
+        "line": 85,
+        "description": "嵌套图片引用: 当新施加的状态![](.![](../images/1916eae6-ce27-4e2a-9996-..."
+      },
+      {
+        "type": "nested_image",
+        "line": 91,
+        "description": "嵌套图片引用:  *最早施加时刻*——移除施加时刻最早的状态，即使它的剩余时长并非最短的，并施![](.![](....."
+      },
+      {
+        "type": "nested_image",
+        "line": 97,
+        "description": "嵌套图片引用: 如果目标已经持有了让位状态列表中的任意一种单位状态，则本次施加行为会直接终止并失败。  ![](....."
+      },
+      {
+        "type": "nested_image",
+        "line": 106,
+        "description": "嵌套图片引用: 可以在组件中配置状态施加时的叠加计数，状态的施加顺序为配置的从上至下。![](../images/5..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 112,
+        "description": "图片插入在文本中: ![]()![]()  ..."
+      },
+      {
+        "type": "nested_image",
+        "line": 112,
+        "description": "嵌套图片引用: ![]()![]()  ..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 121,
+        "description": "图片插入在文本中: ![]()![]()  ..."
+      },
+      {
+        "type": "nested_image",
+        "line": 121,
+        "description": "嵌套图片引用: ![]()![]()  ..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 131,
+        "description": "图片插入在文本中: ![]()![]()  ..."
+      },
+      {
+        "type": "nested_image",
+        "line": 131,
+        "description": "嵌套图片引用: ![]()![]()  ..."
+      }
+    ],
+    "单位状态_mhd7nxrf.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhd7nxrfa8im/7477888a-c8a0-4417-8724-5d371022a9ca.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "卡牌选择器界面控件_mh2teu0b.md": [
+      {
+        "type": "cdn_link",
+        "line": 30,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh2teu0bmfbc/3d81c54f-ef8a-4970-bf1c-247b806ac6e1.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 40,
+        "description": "嵌套图片引用: !![](../images/8227f![](../images/85f926d![](../im..."
+      },
+      {
+        "type": "nested_image",
+        "line": 85,
+        "description": "嵌套图片引用: | 配置参数 |![](../images/ced190df-502![](../images/df..."
+      },
+      {
+        "type": "nested_image",
+        "line": 103,
+        "description": "嵌套图片引用: | --![](../images/99df4401![](../images/b3411bb5-2..."
+      },
+      {
+        "type": "nested_image",
+        "line": 119,
+        "description": "嵌套图片引用: | 配置参数 | 说明![](../images/b7d6068b![](../images/2a7..."
+      },
+      {
+        "type": "corrupted_text",
+        "line": 119,
+        "description": "文本损坏: | 配置参数 | 说明![](../images/b7d6068b![](../images/2a7..."
+      }
+    ],
+    "受击盒设置_mhvg40rc.md": [
+      {
+        "type": "cdn_link",
+        "line": 42,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhvg40rc5w9i/339330c7-b79d-4ac2-874f-8701486d6501.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "变换原生碰撞可见性和创建设置_mhuqbn9y.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhuqbn9yn5bu/2eb9c8bc-6cf8-4176-b2ef-24e6ecdc8d3b.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 33,
+        "description": "嵌套图片引用: *初始生效*：单位被初始![](../images/9ae![](../images/7463e5c..."
+      },
+      {
+        "type": "nested_image",
+        "line": 35,
+        "description": "嵌套图片引用: *是否可攀爬*：原生碰撞![](../images/48d1893f-f9e1-4073-b555-..."
+      }
+    ],
+    "命中检测_mh2pir0h.md": [
+      {
+        "type": "cdn_link",
+        "line": 48,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh2pir0hat1s/14c3285a-42d0-421d-bdf7-4e7ce9d35a0c.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 52,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 54,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 44,
+        "description": "嵌套图片引用: | *命中时执行能力单元* | 引用一组能力单元，见[能力单元](/ys/ugc/tut![](....."
+      }
+    ],
+    "商店_mhi9s7is.md": [
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhi9s7isvp50/06e7bbf8-b1cb-471d-9862-1e46555ba33e.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "商店组件_mho6gviq.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mho6gviqhsqs/3e95e17c-92f7-4ea8-b4f6-5b586c3e2ed6.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 45,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: *商店名称*![](../images/3e95e17c-92f7-4ea8-b4f6-5b![](..."
+      }
+    ],
+    "地形编辑_mhwe1n94.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwe1n94b1x6/17c776e6-c573-4aa5-a41b-99285711e6d1.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 41,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: 打开方式：通过左侧上方按钮![](../images/30ed0806a04f93661a9006d..."
+      },
+      {
+        "type": "nested_image",
+        "line": 33,
+        "description": "嵌套图片引用: * 地块材质（点击后根据所选材质进入[地形编辑-四、地形修改 - 自由编辑](/ys/ugc/tut..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 51,
+        "description": "图片插入在文本中: * 修改名称（双击名称![]()开启） - 修改选中地形的名称..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 52,
+        "description": "图片插入在文本中: * 聚焦（点击按钮![]()开启）- 将镜头定位至地形处..."
+      },
+      {
+        "type": "nested_image",
+        "line": 53,
+        "description": "嵌套图片引用: * 创![](../images/d5559097-e899-4859-8e4f-8d60dce91..."
+      },
+      {
+        "type": "nested_image",
+        "line": 59,
+        "description": "嵌套图片引用: 开启条件：通过指针或地形列表选中任意![](../images/0a76711e-96e5-4ebf..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 64,
+        "description": "图片插入在文本中: * 地块材质（点击按钮![]()打开替换面板） - 将地形内所选材质替换成其他材质或去除该材质。注：..."
+      },
+      {
+        "type": "nested_image",
+        "line": 64,
+        "description": "嵌套图片引用: * 地块材质（点击按钮![]()打开替换面板） - 将地形内所选材质替换成其他材质或去除该材质。注：..."
+      },
+      {
+        "type": "nested_image",
+        "line": 75,
+        "description": "嵌套图片引用: 可选内容及选中功能![](../image![](../images/f26fbd3f-a![](...."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 84,
+        "description": "图片插入在文本中: 进入[地形编辑-四、地形修改 - 自由编辑](/ys/ugc/tutorial//detail/mh..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 112,
+        "description": "图片插入在文本中: * 移动滑块![]()改变画布高度。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 113,
+        "description": "图片插入在文本中: * 单击输入框![]()输入改变画布高度。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 114,
+        "description": "图片插入在文本中: * 聚焦![]()于画布所在高度。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 115,
+        "description": "图片插入在文本中: * 增加/减少![]()画布高度20。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 125,
+        "description": "图片插入在文本中: 笔刷层数：调整![]()单次笔刷的层数值。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 214,
+        "description": "图片插入在文本中: 抬高一层：点击![]()后，将所选地形内所有地块增高一层。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 216,
+        "description": "图片插入在文本中: 下沉一层：点击![]()后，将所选地形内的所有地块降低一层。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 226,
+        "description": "图片插入在文本中: 抬升：点击![]()后，本次所选地块增高一层..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 228,
+        "description": "图片插入在文本中: 下沉：点击![]()后，本次所选地块降低一层;..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 230,
+        "description": "图片插入在文本中: 分割：点击![]()后，将选中的所有地块从该地形分割出去，根据分割内容，生成一个/多个新的地形；..."
+      }
+    ],
+    "基础战斗属性_mhvyqz9x.md": [
+      {
+        "type": "cdn_link",
+        "line": 23,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 48,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 19,
+        "description": "嵌套图片引用: ![](../images/30ed![](../images/40952836-e449-4a99..."
+      },
+      {
+        "type": "nested_image",
+        "line": 46,
+        "description": "嵌套图片引用: * ![](../![](../images/db0dd60a-19fa-4e56-90b4-176..."
+      },
+      {
+        "type": "nested_image",
+        "line": 64,
+        "description": "嵌套图片引用: *实际攻击![](../![](../images/0908b081-f466-4030-b397-..."
+      }
+    ],
+    "基础概念_mhk23ora.md": [
+      {
+        "type": "cdn_link",
+        "line": 51,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhk23ora1wom/23730d7a-40b5-48d0-a29e-cc27f5a36590.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 59,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 51,
+        "description": "嵌套图片引用: 以下图为例，在运行时，该节点的出参值为（1+2![](../images/ae922b4d-0b9a..."
+      },
+      {
+        "type": "nested_image",
+        "line": 99,
+        "description": "嵌套图片引用: **命中检测触发时**（事件）——**播放特效**（执行）——**双分支**（流程控![](../i..."
+      },
+      {
+        "type": "nested_image",
+        "line": 103,
+        "description": "嵌套图片引用: 执行流连![](../images/87d26151-![](../images/df3dca69-..."
+      },
+      {
+        "type": "nested_image",
+        "line": 138,
+        "description": "嵌套图片引用: ![](../images/99287945-7efc-4d3d-8e7a-281a9b454ea4..."
+      },
+      {
+        "type": "nested_image",
+        "line": 150,
+        "description": "嵌套图片引用: 一对多连线说明同![](../images/55c40725-13f0-48d8-a825-228d..."
+      },
+      {
+        "type": "nested_image",
+        "line": 182,
+        "description": "嵌套图片引用: 使用连线将各个节点连接在一起，就形成了一张*节点图![](../images/7cc30f44-f1..."
+      }
+    ],
+    "基础运动器_mhnmcmip.md": [
+      {
+        "type": "cdn_link",
+        "line": 43,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnmcmipncrg/c8476575-b0b9-4e19-a2ef-30a8a6b75d64.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 189,
+        "description": "嵌套图片引用: |![](../images/1511276d-d4c4-45cd-8a![](.![](.![](..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 214,
+        "description": "图片插入在文本中: ![]()![]()![]()..."
+      },
+      {
+        "type": "nested_image",
+        "line": 214,
+        "description": "嵌套图片引用: ![]()![]()![]()..."
+      }
+    ],
+    "复合节点_mhty17iq.md": [
+      {
+        "type": "cdn_link",
+        "line": 43,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 45,
+        "description": "嵌套图片引用: 在复合节点图内部，可以指定将哪些引脚对外暴露（即下图框出的引脚![](../images/df93d..."
+      },
+      {
+        "type": "nested_image",
+        "line": 51,
+        "description": "嵌套图片引用: 其![](../images/7d5f06d![](../images/6e176ae2-22a7-..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 141,
+        "description": "图片插入在文本中: ![]()![]()![]()..."
+      },
+      {
+        "type": "nested_image",
+        "line": 141,
+        "description": "嵌套图片引用: ![]()![]()![]()..."
+      }
+    ],
+    "复合节点图日志_mhip8yit.md": [
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 29,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhip8yit341o/7a3d0792-0be9-43a3-b5df-376c12f5d952.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 19,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_181..."
+      }
+    ],
+    "复苏_mh796lr4.md": [
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 39,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 45,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 31,
+        "description": "嵌套图片引用: ![](../images/2672b66d-8c40-4ec6-b![](../images/a6..."
+      }
+    ],
+    "多人试玩_mh9fj3ru.md": [
+      {
+        "type": "cdn_link",
+        "line": 27,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh9fj3rudd9q/ceaa8fa4-9341-455a-9905-9cfade2549c7.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh9fj3rudd9q/f91eefd0-2182-4fbb-a90d-39261d3b848f.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 43,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: 刚加入试玩房间的玩家会被分配至等候区的首个剩余席位，处于等![](../images/ceaa8fa..."
+      },
+      {
+        "type": "nested_image",
+        "line": 30,
+        "description": "嵌套图片引用: ![](../images/cd0227c1-fa11-4d21-81b4-7f8c6744a5e9..."
+      },
+      {
+        "type": "nested_image",
+        "line": 47,
+        "description": "嵌套图片引用: ![]![](../images/413beb8e-8411-4cff-9760-69f086d5c..."
+      },
+      {
+        "type": "nested_image",
+        "line": 49,
+        "description": "嵌套图片引用: ![]()![]()..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 56,
+        "description": "图片插入在文本中: ![![](../images/e8d90433-0ef2-473a-859c-871561bf35..."
+      },
+      {
+        "type": "nested_image",
+        "line": 56,
+        "description": "嵌套图片引用: ![![](../images/e8d90433-0ef2-473a-859c-871561bf35..."
+      },
+      {
+        "type": "nested_image",
+        "line": 58,
+        "description": "嵌套图片引用: 房主点击【邀请】按钮后，界面右![](../images/9166f753-cea6-49fa-ae..."
+      }
+    ],
+    "多语言文本_mhk59aiq.md": [
+      {
+        "type": "cdn_link",
+        "line": 22,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 32,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhk59aiqtwyk/fadbb652-dd46-428a-949d-a088c9d34be4.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 32,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhk59aiqtwyk/fadbb652-dd46-428a-949d-a088c9d34be4.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 19,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_181..."
+      },
+      {
+        "type": "nested_image",
+        "line": 24,
+        "description": "嵌套图片引用: *是否需要翻译*![](.![](../images/e936a2bb-09c3-4f05-8016..."
+      },
+      {
+        "type": "nested_image",
+        "line": 32,
+        "description": "嵌套图片引用: ![](https://act-webstatic.mihoyo.com/ugc-tutorial/..."
+      }
+    ],
+    "奇域礼盒_mhjdhpi4.md": [
+      {
+        "type": "cdn_link",
+        "line": 17,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 23,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhjdhpi4sd10/e2ff2b74-75a0-4693-acf0-1694d03adc7e.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 36,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 17,
+        "description": "嵌套图片引用: ![](.![](../images/e2ff2b74-75a0-4693-acf0-16![](...."
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: *礼盒索引*：礼盒的唯一标识，不能重![](../images/9c7f94ea-5315-4891..."
+      },
+      {
+        "type": "nested_image",
+        "line": 32,
+        "description": "嵌套图片引用: ![](../images/c78e6![](../images/3b75839![](../ima..."
+      }
+    ],
+    "奇域资产中心_mhf66q9j.md": [
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 23,
+        "description": "嵌套图片引用: * 使![](../images/6c8a7e![](.![](../images/13aa![](..."
+      },
+      {
+        "type": "nested_image",
+        "line": 41,
+        "description": "嵌套图片引用: ![]()![]()..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 49,
+        "description": "图片插入在文本中: * 左上角按钮![]()点击可直接复制该资产的详情页链接..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 50,
+        "description": "图片插入在文本中: * 右上角按钮![]()分别为：下载、收藏..."
+      }
+    ],
+    "字典_mhubgk9y.md": [
+      {
+        "type": "cdn_link",
+        "line": 102,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 108,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 98,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_181..."
+      },
+      {
+        "type": "nested_image",
+        "line": 100,
+        "description": "嵌套图片引用: 点击后，可以观察到【*变量值*![](../images/9507a735-bc6e-49e9-83..."
+      }
+    ],
+    "定时器_mhufb90z.md": [
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhufb90zbnts/80237437-9009-4c89-a9e7-f3b01620dd2e.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 43,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 51,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 31,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_18!..."
+      }
+    ],
+    "实体布设组_mhqmrlr6.md": [
+      {
+        "type": "cdn_link",
+        "line": 28,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhqmrlr6h58e/25ba7dd2-050f-4440-9aa4-9d70d7b041bd.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 28,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhqmrlr6h58e/25ba7dd2-050f-4440-9aa4-9d70d7b041bd.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 36,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 40,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: ![](../images/bdcf6e43-784b-426e-8688-c5470e44a877..."
+      },
+      {
+        "type": "nested_image",
+        "line": 26,
+        "description": "嵌套图片引用: 实体布设![](../images/970d0dc1-f354-4904-b24b-18a![](...."
+      },
+      {
+        "type": "nested_image",
+        "line": 28,
+        "description": "嵌套图片引用: ![](https://act-webstatic.mihoyo.com/ugc-tutorial/..."
+      }
+    ],
+    "实体摆放_mhnffmie.md": [
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnffmieeqbg/3066ea09-2081-473a-8d11-f6f107a1612f.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnffmieeqbg/3066ea09-2081-473a-8d11-f6f107a1612f.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 47,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 31,
+        "description": "嵌套图片引用: ## 2.![](.![](../images/3066ea09-2081-473a-8d11-f6..."
+      },
+      {
+        "type": "nested_image",
+        "line": 37,
+        "description": "嵌套图片引用: ![](https://act-webstatic.mihoyo.com/ugc-tutorial/..."
+      },
+      {
+        "type": "nested_image",
+        "line": 41,
+        "description": "嵌套图片引用: 按住鼠标左键并拖拽以进行框选，按住左shift+鼠![](../images/bcb2d925-a2..."
+      },
+      {
+        "type": "nested_image",
+        "line": 61,
+        "description": "嵌套图片引用: * 移动变![](../images/0fa0251b-37ea-43a9-b21c-3182023..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 74,
+        "description": "图片插入在文本中: ![]()![]()![]()..."
+      },
+      {
+        "type": "nested_image",
+        "line": 74,
+        "description": "嵌套图片引用: ![]()![]()![]()..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 78,
+        "description": "图片插入在文本中: 按delete键或点击![]()删除实体..."
+      },
+      {
+        "type": "nested_image",
+        "line": 110,
+        "description": "嵌套图片引用: ![](../images/c88fc9c8-021a-410c-ac1![](../images/..."
+      }
+    ],
+    "客户端节点图日志_mhrnuz9i.md": [
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 45,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 53,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "小地图标识_mh0pppib.md": [
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh0pppib5eyc/781999d6-8533-4383-ae15-be3575bc8641.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 104,
+        "description": "嵌套图片引用: | --- | ---![](../images/a2d9555a-4973-4![](../ima..."
+      }
+    ],
+    "局内存档_mhzcw29q.md": [
+      {
+        "type": "cdn_link",
+        "line": 50,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhzcw29qjjma/94c196cc-116f-41e5-88e5-3e33b088728b.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 74,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 70,
+        "description": "嵌套图片引用: 这可能![](../images/bb7b8635-3fd8-4a14-84e0-ff478f2e3..."
+      },
+      {
+        "type": "nested_image",
+        "line": 92,
+        "description": "嵌套图片引用: * 缩减![](../images/68a993ed-5b0d-429f-ae72-28dac21e..."
+      }
+    ],
+    "常规设置_mh3rgo0c.md": [
+      {
+        "type": "cdn_link",
+        "line": 30,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh3rgo0c16c8/ee081b0d-ec10-40bd-ac72-d338698ae3fb.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 41,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 98,
+        "description": "图片插入在文本中: * 通过点击![]()，添加巡逻模板。..."
+      },
+      {
+        "type": "nested_image",
+        "line": 121,
+        "description": "嵌套图片引用: * 选择[路径](/ys/u![](../images/e3186431-5da2-448a-9ff..."
+      },
+      {
+        "type": "nested_image",
+        "line": 150,
+        "description": "嵌套图片引用: ![]![](../![](../![](../![](../images/b39924ac-ab4..."
+      }
+    ],
+    "成就_mh65jrr2.md": [
+      {
+        "type": "cdn_link",
+        "line": 27,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh65jrr2yj3i/ff24d4af-5158-4535-a332-e33f9c0f91a7.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 41,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 23,
+        "description": "嵌套图片引用: *是否开启成就*：是否开启成就功能![](../images/ff24d4af-5158-4535-..."
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: ![](../images/9a0f1c19-e7ab-467f-89fa-9f8f1ed071ff..."
+      },
+      {
+        "type": "nested_image",
+        "line": 43,
+        "description": "嵌套图片引用: *普通成就*：点击右下方的新建成![](../images/7f666![](../images/6..."
+      }
+    ],
+    "战利品_mh63ox06.md": [
+      {
+        "type": "cdn_link",
+        "line": 47,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh63ox06afy8/945c274a-4b97-4a76-aae7-cadb86243ac4.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 51,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 59,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 43,
+        "description": "嵌套图片引用: ### (2)掉![](../images/945c27![](../images/8c999a57..."
+      }
+    ],
+    "战斗预设_mhexhcr1.md": [
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhexhcr1qjh2/37499681-b34a-4beb-b99e-9731dcd4eed7.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhexhcr1qjh2/c26f00a2-948b-494b-8827-30ea00d3c865.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 21,
+        "description": "嵌套图片引用: 角色与职业编辑模块的内容修改后会自动保存，而单位状态、技能、本地投射物和道具的内容修改后需要手动进行..."
+      }
+    ],
+    "执行节点_mh6obvip.md": [
+      {
+        "type": "cdn_link",
+        "line": 58,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh6obvipqv1g/35adfaa5-1178-4cb4-ba3b-b97dff4e32fd.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 79,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "执行节点_mhw66orr.md": [
+      {
+        "type": "cdn_link",
+        "line": 53,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhw66orrrfkm/46c7d89f-aab2-41bd-9aee-954c77cec296.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 71,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "corrupted_text",
+        "line": 65,
+        "description": "文本损坏: | **参数类型** | **参数名** | **类型** | **说明![](../images/..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 1092,
+        "description": "图片插入在文本中: ![]()![](../images/bd5ff8c6-c18c-4ff1-9bf8-16abf25..."
+      },
+      {
+        "type": "nested_image",
+        "line": 1092,
+        "description": "嵌套图片引用: ![]()![](../images/bd5ff8c6-c18c-4ff1-9bf8-16abf25..."
+      },
+      {
+        "type": "corrupted_text",
+        "line": 2064,
+        "description": "文本损坏: | **参数类型** | **参数名** | **类型** | **说![](../images/7..."
+      },
+      {
+        "type": "corrupted_text",
+        "line": 2168,
+        "description": "文本损坏: | **参数类型** | **参数名** | **类型** | **说明![](../images/..."
+      }
+    ],
+    "扫描标签_mhfc0lr1.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhfc0lr1tcke/e8bdf31a-7abc-4376-8319-8729c6e3aef9.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_181..."
+      },
+      {
+        "type": "nested_image",
+        "line": 53,
+        "description": "嵌套图片引用: *图标设置*：当一个带有该扫描标签的元件或实体被扫描逻辑选中时，会出现提示图标，此处配置图标的相关表..."
+      },
+      {
+        "type": "nested_image",
+        "line": 69,
+        "description": "嵌套图片引用: ![](![](../images/42a598f1-1a12-4a51-a172-3a5d3a86..."
+      },
+      {
+        "type": "nested_image",
+        "line": 77,
+        "description": "嵌套图片引用: *特效资产*：创作者(奇匠)可以在此选择一种![](../![](../images/59e2943..."
+      },
+      {
+        "type": "nested_image",
+        "line": 94,
+        "description": "嵌套图片引用: *禁用状态特效*：当携带扫描组件的实体处于禁用状态时，会被![](../images/c6b1393..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 102,
+        "description": "图片插入在文本中: ![]()![](../images/9c5df930-45fe-4187-b585-e1e8bac..."
+      },
+      {
+        "type": "nested_image",
+        "line": 102,
+        "description": "嵌套图片引用: ![]()![](../images/9c5df930-45fe-4187-b585-e1e8bac..."
+      },
+      {
+        "type": "nested_image",
+        "line": 116,
+        "description": "嵌套图片引用: *距离检测点*：在进行距离检测时，基于配置的单位挂接点的![](../images/a1643745..."
+      }
+    ],
+    "技能_mho81frl.md": [
+      {
+        "type": "cdn_link",
+        "line": 21,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mho81frl33im/eb78b6fd-7470-4cf1-94ca-ba238c081fc1.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 29,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 63,
+        "description": "嵌套图片引用: *使用次数*：技能添加时的默认可使用次数，当使用次数归0时，技能无法使用，每![](../image..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 73,
+        "description": "图片插入在文本中: *圆柱体*：使用*半径*和*高度*进![](../images/b355596d-19fd-445f..."
+      },
+      {
+        "type": "nested_image",
+        "line": 73,
+        "description": "嵌套图片引用: *圆柱体*：使用*半径*和*高度*进![](../images/b355596d-19fd-445f..."
+      },
+      {
+        "type": "nested_image",
+        "line": 101,
+        "description": "嵌套图片引用: *长按*：长按技能进入瞄准状态，松开后退出![](../images/7df8deaa-0472-4..."
+      },
+      {
+        "type": "nested_image",
+        "line": 127,
+        "description": "嵌套图片引用: 动画是整个*技能轨道*的尺度，事件轴的总长度等于所有动画的时长之和，![](../images/f7..."
+      },
+      {
+        "type": "nested_image",
+        "line": 182,
+        "description": "嵌套图片引用: *响应*：支持由创作者(奇匠)配置分支轨道![](../images/ad360![](../ima..."
+      },
+      {
+        "type": "nested_image",
+        "line": 188,
+        "description": "嵌套图片引用: *连段技能*支持创作者(奇匠)![](../![](../![](../images/9c4a9a!..."
+      }
+    ],
+    "技能资源_mh6ate95.md": [
+      {
+        "type": "cdn_link",
+        "line": 34,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh6ate95agb6/8170edca-23e2-48ac-a96b-636dc2b13b30.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 36,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 29,
+        "description": "嵌套图片引用: * *可获取最大值*：技![](../![](../images/2df6136d-6aad-403..."
+      }
+    ],
+    "投射运动器_mhaqt9rg.md": [
+      {
+        "type": "cdn_link",
+        "line": 39,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 49,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "护盾_mhhl0gir.md": [
+      {
+        "type": "cdn_link",
+        "line": 39,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhhl0gire830/863c111a-b34e-4961-a4ea-82132c9b11a0.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 57,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "掉落物_mhkfj1ii.md": [
+      {
+        "type": "cdn_link",
+        "line": 53,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhkfj1iilnck/eabfce6f-2128-45b7-b4af-d93b3da20232.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 59,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 67,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 49,
+        "description": "嵌套图片引用: *掉落内容*：支持在组件内配置一个掉落物所包含虚拟物品的字典，当掉落物被直接布设在场景内，通过元件实..."
+      }
+    ],
+    "排行榜_mho2rt9i.md": [
+      {
+        "type": "cdn_link",
+        "line": 19,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mho2rt9ir6ay/fff8231c-df6c-4057-9393-44192662859d.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 63,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 67,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 51,
+        "description": "嵌套图片引用: *越小越靠前*：数值越小的![](../images/aaa64cb8-b4![](../image..."
+      }
+    ],
+    "数据复制粘贴_mh6fj30p.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 45,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 27,
+        "description": "嵌套图片引用: ![](../images/30ed08![](../images/03ad6f84-084a-4a..."
+      },
+      {
+        "type": "nested_image",
+        "line": 35,
+        "description": "嵌套图片引用: 复制元件内数据加入剪贴板，后续可粘贴至同类型其他元件，替换目标及附属实体的数据。![](../ima..."
+      }
+    ],
+    "整体界面_mhn4bsi5.md": [
+      {
+        "type": "cdn_link",
+        "line": 26,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhn4bsi5lb58/d5a21146-0aa2-42f7-a76b-bbaf132f472e.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 20,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_181..."
+      }
+    ],
+    "文字聊天_mhaneb9q.md": [
+      {
+        "type": "cdn_link",
+        "line": 29,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhaneb9qnvay/5accf1cf-aa30-4b3f-9145-877d12184a45.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 23,
+        "description": "嵌套图片引用: ![](../ima![](../images/df959948-0f6f-![](../image..."
+      },
+      {
+        "type": "nested_image",
+        "line": 41,
+        "description": "嵌套图片引用: | *初始生效* ![](../images/889bd719-fd57-4776-831f-a92..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 51,
+        "description": "图片插入在文本中: 点击 ![]() 可添加快捷文本，点击![]() 可删除文本，至少需要保留1条默认文本..."
+      },
+      {
+        "type": "nested_image",
+        "line": 51,
+        "description": "嵌套图片引用: 点击 ![]() 可添加快捷文本，点击![]() 可删除文本，至少需要保留1条默认文本..."
+      },
+      {
+        "type": "nested_image",
+        "line": 55,
+        "description": "嵌套图片引用: ![]()![]()..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 67,
+        "description": "图片插入在文本中: 通过节点图可控制当前关卡内所有文字聊天频道开关，开启/关闭可对该频道所有对应对象生效![]()..."
+      }
+    ],
+    "文本框界面控件_mhnltrr3.md": [
+      {
+        "type": "cdn_link",
+        "line": 29,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 60,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnltrr3g966/8bc744ed-2c89-484e-a6de-8358948f5c86.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 77,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 27,
+        "description": "嵌套图片引用: ![](../![](../images/6eb7b309-a986-4803-b06d-0d902..."
+      }
+    ],
+    "文本气泡_mhwtz297.md": [
+      {
+        "type": "cdn_link",
+        "line": 39,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwtz297kp6a/51f00aeb-bfb7-4e8c-b838-c08166dc6b6a.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 41,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 63,
+        "description": "嵌套图片引用: | 对应本地过滤器节点图中的基础节点，进行说明   * 获取自身实体   输出参数为挂载文本气泡组件..."
+      },
+      {
+        "type": "nested_image",
+        "line": 73,
+        "description": "嵌套图片引用: ![](../images/ffbb2781![](../images/6a5a855d-d9b8-..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 75,
+        "description": "图片插入在文本中: 通过![]()对指定项进行复制、粘贴、删除等操作。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 89,
+        "description": "图片插入在文本中: 按照文本气泡配置的位置、文本的字号、每一句文本的持续时间以及是否循环播放，都会在预览时获得正确的展示..."
+      }
+    ],
+    "本地投射物_mhciimiw.md": [
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhciimiw86jg/175d8d52-3df2-47b7-a635-f16d64ddc621.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 41,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: ## 2.命名与![](../images/c3836dae-5![](../![](../imag..."
+      },
+      {
+        "type": "nested_image",
+        "line": 53,
+        "description": "嵌套图片引用: | *后续是否受创建者影响* |![](../images/ff3a3b5f-8c5b-429a-!..."
+      }
+    ],
+    "查询节点_mholjx05.md": [
+      {
+        "type": "cdn_link",
+        "line": 54,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mholjx05ji8w/016ea4f9-cebe-468c-8b68-31cf08cdfeb6.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 70,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "corrupted_text",
+        "line": 48,
+        "description": "文本损坏: | **参数类型** | **参数名** | **类型** | **说![](../images/0..."
+      },
+      {
+        "type": "nested_image",
+        "line": 513,
+        "description": "嵌套图片引用: ![](![](../images/d63bd014-aeb6-409c-9f37-45d3c9b1..."
+      }
+    ],
+    "查询节点_mhwbqlrw.md": [
+      {
+        "type": "cdn_link",
+        "line": 59,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwbqlrw655q/5b509c0b-bda2-4000-b999-b5eab458e95c.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 74,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 104,
+        "description": "图片插入在文本中: ## **5.权重随![](../images/ccfcb1b2-2efc-4de7-91f6-e2..."
+      },
+      {
+        "type": "nested_image",
+        "line": 104,
+        "description": "嵌套图片引用: ## **5.权重随![](../images/ccfcb1b2-2efc-4de7-91f6-e2..."
+      },
+      {
+        "type": "nested_image",
+        "line": 238,
+        "description": "嵌套图片引用: ![](![](../images/a7d40232-b1f7-4812-87b7-f5ca0b35..."
+      },
+      {
+        "type": "corrupted_text",
+        "line": 920,
+        "description": "文本损坏: | **参数类型** | **参数名** | **类型** | **说明![](../images/..."
+      },
+      {
+        "type": "corrupted_text",
+        "line": 999,
+        "description": "文本损坏: | **参数类型** | **参数名** | **类型** | **说![](../images/8..."
+      },
+      {
+        "type": "nested_image",
+        "line": 1150,
+        "description": "嵌套图片引用: ![](![](../images/42b7b34e-7c54-4205-aadb-b8b3af34..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 1502,
+        "description": "图片插入在文本中: ![]()![](../images/82472495-908d-47bf-b02d-2b4ab2e..."
+      },
+      {
+        "type": "nested_image",
+        "line": 1502,
+        "description": "嵌套图片引用: ![]()![](../images/82472495-908d-47bf-b02d-2b4ab2e..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 1598,
+        "description": "图片插入在文本中: ![]()![](../images/94b0acbc-506c-4393-8178-ca7b9ac..."
+      },
+      {
+        "type": "nested_image",
+        "line": 1598,
+        "description": "嵌套图片引用: ![]()![](../images/94b0acbc-506c-4393-8178-ca7b9ac..."
+      }
+    ],
+    "模型_mhrutdio.md": [
+      {
+        "type": "cdn_link",
+        "line": 36,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 40,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhrutdio6904/2cc53650-7dc6-437d-9182-ee9ada267e5e.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 44,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 54,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 66,
+        "description": "嵌套图片引用: #![](../images/61752951-b49![](../images/c800c1da-..."
+      }
+    ],
+    "泛型引脚_mhkirfrn.md": [
+      {
+        "type": "cdn_link",
+        "line": 41,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 51,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 31,
+        "description": "嵌套图片引用: 通过![](../images/f253d8f7-fac8-4f3a-a0d9-86ac6ede87..."
+      }
+    ],
+    "物件_mhlh4n9m.md": [
+      {
+        "type": "cdn_link",
+        "line": 46,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "特化配置_mhtwkur4.md": [
+      {
+        "type": "cdn_link",
+        "line": 23,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhtwkur42see/cf352c20-2313-40b2-8566-78e24d89e857.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "特效_mhe1030v.md": [
+      {
+        "type": "cdn_link",
+        "line": 57,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 63,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 69,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 51,
+        "description": "嵌套图片引用: 可引用循环特效池中的特效，选定配置了“特效播放组件”![](../images/6ecb559e-6..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 71,
+        "description": "图片插入在文本中: 可通过点击![]()符号，查看所有特效枚举，选取指定特效资产..."
+      }
+    ],
+    "特效播放_mh4ppo02.md": [
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 29,
+        "description": "嵌套图片引用: ![](../images/30ed0806a0![](../images/e994a699-c69..."
+      }
+    ],
+    "玩家_mhctmgi5.md": [
+      {
+        "type": "cdn_link",
+        "line": 51,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhctmgi51lpo/648d7a1f-70a1-4bf1-812c-547d384e5cf0.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "环境配置_mhdznsie.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhdznsie9up8/c13de993-9778-4aed-abee-f028f1ef635b.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 38,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 23,
+        "description": "嵌套图片引用: *随时间自动切换*：如果启用，则场景中的太阳月亮、光照角度和强弱都会随时间变换。关卡设置中可定![]..."
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: *![](../images/b4ce4c49-ee57-4831-8b4e![](../image..."
+      },
+      {
+        "type": "nested_image",
+        "line": 37,
+        "description": "嵌套图片引用: ## 2.![](../images/45![](../images/6ea66186-826b-4..."
+      },
+      {
+        "type": "nested_image",
+        "line": 40,
+        "description": "嵌套图片引用: *星星*：启用后可设![](../images/0da36e40-28![](../![](../i..."
+      }
+    ],
+    "界面布局_mhozt0r7.md": [
+      {
+        "type": "cdn_link",
+        "line": 27,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 34,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 39,
+        "description": "嵌套图片引用: | *目标玩家* | 需要切换界面布局的玩家实体![](../images/0a58f49b-2![..."
+      },
+      {
+        "type": "nested_image",
+        "line": 51,
+        "description": "嵌套图片引用: 由于不同设备上的分辨率/按钮排布等界面布局差异较大，如果需要制作*P![](../images/c0..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 57,
+        "description": "图片插入在文本中: (2)控件详情-变换：点击选择设备![]()..."
+      },
+      {
+        "type": "nested_image",
+        "line": 140,
+        "description": "嵌套图片引用: | 深色![](../images/42226a2b-c323-434e-88c1-540973fc..."
+      }
+    ],
+    "界面控件_mhnapxru.md": [
+      {
+        "type": "cdn_link",
+        "line": 92,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 96,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 88,
+        "description": "嵌套图片引用: ![](../images/c0cccc79-7d99-40c8-a03f-9c209c8b5![]..."
+      }
+    ],
+    "界面控件组_mhg1700h.md": [
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: ![](.![](.![](.![](../images/632ab907-15a5-4d42-90..."
+      },
+      {
+        "type": "nested_image",
+        "line": 46,
+        "description": "嵌套图片引用: * 隐藏，界![](../images/341c3605-9ee5-4ad7-b0ff-5a5d65..."
+      }
+    ],
+    "界面控件组管理_mhewyi0f.md": [
+      {
+        "type": "cdn_link",
+        "line": 32,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 40,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 40,
+        "description": "嵌套图片引用: 通过节点图管理时，仅支持修改表现状态，不支持进行![](../images/e7b0c792-6a3..."
+      },
+      {
+        "type": "nested_image",
+        "line": 48,
+        "description": "嵌套图片引用: | *初始可见* | 当关卡运行，此界面布局生效时，该界面控![](../images/876087..."
+      },
+      {
+        "type": "nested_image",
+        "line": 57,
+        "description": "嵌套图片引用: 可调整位置、大小。默![](../images/9a62cd36-d4ba-4![](../imag..."
+      },
+      {
+        "type": "nested_image",
+        "line": 76,
+        "description": "嵌套图片引用: 当前界面布局的默![](../images/a2dfac84-c69e-47e6-b787-077c..."
+      }
+    ],
+    "碰撞触发器_mh8w69rz.md": [
+      {
+        "type": "cdn_link",
+        "line": 51,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 59,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 69,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 54,
+        "description": "嵌套图片引用: * 通过点击!![](../images/7fac506f-d426-4043-9df2-189d0..."
+      },
+      {
+        "type": "nested_image",
+        "line": 76,
+        "description": "嵌套图片引用: | --- ![](../images/48666862-ab1d-4651-a972-1297f0..."
+      }
+    ],
+    "碰撞触发源_mhn95di0.md": [
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 56,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 33,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a900![](../images/a..."
+      },
+      {
+        "type": "nested_image",
+        "line": 50,
+        "description": "嵌套图片引用: 运行时，可通过节点图管理运行时实体的碰撞触![](../images/1976ea0f-80a3-4..."
+      }
+    ],
+    "竞技段位_mhf45sis.md": [
+      {
+        "type": "cdn_link",
+        "line": 19,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhf45sisuup8/afefa858-f9d6-463b-8e4e-e9aaaded0db1.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 13,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_1![..."
+      },
+      {
+        "type": "nested_image",
+        "line": 73,
+        "description": "嵌套图片引用: 玩家逃跑可能是由于多种情况导致的，例如队友大量逃跑或挂机、由于网络原因掉线超时、对局在后半期双方实力..."
+      }
+    ],
+    "结构体_mh3fmi0t.md": [
+      {
+        "type": "cdn_link",
+        "line": 23,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh3fmi0t99ns/e5db55a4-ab6b-484f-a6b6-c0e83b4b8418.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 88,
+        "description": "嵌套图片引用: ![]![](../images/bc6fb362-54c1-4761-98a![](../imag..."
+      },
+      {
+        "type": "nested_image",
+        "line": 90,
+        "description": "嵌套图片引用: # 三、在泛型中![](../images/f7c5bd55-6f19-440f-81c![](....."
+      }
+    ],
+    "职业_mhodlcrp.md": [
+      {
+        "type": "cdn_link",
+        "line": 23,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 29,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhodlcrpht3q/0c8da5e9-3e2d-4745-bf8f-16217c074a18.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 21,
+        "description": "嵌套图片引用: ![](../images/2d1c![](../images/cb6f76a4-b969-405b..."
+      },
+      {
+        "type": "nested_image",
+        "line": 77,
+        "description": "嵌套图片引用: 职业的属性会直接作用到![](../![](../images/4ca24582-345d-471c..."
+      },
+      {
+        "type": "nested_image",
+        "line": 131,
+        "description": "嵌套图片引用: * **易![](../images/ad005444-14b3-4267-a639-e08f9fb..."
+      }
+    ],
+    "背包_mhogfq9b.md": [
+      {
+        "type": "cdn_link",
+        "line": 44,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhogfq9bf86q/7ba83e87-2d39-467d-b91a-b9bfb106efe9.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "背包组件_mh5y5001.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh5y5001vqd4/d639391b-44ca-4273-995b-c1560cc49a3a.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 39,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 43,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 27,
+        "description": "嵌套图片引用: *背包模板*![](../images/d639391b-44ca-4273-995b-c1560c..."
+      }
+    ],
+    "背景音乐_mhq9b601.md": [
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 43,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhq9b601kh9k/10bc4fd4-6413-430f-abdb-333a0ecb56e2.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 47,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 51,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 21,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006![](../images/..."
+      },
+      {
+        "type": "nested_image",
+        "line": 33,
+        "description": "嵌套图片引用: *是否淡入淡出*：在开始播放和播![](../images/10bc4f![](../images/..."
+      }
+    ],
+    "能力单元_mh0ucw9e.md": [
+      {
+        "type": "cdn_link",
+        "line": 47,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 53,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 41,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02![](../i..."
+      },
+      {
+        "type": "nested_image",
+        "line": 55,
+        "description": "嵌套图片引用: 在能力单元详情编辑页面，点击+号，可![](../images/0e05344b-bac9-4![]..."
+      }
+    ],
+    "能力单元效果_mhrvqvio.md": [
+      {
+        "type": "cdn_link",
+        "line": 38,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhrvqvioautg/b63aa168-b983-4725-be1d-a2eccdb42d8f.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 57,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 52,
+        "description": "嵌套图片引用: | *伤害变化距离计算方式* | 决定了伤害变化曲线中的距离如何计算  与当前位置的距离：适用于直接..."
+      },
+      {
+        "type": "nested_image",
+        "line": 77,
+        "description": "嵌套图片引用: | *屏蔽伤害跳字* | 勾选![](../images/62b76f24-781f-46a3-b8..."
+      },
+      {
+        "type": "nested_image",
+        "line": 81,
+        "description": "嵌套图片引用: 用于配置本次攻击携带的标签。标签本身没有固有的功能，而是可以在节点图中获取本次![](../imag..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 125,
+        "description": "图片插入在文本中: 与【攻击盒攻击】的配![](../images/0a72397f-7931-4922-9988-4f..."
+      },
+      {
+        "type": "nested_image",
+        "line": 125,
+        "description": "嵌套图片引用: 与【攻击盒攻击】的配![](../images/0a72397f-7931-4922-9988-4f..."
+      }
+    ],
+    "自定义变量_mhso1b9w.md": [
+      {
+        "type": "cdn_link",
+        "line": 86,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 92,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 82,
+        "description": "嵌套图片引用: 自定义变量组件是所有单位的默认挂载组件（即单位创建时会默认挂载![](../images/4adda..."
+      },
+      {
+        "type": "nested_image",
+        "line": 100,
+        "description": "嵌套图片引用: 【![](../images/964cd37e-28d9-4c96-8c92-efda816b932..."
+      }
+    ],
+    "自定义挂接点_mhmshmim.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 27,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f![](../images/12a26d45-f..."
+      }
+    ],
+    "节点图_mhjwjrr5.md": [
+      {
+        "type": "cdn_link",
+        "line": 77,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhjwjrr5n73i/0c5f91d1-a6c8-4438-88c7-a58a1b71899c.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 85,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 83,
+        "description": "嵌套图片引用: 可以切换配置玩家节点图或角色节点图，两者![](../images/983![](../images..."
+      }
+    ],
+    "节点图变量_mhtshail.md": [
+      {
+        "type": "cdn_link",
+        "line": 60,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 58,
+        "description": "嵌套图片引用: 页签操作与[![](../images/d0f36483-30a2-4fb9-a1d3-fbf138..."
+      },
+      {
+        "type": "nested_image",
+        "line": 62,
+        "description": "嵌套图片引用: ## 3.在节![](../images/1a34b258-699b-416a-9e45![](....."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 66,
+        "description": "图片插入在文本中: ![]()![]()![]()..."
+      },
+      {
+        "type": "nested_image",
+        "line": 66,
+        "description": "嵌套图片引用: ![]()![]()![]()..."
+      }
+    ],
+    "节点图日志_mhu951iz.md": [
+      {
+        "type": "cdn_link",
+        "line": 19,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhu951iz7wz8/f3579b8f-8fa3-4f2f-9805-393dc495cfd0.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 21,
+        "description": "嵌套图片引用: ## 2.通过节![](../images/2f0fe14e-e696-![](../images/..."
+      },
+      {
+        "type": "nested_image",
+        "line": 25,
+        "description": "嵌套图片引用: 在使用日志调试前，需要先在节点图筛选页签中选择查看![](../images/09541acc-dc..."
+      }
+    ],
+    "节点图编辑指引_mhb3ho0k.md": [
+      {
+        "type": "cdn_link",
+        "line": 24,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhb3ho0k5l2w/32e4ff2a-df23-4d63-8ce0-b8894d1a4e04.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 21,
+        "description": "嵌套图片引用: * 在右键菜![](../images/c3bd9033-2bb6-436f-8a2![](../i..."
+      },
+      {
+        "type": "nested_image",
+        "line": 22,
+        "description": "嵌套图片引用: ![](../images/d86b1740-0c98-422e-82ff-d024984cf39b..."
+      },
+      {
+        "type": "nested_image",
+        "line": 43,
+        "description": "嵌套图片引用: ![](../images/18031762-d![](../images/aaf25c53-c4e..."
+      }
+    ],
+    "装备_mhkl2yin.md": [
+      {
+        "type": "cdn_link",
+        "line": 27,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 51,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 55,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 21,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d6![](../image..."
+      },
+      {
+        "type": "nested_image",
+        "line": 43,
+        "description": "嵌套图片引用: *装备模板![](../images/965062bd-6af6-4537![](../images..."
+      },
+      {
+        "type": "nested_image",
+        "line": 123,
+        "description": "嵌套图片引用: * *赋予节点图*：提供创作者(奇匠)自己定义的![](../images/96cdf8da-6![..."
+      },
+      {
+        "type": "nested_image",
+        "line": 132,
+        "description": "嵌套图片引用: ![](../images/ccc![](../images/948![](../images/38..."
+      }
+    ],
+    "角色扰动装置_mhstl890.md": [
+      {
+        "type": "cdn_link",
+        "line": 27,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 29,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhstl890y7xe/b28e2325-6a44-4b01-975b-1fcee9249bfb.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 55,
+        "description": "嵌套图片引用: * 区![](../images/cb2![](../images/afd28f9f-b983-44..."
+      },
+      {
+        "type": "nested_image",
+        "line": 104,
+        "description": "嵌套图片引用: 该作用力让角色化身为球体特效，以配置的*速度*在扰动时间朝向![](../images/77de6e..."
+      },
+      {
+        "type": "nested_image",
+        "line": 137,
+        "description": "嵌套图片引用: !![](.![](../images/12b0e028-c41a-45cf-8312-223e8f..."
+      },
+      {
+        "type": "nested_image",
+        "line": 199,
+        "description": "嵌套图片引用: ![]()![]()..."
+      }
+    ],
+    "试玩_mhie54ik.md": [
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 23,
+        "description": "嵌套图片引用: 试玩流程分为：试![](../images/6e9fab45-86d6-4d41-8aaf-13a3..."
+      },
+      {
+        "type": "nested_image",
+        "line": 24,
+        "description": "嵌套图片引用: ## 1.试玩![](../images/e4be6da2-8681-45fe-bb85-7ef4e..."
+      },
+      {
+        "type": "nested_image",
+        "line": 27,
+        "description": "嵌套图片引用: *试玩时玩家编号*：点击后，将读取![](../images/3264390e-d3ac-48b7-..."
+      },
+      {
+        "type": "nested_image",
+        "line": 31,
+        "description": "嵌套图片引用: ![]()![]()..."
+      }
+    ],
+    "负载优化_mhlb1viv.md": [
+      {
+        "type": "cdn_link",
+        "line": 44,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhlb1vivioys/4bd63bd8-26e2-4d43-a424-b4a2cba9efc1.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 48,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 42,
+        "description": "嵌套图片引用: 在视野检测负载优化![](../images/4bd63bd8-26e2-4d43-a424-b4a..."
+      },
+      {
+        "type": "nested_image",
+        "line": 46,
+        "description": "嵌套图片引用: 以角色![](../images/6bfaaaf4-3508-4c94-9d85-4050e84a2..."
+      }
+    ],
+    "负载计算功能_mho2hirg.md": [
+      {
+        "type": "cdn_link",
+        "line": 53,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mho2hirgodxi/f839553d-a80a-426e-bd26-1f23eb725ae7.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 64,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 92,
+        "description": "嵌套图片引用: |  |![](../images/2b045943-55e2-49b0-b3a7-54ce74ff..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 107,
+        "description": "图片插入在文本中: ![]()![](../images/edc28eec-492d-44dd-9824-82a1137..."
+      },
+      {
+        "type": "nested_image",
+        "line": 107,
+        "description": "嵌套图片引用: ![]()![](../images/edc28eec-492d-44dd-9824-82a1137..."
+      },
+      {
+        "type": "nested_image",
+        "line": 138,
+        "description": "嵌套图片引用: ![](../images/72![](../images/b5a8a2f4-9ee7-4235-b..."
+      },
+      {
+        "type": "nested_image",
+        "line": 139,
+        "description": "嵌套图片引用: | *\\*计算静态负载* | 当前朝向的**计算静态负载**/推荐上限值  首先区域会计算以点位为中..."
+      },
+      {
+        "type": "nested_image",
+        "line": 144,
+        "description": "嵌套图片引用: 在关卡运行时，通过节点图创生的实体和特效等，会对运行的负载造成影响，这部分无法通过静态计算预估。因!..."
+      }
+    ],
+    "资产导入导出_mhxbd59u.md": [
+      {
+        "type": "cdn_link",
+        "line": 41,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 45,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 55,
+        "description": "嵌套图片引用: * 地形编辑 - 地形实体，物件实体，造物实体![](../images/1964a26![](....."
+      },
+      {
+        "type": "nested_image",
+        "line": 58,
+        "description": "嵌套图片引用: ## *![](../images/d4b1d65d-f2cd-4547-a114-fb11c![]..."
+      },
+      {
+        "type": "nested_image",
+        "line": 60,
+        "description": "嵌套图片引用: 多选内容导出时，以组合资产的形式导出形成单个文件（.![](../images/ea28f813![..."
+      }
+    ],
+    "跟随运动器_mhuts59m.md": [
+      {
+        "type": "cdn_link",
+        "line": 43,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhuts59m9gju/823bb4cc-9d23-4c87-a59b-8e30bff69292.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 49,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 57,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 57,
+        "description": "嵌套图片引用: ![](https://webstatic.mihoyo.com/bh3/upload/offici..."
+      },
+      {
+        "type": "nested_image",
+        "line": 59,
+        "description": "嵌套图片引用: *初始速度*：跟随运动器![](../images/f87d5a86![](../images/8c..."
+      }
+    ],
+    "路径_mh333vim.md": [
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh333vim2h44/6ff41158-689b-466b-8873-6761fc3de034.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 29,
+        "description": "嵌套图片引用: ![](../images/f21423ca-e157-45b0-97a2-0d9183276ad9..."
+      },
+      {
+        "type": "nested_image",
+        "line": 41,
+        "description": "嵌套图片引用: 并以屏幕中![](../images/![](../![](../images/518180a9-8..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 49,
+        "description": "图片插入在文本中: 选择*\\*未分类页签*的![]()可以新增页签，并对新增的页签命名..."
+      },
+      {
+        "type": "nested_image",
+        "line": 59,
+        "description": "嵌套图片引用: ![]()![]()..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 99,
+        "description": "图片插入在文本中: 点击路点的右侧按钮![]()可展开辅助编辑..."
+      }
+    ],
+    "运算节点_mhfmxw9f.md": [
+      {
+        "type": "cdn_link",
+        "line": 63,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhfmxw9fn6n6/aeb6eb5b-e7ce-4baf-98c7-8a62f80451ce.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 81,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 128,
+        "description": "嵌套图片引用: ![](![](../images/4824008d-83ab-4281-8afa-e81d9880..."
+      },
+      {
+        "type": "corrupted_text",
+        "line": 230,
+        "description": "文本损坏: | **参数类型** | **参数名** | **类型** | **说![](../images/a..."
+      }
+    ],
+    "运算节点_mhnd4l06.md": [
+      {
+        "type": "cdn_link",
+        "line": 61,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhnd4l069tk0/ea6cf5bd-ad80-40be-9104-68bda89fa25f.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 79,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "corrupted_text",
+        "line": 260,
+        "description": "文本损坏: | **参数类型** | **参数名** | **类型** | **说明![](../images/..."
+      },
+      {
+        "type": "nested_image",
+        "line": 336,
+        "description": "嵌套图片引用: ![](![](../images/aac71daa-f3a9-4de6-af8b-7e7fbda8..."
+      },
+      {
+        "type": "nested_image",
+        "line": 512,
+        "description": "嵌套图片引用: ![](![](../images/cf77b3c1-f7ae-4f0d-8213-ca21f56f..."
+      },
+      {
+        "type": "nested_image",
+        "line": 645,
+        "description": "嵌套图片引用: ![](![](../images/23163daa-25dc-44ac-991c-61679296..."
+      }
+    ],
+    "选项卡_mh5jko05.md": [
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh5jko05fzyw/c423d851-ceee-47bd-b205-2d090c9c7acf.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh5jko05fzyw/c423d851-ceee-47bd-b205-2d090c9c7acf.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 39,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 34,
+        "description": "嵌套图片引用: | *初始生效选项卡* | 下拉菜单提供选项卡枚举  通过修改后面的勾选框，![](../image..."
+      },
+      {
+        "type": "nested_image",
+        "line": 37,
+        "description": "嵌套图片引用: 可以通过点击![](https://act-webstatic.mihoyo.com/ugc-tut..."
+      },
+      {
+        "type": "nested_image",
+        "line": 41,
+        "description": "嵌套图片引用: 点击“详细编辑”可进![](../images/2de29b16-d266-4f97-80c5-31..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 58,
+        "description": "图片插入在文本中: *选项卡图标* 点击![]()，可切换选项卡前面的图标。..."
+      },
+      {
+        "type": "nested_image",
+        "line": 76,
+        "description": "嵌套图片引用: ![]()![]()..."
+      }
+    ],
+    "造物_mhufqo0c.md": [
+      {
+        "type": "cdn_link",
+        "line": 45,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 41,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55![](..."
+      },
+      {
+        "type": "nested_image",
+        "line": 47,
+        "description": "嵌套图片引用: ## 2.特![](../images/d198aa9b-6845-46a3-98ac-f0c1be..."
+      }
+    ],
+    "道具_mhbgx0rs.md": [
+      {
+        "type": "cdn_link",
+        "line": 21,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhbgx0rspbqu/4c3132a5-daa8-4bd6-9889-079d418d8486.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 53,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "道具展示界面控件_mhjja1ip.md": [
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhjja1ipq9ck/1b62a47c-bae0-481b-b5cf-29e6102e1a8a.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhjja1ipq9ck/3781366d-eb2d-46d5-ad91-2daca57db0e9.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 49,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      }
+    ],
+    "铭牌_mh5n160t.md": [
+      {
+        "type": "cdn_link",
+        "line": 57,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 59,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 50,
+        "description": "嵌套图片引用: | *初始生效铭牌* | 下拉菜单提供铭牌枚举  通过修改后面的勾选框，可以修改生效情况，修改后生效..."
+      },
+      {
+        "type": "nested_image",
+        "line": 51,
+        "description": "嵌套图片引用: | *\\![](../images/f83a3a![](../images/0f3cc89f-34d..."
+      },
+      {
+        "type": "nested_image",
+        "line": 82,
+        "description": "嵌套图片引用: | 选择类型：整型  生效整数范围：按需配置整数列表 | 当本地过滤器返回值在生效整数范围内时![]..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 94,
+        "description": "图片插入在文本中: 通过![]()对指定项在编辑状态下的可见性进行调整。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 96,
+        "description": "图片插入在文本中: 通过![]()对指定项进行复制、粘贴、删除等操作。..."
+      },
+      {
+        "type": "nested_image",
+        "line": 151,
+        "description": "嵌套图片引用: |![](../images/faccc7![](../images/389db859-3fcc-4..."
+      },
+      {
+        "type": "nested_image",
+        "line": 162,
+        "description": "嵌套图片引用: | 配置参数 | 说明 ![](../images/4e501c40-3![](../images/..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 196,
+        "description": "图片插入在文本中: 通过**添加内容**![]()，可在导航指示器中增加内容项。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 198,
+        "description": "图片插入在文本中: 通过![]()对指定项在编辑状态下的可见性进行调整。..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 200,
+        "description": "图片插入在文本中: 通过![]()对指定项进行复制、粘贴、删除等操作。..."
+      }
+    ],
+    "阵营_mhe1ixri.md": [
+      {
+        "type": "cdn_link",
+        "line": 33,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhe1ixri46ta/c2d800ad-0a54-4b1e-882c-60d62122ef19.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 38,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhe1ixri46ta/05830fd6-369e-4915-8099-1ed165f08e83.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 42,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 48,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 29,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_181..."
+      },
+      {
+        "type": "nested_image",
+        "line": 34,
+        "description": "嵌套图片引用: ![](../images/948b1acc-a9bd-4ee0-9![](../images/6!..."
+      }
+    ],
+    "音效播放器_mhwiv89y.md": [
+      {
+        "type": "cdn_link",
+        "line": 25,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 31,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwiv89yra02/7c1b3d5c-1e29-43c5-b422-113bced28027.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 51,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 55,
+        "description": "嵌套图片引用: *挂接点*：可指定某个挂接点位置作为音![](../images/5296![](../images..."
+      }
+    ],
+    "预设点_mhfvn30c.md": [
+      {
+        "type": "cdn_link",
+        "line": 19,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 23,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhfvn30ctm9c/9fec83a9-de33-4455-aae9-80e41ee4aad4.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 27,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 15,
+        "description": "嵌套图片引用: ![](../images/30ed08![](../images/9fec83a9![](../i..."
+      },
+      {
+        "type": "nested_image",
+        "line": 39,
+        "description": "嵌套图片引用: ### **(4)![](../images/15790b35-8fb4-4c0d-a205-dd2..."
+      },
+      {
+        "type": "text_inserted_image",
+        "line": 80,
+        "description": "图片插入在文本中: 通过点击![]()，可展开所有预设点枚举，用于选择做入参..."
+      }
+    ],
+    "预设状态_mhw3s1ig.md": [
+      {
+        "type": "cdn_link",
+        "line": 37,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 43,
+        "url": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhw3s1ig4g0k/acfb6a0f-f293-48a1-a549-d8305e9512e0.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 31,
+        "description": "嵌套图片引用: ![](../images/30ed0806a04f93661a9006d69c02dc55_181..."
+      }
+    ],
+    "额外碰撞_mhuiob9d.md": [
+      {
+        "type": "cdn_link",
+        "line": 35,
+        "url": "https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 53,
+        "url": "https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "cdn_link",
+        "line": 54,
+        "url": "https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png",
+        "description": "使用CDN链接而非本地路径"
+      },
+      {
+        "type": "nested_image",
+        "line": 33,
+        "description": "嵌套图片引用: ![](../![](../images/3475474d-4364-437a-a39b-7c232..."
+      },
+      {
+        "type": "nested_image",
+        "line": 54,
+        "description": "嵌套图片引用: ![](../images/9d422ebd-9c3e-40f6-b4e7-d08ff464bd2a..."
+      },
+      {
+        "type": "nested_image",
+        "line": 65,
+        "description": "嵌套图片引用: | *\\*原生碰撞* ![](../images/2883858a-74fe-46bd-b870-3..."
+      }
+    ]
+  }
+}

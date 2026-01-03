@@ -41,11 +41,11 @@
 
 在视野检测负载优化![](../images/4bd63bd8-26e2-4d43-a424-b4a2cba9efc1.png)户实际游玩的场景会被分为多个大小相同的正方形区域，则在运行时，角色单位和场景内的其他实体都![](../images/af5b08e5-80d0-4c1f-b97c-0cbef93d9ae5.png)一个唯一的网格内：
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhlb1vivioys/4bd63bd8-26e2-4d43-a424-b4a2cba9efc1.png)
 
 以角色![](../images/6bfaaaf4-3508-4c94-9d85-4050e84a23e2.png)格为中心，周围的复数个网格即![](../images/14630baf-41ef-4a0f-9483-7ff91a6650e9.png)检测范围*”，在启动视野检测优化时，视野检测范围外的实体机会被“本地销毁”，并且在游玩时不可见，如下图，假设视![](../images/83cf84fe-5714-477b-8fb5-1abb86d1bd80.png)\*3：
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 ### (2)角色跨网格
 

@@ -32,7 +32,7 @@
 
 该部分定义了商店界面的外显信息
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhi9s7isvp50/06e7bbf8-b1cb-471d-9862-1e46555ba33e.png)
 
 *开启商店时同时打开背包*：功能开启时，当玩家打开商店界面时，![](../images/3c54a837-fed3-4211-82bb-78c0d0b52262.png)背包界面  
 *商品页签类型*：决定该商![](../images/76d1bd32-ca48-438f-85aa-db73b4236458.png)类方式

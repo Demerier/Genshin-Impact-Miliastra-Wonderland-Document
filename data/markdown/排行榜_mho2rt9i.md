@@ -16,7 +16,7 @@
 
 排行榜功能与*竞技段位*功能仅可选择一项开放，一个关![](../images/fff8231c-df6c-4057-9393-44192662859d.png)多个排行榜模板，在设置数据时，需要指定相应的排行榜模板序号，点击界面右下角的“新建排行榜”按钮，即可新增一个排行榜模板
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mho2rt9ir6ay/fff8231c-df6c-4057-9393-44192662859d.png)
 
 *排行榜设置*：排行榜功能整体逻辑的开关和有效性设置
 
@@ -48,7 +48,7 @@
 
 *成绩排序规则*：定义了数值以何种形式排列
 
-*越小越靠前*：数值越小的![](../images/aaa64cb8-b4![](../images/9674b961-510d-4cc5-b057-016cdea37a4f.png)b7-84bd-649fa106e914.png)榜信息越靠前
+*越小越靠前*：数值越小的![](../images/aaa64cb8-b4![](../images/9674b961-510d-4cc5-b057-016cdea37a4f.png)榜信息越靠前
 
 *越大越靠前*：数值越大的玩家的排行榜信息越靠前
 
@@ -60,8 +60,8 @@
 
 * 以浮点数设置玩家排行榜分数
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 * 以整数设置设置玩家排行榜分数
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)

@@ -34,10 +34,10 @@
 
 若填写状态值不存在，则不会进行预设状态值的切换
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 * **预设状态变化时**
 
 运行中的实体，预设状态及具体状态值变化时，会向节点图发送事件
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhw3s1ig4g0k/acfb6a0f-f293-48a1-a549-d8305e9512e0.png)

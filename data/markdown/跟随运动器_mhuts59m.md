@@ -36,17 +36,17 @@
 
 ## 2.追踪方式
 
-*追![](../images/823bb4cc-9d23-4c87-a59b-8e3![](../images/ac1ff35c-577b-40af-8d9e-f6eccb371b2a.png)9292.png)义了当实体上的跟随运动器组件执行追踪逻辑时，追踪表现的细节行为定义，![](../images/330f8a3e-b5fa-43a2-b2a7-4d299efc88d2.png)三种行为表现：
+*追![](../images/330f8a3e-b5fa-43a2-b2a7-4d299efc88d2.png)三种行为表现：
 
 ### (1)吸附追踪
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhuts59m9gju/823bb4cc-9d23-4c87-a59b-8e30bff69292.png)
 
 该方式会严格根据跟随位置的配置进行吸附
 
 ### (2)延时追踪
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 带有过渡时间的追踪赶方式。当跟随目标发生位置变化时，跟随运动器会在配置的过渡时间内逐步跟随到设定的跟随位置
 
@@ -54,9 +54,9 @@
 
 ### (3)定速追踪
 
-![]()![](../images/5c53e654-d1ba-40dd-877c-3f44f92188ca.png)定速度进行跟随的追踪方式。当跟随目标发生位置变化时，跟随运动器会用指定的速度进行跟随。
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)![](../images/5c53e654-d1ba-40dd-877c-3f44f92188ca.png)定速度进行跟随的追踪方式。当跟随目标发生位置变化时，跟随运动器会用指定的速度进行跟随。
 
-*初始速度*：跟随运动器![](../images/f87d5a86![](../images/8ce32c71-6![](../images/67a684d![](../images/2208f0b7-9328-4788-9753-f62939691d79.png)2-489e-86af-d1001263c662.png)84f-8a9a-b78d574c8200.png)-4bd4-bac4-527b130e2e5a.png)
+*初始速度*：跟随运动器![](../images/f87d5a86![](../images/8ce32c71-6![](../images/67a684d![](../images/2208f0b7-9328-4788-9753-f62939691d79.png)-4bd4-bac4-527b130e2e5a.png)
 
 *加速率*：每秒的速度提升值
 

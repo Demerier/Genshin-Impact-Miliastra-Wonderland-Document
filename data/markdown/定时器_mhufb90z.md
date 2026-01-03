@@ -28,19 +28,19 @@
 
 定时器运行过程中，可按需做暂停处理，暂停计时功能
 
-![](../images/30ed0806a04f93661a9006d69c02dc55_18![](../images/80237437-9009-4c89-a9e7-f3![](../images/573277c9-f509-41d7-b44f-22fc6522254f.png)0dd2e.png)431287328309.png)
+![](../images/30ed0806a04f93661a9006d69c02dc55_18![](../images/80237437-9009-4c89-a9e7-f3![](../images/573277c9-f509-41d7-b44f-22fc6522254f.png)
 
 *![](../images/f48b5531-384f-4fdc-b4cd-f854ddeb762a.png)器
 
 定时器运行过程中，若之前有暂停操作，可按需做恢复处理，继续计时
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhufb90zbnts/80237437-9009-4c89-a9e7-f3b01620dd2e.png)
 
 * 终止定时器
 
 在定时器运行过程中，可按需终止已创建的定时器
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 * 定时器触发时
 
@@ -48,4 +48,4 @@
 
 定时器序列序号，代表定时器序列的序号
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)

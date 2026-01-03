@@ -18,7 +18,7 @@
 
 ![](../images/f09801ed-04ed-4562-96fa-2c9183d9161e![](../images/836d8aff-d783-4930-9059-a4a5f1301e5c.png)体也可以同时选中多个，右键创建元件组（或合并元件组），元件组中心位置会自动计算确定。
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 # 三、修改元件组信息
 
@@ -26,10 +26,10 @@
 
 如图为包含两个元件的元件组
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhzhzb9rw0uy/322aa426-1281-437a-8a78-aa21bbb2c214.png)
 
 # 四、节点图创建元件组
 
 通过节点直接创建元件组，效果等同于分别创建其中的元件，
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)

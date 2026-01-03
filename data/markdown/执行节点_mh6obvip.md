@@ -55,7 +55,7 @@
 
 ## **4.定点位移**
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mh6obvipqv1g/35adfaa5-1178-4cb4-ba3b-b97dff4e32fd.png)
 
 **节点功能**
 
@@ -76,7 +76,7 @@
 
 ## **5.恢复生命值**
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 **节点功能**
 

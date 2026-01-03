@@ -16,13 +16,13 @@
 
 ## 1.基础信息
 
-![](../images/30ed0806a04f93661a9006d69c0![](../images/17a8838c-a264-47d2-8d9c-d5d6de0bda42.png)_1818194431287328309.png)
+![](../images/30ed0806a04f93661a9006d69c0![](../images/17a8838c-a264-47d2-8d9c-d5d6de0bda42.png)
 
 基础信息页签，可配置关卡实体的所有可用属性
 
 ## 2.通用组件
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 通用组件页签，可给关卡实体添加通用组件配置
 
@@ -30,11 +30,11 @@
 
 [自定义变量](./自定义变量_mhso1b9w.md)
 
-[全局计时器](/![](../![](../images/cbb8818b-43d2-4203-94da-d47e5cafa31f.png)s/3b2999c9-7d7d-448f-bd50-d54a550bc4bb.png)c/tutorial//detail/mhawd6rl5kpy)
+[全局计时器](/![](../![](../images/cbb8818b-43d2-4203-94da-d47e5cafa31f.png)
 
 ## 3.节点图
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
 
 节点图配置页签，可给关卡实体添加节点图或查看已添加的节点图
 
@@ -46,7 +46,7 @@
 
 部分特殊事件只有关卡类型的实体可以接收，其中包括：
 
-![]()
+![](https://webstatic.mihoyo.com/bh3/upload/officialsites/201908/ys_1565764084_7084.png)
 
 ![]()
 

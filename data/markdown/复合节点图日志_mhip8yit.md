@@ -16,18 +16,18 @@
 
 处于节点图调试模式中时，悬停于想要查看的已运行复合节点，可查看该复合节点输入输出值。
 
-![](../images/30ed0806a04f93661a9006d69c02dc55_18181![](../images/7a3d0792-0be9-43![](../images/f12433e5-49be-44fb-9c42-1354e2fc8a5b.p![](../images/f4575308-3f46-4fd5-9099-2ef0b495c72a.png)-376c12f5d952.png)287328309.png)
+![](../images/30ed0806a04f93661a9006d69c02dc55_18181![](../images/7a3d0792-0be9-43![](../images/f12433e5-49be-44fb-9c42-1354e2fc8a5b.p![](../images/f4575308-3f46-4fd5-9099-2ef0b495c72a.png)
 
 双击复合节点后，可以打开对应复合节点的调试模式（见下）。
 
 ## 3.复合节点调试模式
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/hk4eugc_cn/m20250630hy4cyt23nk/upload/30ed0806a04f93661a9006d69c02dc55_1818194431287328309.png)
 
 查看输入输出值：悬停于节点查看输入输出值。
 
-![]()
+![](https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhip8yit341o/7a3d0792-0be9-43a3-b5df-376c12f5d952.png)
 
 页签逻辑：每个生效逻辑树内的每个运行过的复合节点，打开调试模式时都会视作一个独立窗口。
 
-![]()
+![](https://fastcdn.mihoyo.com/mi18n/plat_cn/m202004281054311/upload/fb9fb8e171957fc3a06322e5f19c772f_6978451248621653135.png)
