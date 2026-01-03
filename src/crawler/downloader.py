@@ -34,10 +34,21 @@ class Downloader:
             # 创建保存目录
             os.makedirs(save_dir, exist_ok=True)
             
-            # 生成文件名
-            img_hash = hashlib.md5(img_url.encode()).hexdigest()
-            file_ext = img_url.split('.')[-1].lower()
-            filename = f"{img_hash}.{file_ext}"
+            # 生成文件名 - 使用CDN原始文件名
+            # 从URL中提取原始文件名
+            original_filename = os.path.basename(img_url).lower()
+            
+            # 确保文件名有扩展名
+            if '.' not in original_filename:
+                # 从URL中提取扩展名
+                file_ext = img_url.split('.')[-1].lower()
+                # 使用MD5哈希值作为文件名，加上扩展名
+                img_hash = hashlib.md5(img_url.encode()).hexdigest()
+                filename = f"{img_hash}.{file_ext}"
+            else:
+                # 使用原始文件名
+                filename = original_filename
+            
             save_path = os.path.join(save_dir, filename)
             
             # 下载图片

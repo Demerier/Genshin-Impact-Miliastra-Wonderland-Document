@@ -116,15 +116,94 @@ def crawl_single_page(url, spider, parser, downloader, doc_id_map):
         
         logger.info(f"Saved Markdown file: {filename}")
         
-        # 下载图片
+        # 下载图片并记录映射关系
         images_downloaded = 0
+        img_map = {}
         for img_url in images:
             downloaded_filename = downloader.download_image(img_url, IMAGES_DIR)
             if downloaded_filename:
                 images_downloaded += 1
+                img_map[img_url] = downloaded_filename
                 logger.info(f"Downloaded image: {downloaded_filename}")
             else:
                 logger.warning(f"Failed to download image: {img_url}")
+        
+        # 更新Markdown文件中的图片链接和本地跳转链接
+        if img_map or len(links) > 0:
+            # 读取保存的Markdown文件
+            markdown_path = os.path.join(MARKDOWN_DIR, filename)
+            with open(markdown_path, 'r', encoding='utf-8') as f:
+                markdown_content = f.read()
+            
+            # 替换图片链接
+            if img_map:
+                import re
+                
+                # 首先收集所有需要替换的图片链接模式
+                patterns = []
+                
+                # 1. 处理空图片链接 - 基于位置的匹配
+                empty_img_pattern = r'!\[\]\(\)'
+                empty_img_matches = list(re.finditer(empty_img_pattern, markdown_content))
+                
+                if empty_img_matches:
+                    # 将img_map转换为列表，保持顺序
+                    img_list = list(img_map.items())
+                    
+                    # 确保图片数量和空链接数量匹配
+                    min_count = min(len(empty_img_matches), len(img_list))
+                    
+                    # 基于位置替换空图片链接
+                    for i in range(min_count):
+                        match = empty_img_matches[i]
+                        img_url, local_filename = img_list[i]
+                        local_path = f"../images/{local_filename}"
+                        
+                        # 替换当前位置的空图片链接
+                        start_pos = match.start()
+                        end_pos = match.end()
+                        markdown_content = markdown_content[:start_pos] + f"![]({local_path})" + markdown_content[end_pos:]
+                
+                # 2. 替换所有完整的图片链接
+                for img_url, local_filename in img_map.items():
+                    # 创建本地相对路径
+                    local_path = f"../images/{local_filename}"
+                    # 替换CDN链接为本地相对路径（支持带标题的图片）
+                    markdown_content = markdown_content.replace(f"![]({img_url})", f"![]({local_path})")
+                    markdown_content = markdown_content.replace(f"![{img_url}]({img_url})", f"![]({local_path})")
+            
+            # 替换本地跳转链接
+            if links:
+                # 遍历所有链接
+                for link in links:
+                    # 提取文档ID
+                    doc_id = link.split('/')[-1]
+                    # 查找对应的本地文件名
+                    if doc_id in doc_id_map:
+                        title = doc_id_map[doc_id]
+                        local_filename = f"{title}_{doc_id[:8]}.md"
+                        # 创建本地相对路径
+                        local_path = f"./{local_filename}"
+                        
+                        # 提取基本URL部分，用于匹配不同格式的链接
+                        base_url = "/ys/ugc/tutorial/detail/"
+                        relative_link1 = f"/ys/ugc/tutorial//detail/{doc_id}"
+                        relative_link2 = f"{base_url}{doc_id}"
+                        
+                        # 使用正则表达式替换所有包含该链接的Markdown链接，无论链接文本是什么
+                        import re
+                        # 匹配所有包含该URL的Markdown链接
+                        for url_pattern in [link, relative_link1, relative_link2]:
+                            # 转义URL中的特殊字符，用于正则表达式
+                            escaped_url = re.escape(url_pattern)
+                            # 匹配Markdown链接格式：[任意文本](URL)
+                            link_pattern = re.compile(r'\[([^\]]+)\]\(\s*' + escaped_url + r'\s*\)')
+                            # 替换为本地链接
+                            markdown_content = link_pattern.sub(rf'[\1]({local_path})', markdown_content)
+            
+            # 保存更新后的Markdown文件
+            with open(markdown_path, 'w', encoding='utf-8') as f:
+                f.write(markdown_content)
         
         result["images_downloaded"] = images_downloaded
         result["success"] = True
