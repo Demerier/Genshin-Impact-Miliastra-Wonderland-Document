@@ -81,6 +81,9 @@ python src/main.py
 - 成果物自检规范
 - 成果物收集表
 - 人工审议意见表
+- 代码审查指南 (CODE_REVIEW_GUIDELINES.md)
+- 提交规范 (COMMIT_GUIDELINES.md)
+- 版本控制规范 (VERSIONING_GUIDELINES.md)
 
 ## 许可证
 
