@@ -3,6 +3,7 @@
 """
 
 from bs4 import BeautifulSoup
+import markdownify
 
 
 class Parser:
@@ -17,10 +18,14 @@ class Parser:
         Returns:
             解析后的内容
         """
-        # 定位内容区域
+        # 尝试多种选择器定位内容区域
         content_div = soup.select_one('.doc-view')
         if not content_div:
-            return None
+            content_div = soup.select_one('.content')
+        if not content_div:
+            content_div = soup.select_one('main')
+        if not content_div:
+            content_div = soup.select_one('body')
         
         # 提取标题
         title = soup.title.string if soup.title else ''
@@ -28,9 +33,12 @@ class Parser:
         # 提取正文内容
         content = str(content_div)
         
+        # 转换为Markdown格式
+        markdown_content = markdownify.markdownify(content, heading_style="ATX")
+        
         return {
             'title': title,
-            'content': content
+            'content': markdown_content
         }
     
     def parse_links(self, soup, base_url):
