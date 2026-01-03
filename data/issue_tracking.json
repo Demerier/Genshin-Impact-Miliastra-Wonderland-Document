@@ -1,0 +1,47 @@
+{
+  "project_name": "原神千星奇域·综合指南 - 网站爬取项目",
+  "audit_date": "",
+  "auditor": "",
+  "total_issues": 0,
+  "issues_by_severity": {
+    "critical": 0,
+    "medium": 0,
+    "minor": 0
+  },
+  "issues_by_type": {
+    "content": 0,
+    "format": 0,
+    "link": 0,
+    "image": 0,
+    "naming": 0,
+    "storage": 0,
+    "other": 0
+  },
+  "issues": [
+    {
+      "id": "",
+      "document_name": "",
+      "document_path": "",
+      "issue_type": "",
+      "severity": "",
+      "description": "",
+      "impact_range": "",
+      "fix_priority": "",
+      "fix_plan": "",
+      "status": "pending",
+      "assigned_to": "AI智能体",
+      "fix_start_time": "",
+      "fix_end_time": "",
+      "verification_result": ""
+    }
+  ],
+  "summary": {
+    "critical_issues_fixed": 0,
+    "medium_issues_fixed": 0,
+    "minor_issues_fixed": 0,
+    "total_issues_fixed": 0,
+    "fix_rate": 0.0,
+    "major_findings": [],
+    "improvement_suggestions": []
+  }
+}
