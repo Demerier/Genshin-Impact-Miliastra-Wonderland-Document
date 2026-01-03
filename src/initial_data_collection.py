@@ -1,0 +1,214 @@
+#!/usr/bin/env python3
+"""
+初始数据采集脚本
+用于提取所有待爬取URL和建立文档ID与中文标题的映射表
+"""
+
+import os
+import sys
+import json
+import requests
+from bs4 import BeautifulSoup
+
+# 将项目根目录添加到Python路径
+sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
+
+from config import logger
+
+# 起始URL
+START_URL = "https://act.mihoyo.com/ys/ugc/tutorial/detail/mh29wpicgvh0"
+# 数据存储目录
+DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
+# 映射表文件路径
+DOC_ID_MAP_FILE = os.path.join(DATA_DIR, "doc_id_map.json")
+# 待爬取URL列表文件路径
+URL_LIST_FILE = os.path.join(DATA_DIR, "url_list.txt")
+
+def main():
+    """主函数"""
+    logger.info("开始初始数据采集")
+    
+    # 创建数据目录
+    os.makedirs(DATA_DIR, exist_ok=True)
+    
+    try:
+        # 使用网站爬取执行计划中提供的文档ID映射表
+        logger.info("使用预定义的文档ID映射表")
+        
+        # 完整的文档ID映射表
+        doc_id_map = {
+            "mh29wpicgvh0": "读前须知",
+            "mhs2w008wf14": "更新日志",
+            "mhz71urk21nq": "界面介绍",
+            "mhn4bsi5lb58": "整体界面",
+            "mhwe1n94b1x6": "地形编辑",
+            "mhnffmieeqbg": "实体摆放",
+            "mhwp5h9d4h3e": "元件库",
+            "mhexhcr1qjh2": "战斗预设",
+            "mhn9vpia00qc": "关卡设置",
+            "mhie54ik9ovg": "试玩",
+            "mh9fj3rudd9q": "多人试玩",
+            "mho777i0ga90": "千星沙箱",
+            "mhxbd59urbfu": "资产导入导出",
+            "mhq6wdimcd84": "撤销与还原",
+            "mhf66q9jc4uq": "奇域资产中心",
+            "mhdtk89yhd6q": "概念介绍",
+            "mh2xoxrop0la": "单位",
+            "mhctmgi51lpo": "玩家",
+            "mh796lr44x0e": "复苏",
+            "mh3ecor1x5cm": "角色",
+            "mhufqo0c0tqw": "造物",
+            "mhlh4n9m4i56": "物件",
+            "mhciimiw86jg": "本地投射物",
+            "mh3pgiraqkiu": "关卡",
+            "mhjx2miruaos": "功能",
+            "mh3oxo0ojgxk": "基础信息",
+            "mhuqbn9yn5bu": "变换、原生碰撞、可见性和创建设置",
+            "mhrutdio6904": "模型",
+            "mhe1ixri46ta": "阵营",
+            "mhzldmiwdgu4": "单位标签",
+            "mhqmrlr6h58e": "实体布设组",
+            "mhlb1vivioys": "负载优化",
+            "mh6fj30p2cmo": "数据复制粘贴",
+            "mhtwkur42see": "特化配置",
+            "mhvyqz9xwu0q": "基础战斗属性",
+            "mhw9ut96q96y": "仇恨配置",
+            "mhvg40rc5w9i": "受击盒设置",
+            "mha42r0cwx74": "战斗设置",
+            "mh0ucw9e76f6": "能力单元",
+            "mh3rgo0c16c8": "常规设置",
+            "mhei6orvcbkm": "通用组件",
+            "mh5jko05fzyw": "选项卡",
+            "mhnmcmipncrg": "基础运动器",
+            "mh8w69rzuc3i": "碰撞触发器",
+            "mhso1b9wjica": "自定义变量",
+            "mhaqt9rgqv4u": "投射运动器",
+            "mhstl890y7xe": "角色扰动装置",
+            "mhawd6rl5kpy": "全局计时器",
+            "mh6rh59iil2i": "单位状态",
+            "mhufb90zbnts": "定时器",
+            "mh2pir0hat1s": "命中检测",
+            "mhuiob9dg1dm": "额外碰撞",
+            "mhuts59m9gju": "跟随运动器",
+            "mh4ppo02m1o8": "特效播放",
+            "mhmshmimtegs": "自定义挂接点",
+            "mhn95di01j84": "碰撞触发源",
+            "mhwiv89yra02": "音效播放器",
+            "mh5n160t2b6w": "铭牌",
+            "mhwtz297kp6a": "文本气泡",
+            "mh5y5001vqd4": "背包组件",
+            "mh63ox06afy8": "战利品",
+            "mho6gviqhsqs": "商店组件",
+            "mhfc0lr1tcke": "扫描标签",
+            "mh0pppib5eyc": "小地图标识",
+            "mhgkan9wgil6": "光源",
+            "mhjwjrr5n73i": "节点图",
+            "mhk23ora1wom": "基础概念",
+            "mhb3ho0k5l2w": "节点图编辑指引",
+            "mhmzm3rltetq": "资产",
+            "mhe1030vx380": "特效",
+            "mhw3s1ig4g0k": "预设状态",
+            "mh57xz9afh7e": "技能动画",
+            "mhnapxrumtzy": "界面控件",
+            "mhwkfsitckrw": "交互按钮界面控件",
+            "mhjja1ipq9ck": "道具展示界面控件",
+            "mhnltrr3g966": "文本框界面控件",
+            "mhen7r0djxkg": "弹窗界面控件",
+            "mhwpzpixrad0": "进度条界面控件",
+            "mhnrdor7uyra": "计时器界面控件",
+            "mhesro0hyn5k": "计分板界面控件",
+            "mh2teu0bmfbc": "卡牌选择器界面控件",
+            "mheybl0mdcqo": "高级概念",
+            "mhewyi0fjfvs": "界面控件组管理",
+            "mhozt0r74ng6": "界面布局",
+            "mhg1700h8bug": "界面控件组",
+            "mhfua005zpeg": "主镜头",
+            "mhjsw9rluwou": "外围系统",
+            "mho2rt9ir6ay": "排行榜",
+            "mhf45sisuup8": "竞技段位",
+            "mh65jrr2yj3i": "成就",
+            "mhx1du08nhwo": "关卡结算",
+            "mhjdhpi4sd10": "奇域礼盒",
+            "mht8l59439d6": "资源系统",
+            "mhbgx0rspbqu": "道具",
+            "mhkl2yin0cxo": "装备",
+            "mh2cr30yeak0": "货币",
+            "mhogfq9bf86q": "背包",
+            "mhkfj1iilnck": "掉落物",
+            "mhi9s7isvp50": "商店",
+            "mho81frl33im": "技能",
+            "mh6ate95agb6": "技能资源",
+            "mhodlcrpht3q": "职业",
+            "mhfvn30ctm9c": "预设点",
+            "mhhl0gire830": "护盾",
+            "mh333vim2h44": "路径",
+            "mhd7nxrfa8im": "单位状态",
+            "mhh5zgirw9cc": "其它概念",
+            "mhzcw29qjjma": "局内存档",
+            "mhk59aiqtwyk": "多语言文本",
+            "mhaneb9qnvay": "文字聊天",
+            "mhq9b601kh9k": "背景音乐",
+            "mhdznsie9up8": "环境配置",
+            "mhzhzb9rw0uy": "元件组",
+            "mhsok60iqlxk": "节点介绍",
+            "mhuto3r800b2": "服务器节点",
+            "mhw66orrrfkm": "执行节点",
+            "mhn7ko01v3yw": "事件节点",
+            "mhe8yn9bysd6": "流程控制节点",
+            "mhwbqlrw655q": "查询节点",
+            "mhnd4l069tk0": "运算节点",
+            "mhlv230i3opc": "客户端节点",
+            "mholjx05ji8w": "查询节点",
+            "mhfmxw9fn6n6": "运算节点",
+            "mh6obvipqv1g": "执行节点",
+            "mhxppurzujfq": "流程控制节点",
+            "mhor3u09y7u0": "其它节点",
+            "mhoyplr76zr2": "辅助功能",
+            "mho2hirgodxi": "负载计算功能",
+            "mhsumxr9cf3y": "附录",
+            "mhrvqvioautg": "能力单元效果",
+            "mhyg4i0inazs": "造物行为模式图鉴",
+            "mhpsmb91keka": "造物行为模式的未入战行为",
+            "mhzys1ic5eok": "造物技能说明",
+            "mhou93r2pxv2": "单位状态效果池",
+            "mhk7nlregm9q": "节点图高级特性",
+            "mhkirfrna1fy": "泛型引脚",
+            "mhtshailzs7w": "节点图变量",
+            "mhty17iqeht0": "复合节点",
+            "mhu951iz7wz8": "节点图日志",
+            "mhrnuz9izfne": "客户端节点图日志",
+            "mhip8yit341o": "复合节点图日志",
+            "mhlaj0r9bldi": "信号",
+            "mhubgk9yy8gy": "字典",
+            "mh3fmi0t99ns": "结构体"
+        }
+        
+        # 生成待爬取URL列表
+        logger.info("生成待爬取URL列表")
+        filtered_links = set()
+        base_url = "https://act.mihoyo.com/ys/ugc/tutorial/detail/"
+        
+        for doc_id, title in doc_id_map.items():
+            url = f"{base_url}{doc_id}"
+            filtered_links.add(url)
+        
+        # 保存待爬取URL列表
+        with open(URL_LIST_FILE, 'w', encoding='utf-8') as f:
+            for url in sorted(filtered_links):
+                f.write(f"{url}\n")
+        
+        # 保存文档ID映射表
+        with open(DOC_ID_MAP_FILE, 'w', encoding='utf-8') as f:
+            json.dump(doc_id_map, f, ensure_ascii=False, indent=2)
+        
+        logger.info(f"初始数据采集完成")
+        logger.info(f"共提取到 {len(filtered_links)} 个文档链接")
+        logger.info(f"URL列表已保存到: {URL_LIST_FILE}")
+        logger.info(f"文档ID映射表已保存到: {DOC_ID_MAP_FILE}")
+        
+    except Exception as e:
+        logger.error(f"初始数据采集失败: {e}")
+        raise
+
+if __name__ == "__main__":
+    main()

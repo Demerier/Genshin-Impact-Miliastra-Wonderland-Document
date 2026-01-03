@@ -4,6 +4,13 @@
 
 from bs4 import BeautifulSoup
 import markdownify
+import requests
+
+# 添加日志支持
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+from src.config import logger
 
 
 class Parser:
@@ -18,20 +25,60 @@ class Parser:
         Returns:
             解析后的内容
         """
-        # 尝试多种选择器定位内容区域
-        content_div = soup.select_one('.doc-view')
-        if not content_div:
-            content_div = soup.select_one('.content')
-        if not content_div:
-            content_div = soup.select_one('main')
-        if not content_div:
-            content_div = soup.select_one('body')
-        
         # 提取标题
         title = soup.title.string if soup.title else ''
         
+        # 尝试多种选择器定位内容区域
+        content_div = None
+        
+        # 1. 尝试查找所有可能的内容容器
+        selectors = [
+            '.doc-view', '.content', 'main', 'article', '.article', 
+            '.post', '.page-content', '.entry-content', '.main-content',
+            '#content', '.container', '.wrapper'
+        ]
+        
+        for selector in selectors:
+            content_div = soup.select_one(selector)
+            if content_div:
+                # 检查内容长度，排除过小的容器
+                if len(content_div.get_text(strip=True)) > 10:
+                    break
+        
+        # 2. 如果没有找到合适的容器，尝试从iframe中获取
+        if not content_div or len(content_div.get_text(strip=True)) <= 10:
+            logger.info("尝试从iframe中获取内容")
+            iframe = soup.find('iframe')
+            if iframe:
+                iframe_url = iframe.get('src')
+                if iframe_url:
+                    try:
+                        # 直接获取iframe内容
+                        session = requests.Session()
+                        session.headers.update({
+                            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+                        })
+                        response = session.get(iframe_url)
+                        response.raise_for_status()
+                        iframe_soup = BeautifulSoup(response.text, 'html.parser')
+                        
+                        # 在iframe中再次尝试查找内容
+                        for selector in selectors:
+                            content_div = iframe_soup.select_one(selector)
+                            if content_div and len(content_div.get_text(strip=True)) > 10:
+                                break
+                    except Exception as e:
+                        logger.error(f"Failed to get iframe content: {e}")
+        
+        # 3. 如果仍然没有找到，使用body
+        if not content_div:
+            content_div = soup.body
+        
         # 提取正文内容
-        content = str(content_div)
+        if content_div:
+            content = str(content_div)
+        else:
+            content = str(soup)
         
         # 转换为Markdown格式
         markdown_content = markdownify.markdownify(content, heading_style="ATX")
