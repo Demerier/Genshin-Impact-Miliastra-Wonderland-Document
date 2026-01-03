@@ -9,6 +9,8 @@
 # 标准库导入
 import sys
 import os
+import hashlib
+from pathlib import Path
 
 # 添加项目根目录到Python路径
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
@@ -24,6 +26,69 @@ from config import logger
 
 class Parser:
     """页面内容解析器"""
+
+    def __init__(self, images_dir="data/images"):
+        """初始化解析器
+
+        Args:
+            images_dir: 图片存储目录
+        """
+        self.images_dir = Path(images_dir)
+        # 确保图片目录存在
+        self.images_dir.mkdir(parents=True, exist_ok=True)
+
+    def get_image_hash(self, image_url):
+        """获取图片URL的哈希值，用于生成唯一文件名
+
+        Args:
+            image_url: 图片URL
+
+        Returns:
+            图片哈希值
+        """
+        hasher = hashlib.md5()
+        hasher.update(image_url.encode('utf-8'))
+        return hasher.hexdigest()
+
+    def download_image(self, image_url):
+        """下载图片到本地
+
+        Args:
+            image_url: 图片URL
+
+        Returns:
+            本地图片路径
+        """
+        try:
+            logger.info(f"开始下载图片: {image_url}")
+            
+            # 生成唯一文件名
+            image_hash = self.get_image_hash(image_url)
+            file_extension = Path(image_url.split('?')[0]).suffix or '.png'
+            local_filename = f"{image_hash}{file_extension}"
+            local_path = self.images_dir / local_filename
+            
+            # 如果图片已存在，直接返回本地路径
+            if local_path.exists():
+                logger.info(f"图片已存在: {local_path}")
+                return str(local_path)
+            
+            # 下载图片
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            }
+            response = requests.get(image_url, headers=headers, timeout=10)
+            response.raise_for_status()
+            
+            # 保存图片
+            with open(local_path, 'wb') as f:
+                f.write(response.content)
+            
+            logger.info(f"成功下载图片: {image_url} -> {local_path}")
+            return str(local_path)
+        except Exception as e:
+            logger.error(f"下载图片失败 {image_url}: {e}", exc_info=True)
+            return None
 
     def parse_content(self, soup):
         """解析页面内容
@@ -154,6 +219,18 @@ class Parser:
                     for item in list_items[1:]:
                         if item.parent:
                             item.decompose()
+
+        # 替换图片URL为本地路径
+        if content_div:
+            for img_tag in content_div.find_all('img'):
+                # 优先提取data-src属性，支持懒加载图片
+                img_url = img_tag.get('data-src') or img_tag.get('src')
+                if img_url:
+                    # 下载图片到本地
+                    local_image_path = self.download_image(img_url)
+                    if local_image_path:
+                        # 更新img标签的src属性为本地路径
+                        img_tag['src'] = local_image_path
 
         # 提取正文内容
         if content_div:
