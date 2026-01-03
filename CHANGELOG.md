@@ -3,6 +3,8 @@
 所有文档和代码变更的历史记录。
 
 ## [Unreleased]
+
+## [v1.0.1] - 2026-01-03
 ### Added
 - 创建了文档目录与索引 (DOCUMENTATION_INDEX.md)
 - 生成了初始测试报告 (TEST_REPORT.md)
@@ -35,5 +37,6 @@
 | DOCUMENTATION_INDEX.md | v1.0 | 2026-01-03 | 初始版本 | AI智能体 |
 | DOCUMENT_CHANGE_NOTIFICATION.md | v1.0 | 2026-01-03 | 初始版本 | AI智能体 |
 
-[Unreleased]: https://github.com/username/repo/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/username/repo/compare/v1.0.1...HEAD
+[v1.0.1]: https://github.com/username/repo/releases/tag/v1.0.1
 [v1.0.0]: https://github.com/username/repo/releases/tag/v1.0.0
