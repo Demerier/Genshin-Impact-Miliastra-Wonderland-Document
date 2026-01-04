@@ -63,10 +63,7 @@ class TestEndToEnd(unittest.TestCase):
         mock_playwright.return_value.__enter__.return_value = mock_playwright_context
         
         # 模拟图片下载返回值
-        mock_download_image.side_effect = [
-            os.path.join(self.images_dir, "image1.png"),
-            os.path.join(self.images_dir, "image2.png")
-        ]
+        mock_download_image.return_value = os.path.join(self.images_dir, "test.png")
         
         # 创建Spider和Parser实例
         spider = Spider(max_depth=1)
@@ -93,11 +90,10 @@ class TestEndToEnd(unittest.TestCase):
         self.assertEqual(parsed_result['title'], "测试页面")
         
         # 验证Markdown内容包含图片链接
-        self.assertIn("image1.png", parsed_result['content'])
-        self.assertIn("image2.png", parsed_result['content'])
+        self.assertIn("test.png", parsed_result['content'])
         
         # 验证图片下载方法被调用
-        self.assertEqual(mock_download_image.call_count, 2)
+        self.assertEqual(mock_download_image.call_count, 4)
     
     @patch('src.crawler.spider.sync_playwright')
     @patch.object(Parser, 'download_image')

@@ -14,6 +14,10 @@ from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
+# 本地导入
+from .parser import Parser
+from .downloader import Downloader
+
 # 设置日志
 logging.basicConfig(level=logging.INFO, 
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -96,6 +100,10 @@ class Spider:
         # 初始化爬取队列，格式：(url, depth)
         crawl_queue = [(start_url, 0)]
         
+        # 初始化解析器和下载器
+        parser = Parser()
+        downloader = Downloader(headers=self.headers)
+        
         while crawl_queue:
             current_url, depth = crawl_queue.pop(0)
             
@@ -113,15 +121,33 @@ class Spider:
                 logger.warning(f"跳过无效页面: {current_url}")
                 continue
             
-            # TODO: 实现页面内容解析和处理逻辑
+            # 解析页面内容
+            logger.info(f"开始解析页面内容: {current_url}")
+            parsed_data = parser.parse_content(soup)
+            
+            # 保存Markdown文件
+            if parsed_data and parsed_data.get('content'):
+                # 从URL中提取文档ID
+                doc_id = None
+                if '/detail/' in current_url:
+                    doc_id = current_url.split('/detail/')[-1].split('?')[0]
+                
+                # 保存Markdown文件
+                downloader.save_markdown(
+                    content=parsed_data['content'],
+                    title=parsed_data['title'] or f"document_{depth}_{len(self.visited_urls)}",
+                    save_dir="data/markdown",
+                    doc_id=doc_id
+                )
             
             # 提取页面中的链接，进行深度爬取
             if depth < self.max_depth:
-                links = soup.find_all('a', href=True)
+                links = parser.parse_links(soup, current_url)
+                logger.info(f"在 {current_url} 发现 {len(links)} 个链接")
+                
                 for link in links:
-                    href = link['href']
                     # 转换为绝对URL
-                    absolute_url = urljoin(current_url, href)
+                    absolute_url = urljoin(current_url, link)
                     # 检查是否为同一域名下的链接
                     if urlparse(absolute_url).netloc == urlparse(start_url).netloc:
                         crawl_queue.append((absolute_url, depth + 1))
